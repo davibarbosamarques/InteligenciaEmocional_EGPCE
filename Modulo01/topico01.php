@@ -38,7 +38,7 @@ include('layout/head.php');
                                 <br><!-- Titulo Figura -->
                                 <div class="text-center">
                                     <a href="imagens/Figura01.jpg" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" class="img-fluid" src="imagens/Figura01.jpg" width="300" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" class="img-fluid" src="imgs/topico01/Figura01.jpg" width="300" alt="Alt da imagem fica aqui">
                                     </a>
                                 </div>
 
@@ -58,8 +58,64 @@ include('layout/head.php');
                                 <!-- Imagem 01 - End -->
                             </div>
                         </div>
-                    </div>
 
+                        <p>De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
+
+                        <div class="storytelling">
+                        <div class="timeline">
+                            <input type="radio" checked class="profile" id="" name="bright">
+                            <input type="radio" class="settings" id="" name="bright">
+                            <input type="radio" class="posts" id="" name="bright">
+                            <input type="radio" class="books" id="" name="bright">
+                            <div class="topo">
+                                <ul class="nav">
+                                    <li class="st st1" >
+                                        <h2 class="inner">Profile</h2>
+                                    </li>
+                                    <li class="st st2">
+                                        <h2 class="inner">Account</h2>
+                                    </li>
+                                    <li class="st st3">
+                                        <h2 class="inner">Posts</h2>
+                                    </li>
+                                    <li class="st st4">
+                                        <h2 class="inner">Advanced</h2>
+                                    </li>
+                                </ul>
+                                <div class="line">
+                                    <span></span>
+                                </div>
+                            </div>
+                            <div class="conteudo">
+                                <section class="profile-section" id="secao">
+                                    <span></span>
+                                    <h3>Home Section</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                </section>
+                                <section class="Account-section" id="secao">
+                                    <span></span>
+                                    <h3>Account Section</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                </section>
+                                <section class="Posts-section" id="secao">
+                                    <span></span>
+                                    <h3>Posts Section</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                </section>            
+                                <section class="Advanced-section" id="secao">
+                                    <span></span>
+                                    <h3>Advanced Section</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                </section>
+                        </div>
+                        </div>
+
+                        </div>
+
+                        <p>Todos os tipos de inteligência são muito desejáveis e é bem provável que logo após ter lido sobre elas, você tenha se identificado com uma ou mais delas. É normal percebermos que existe em nós uma predominância de algumas dessas inteligências, enquanto outras nos parece um tanto difícil de praticar.</p>
+
+                        <p>Quanto a isso, é importante destacar que mesmo que tenhamos nos identificado mais com uma delas, todos os seres humanos, a princípio, possuem estas nove inteligências ou a capacidade de desenvolvê-las. Obviamente, nem todos os indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante singular em cada pessoa (HOWARD, 1999).</p>
+                    </div>
                 </div>
 
             </div>

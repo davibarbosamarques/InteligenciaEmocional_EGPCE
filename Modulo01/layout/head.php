@@ -24,6 +24,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
         integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     <!-- link do font awesome  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <!-- Favicon -->
@@ -33,6 +34,7 @@
     <link rel="stylesheet" href="assets/cssdapagina/style.css">
     <!-- link do script -->
     <script src="assets/js/script.js" defer></script>
+    <script src="assets/jsdapagina/script.js" defer></script>
 
 
     <title>EGPCE | Gestão do Tempo</title>

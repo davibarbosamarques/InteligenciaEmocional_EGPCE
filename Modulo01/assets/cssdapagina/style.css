@@ -1,0 +1,218 @@
+/* storytelling do davi */
+.storytelling{
+    box-sizing: border-box;
+    overflow: hidden;
+    border: 1px solid red;
+}
+.timeline{
+    margin: 150px auto;
+    border: 1px solid black;
+    min-height: 20vw;
+}
+input{
+    display: none;
+    position: absolute;
+}
+.topo{
+    position: relative;
+    width: 90%;
+    margin: auto;
+    height: 100px;
+    margin-top: 60px;
+    animation: trans .7s linear forwards;
+}
+ul.nav{
+    padding-top: 15px;
+    z-index: 100;
+    position: absolute;
+    width: 100%;
+    margin-top: -40px;
+}
+ul.nav li{
+    list-style: none;
+    float: left;
+    width: 25%;
+    text-align: center;
+    color: #aaa;
+    text-transform: uppercase;
+    font-size: 11px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: all .3s ease;
+    vertical-align: middle;
+    height: 60px;
+    position: relative;
+}
+ul.nav li::before{
+    content: "";
+    width: 25px;
+    height: 25px;
+    border: 2px solid #aaa;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    transition: all .3s ease;
+}
+ul.nav li:hover::before{
+    border: 2px solid #fff;
+    background: green;
+
+}
+ul.nav li .inner{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    font-size: 14px;
+    font-weight: bolder;
+}
+ul.nav li.active,
+ul.nav li:hover{
+    color: #444;
+}
+ul.nav li::after{
+    content: '' !important;
+    display: block !important;
+    width: 7px;
+    height: 7px;
+    background: #777 !important;
+    border-radius: 50%;
+    margin: auto;
+    border: 7px solid #fff;
+    margin-top: 40px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,.2);
+}
+ul.nav li:hover::after,
+ul.nav li.active::after{
+    background: blue;
+}
+ul li h2{
+    border-bottom: none !important;
+}
+.line{
+    width: 76%;
+    margin: auto;
+    background: #eee;
+    height: 7px;
+    position: absolute;
+    left: 11.5%;
+    top: 52px;
+    z-index: 1;
+    border-radius: 50px;
+}
+.line span {
+    content: '';
+    width: 2%;
+    height: 100%;
+    background-image: linear-gradient(to bottom,#26a737 0%, #2db39e 100%);
+    position: absolute;
+    z-index: 2;
+    border-radius: 50px;
+    transition: all .8s ease;
+}
+
+.conteudo{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    animation: anim .7s linear forwards;
+}
+ #secao{
+    width: 70%;
+    margin: auto;
+    background-image: linear-gradient(to top,#26a737 0%, #2db39e 100%);
+    border-radius: 4px;
+    padding: 30px;
+    color: #fff;
+} 
+#secao span{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+h3{
+    font-weight: 900;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+ #secao p{
+    padding: 30px 40px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 13px;
+}
+
+.profile:checked ~ .topo .nav li.st1::before,
+
+.settings:checked ~ .topo .nav li.st1::before,
+.settings:checked ~ .topo .nav li.st2::before,
+
+.posts:checked ~ .topo .nav li.st1::before,
+.posts:checked ~ .topo .nav li.st2::before,
+.posts:checked ~ .topo .nav li.st3::before,
+
+.books:checked ~ .topo .nav li.st1::before,
+.books:checked ~ .topo .nav li.st2::before,
+.books:checked ~ .topo .nav li.st3::before,
+.books:checked ~ .topo .nav li.st4::before{
+    border: 2px solid #fff;
+    background: green;
+    transition: all .3s ease;
+}
+.settings:checked ~ .topo .line span{
+    width: 35%;
+}
+.posts:checked ~ .topo .line span{
+    width: 68%;
+}
+.books:checked ~ .topo .line span{
+    width: 100%;
+}
+
+.profile-section,
+.Account-section,
+.Posts-section,
+.Advanced-section{
+    transform: scale(0);
+    transform-origin: center bottom;
+    transition: all .7s ease;
+    position: absolute;
+    top: 0;
+}
+.profile:checked ~ .conteudo .profile-section,
+.settings:checked ~ .conteudo .Account-section,
+.posts:checked ~ .conteudo .Posts-section,
+.books:checked ~ .conteudo .Advanced-section{
+    display: block;
+    transform: scale(1);
+    transform-origin: bottom;
+}
+@keyframes anim{
+    0%{
+        opacity: 0;
+        transition: translateY(40px);
+    }
+    50%{
+        opacity: .5;
+        transform: translateY(20px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+@keyframes trans{
+    0%{
+        opacity: 0;
+        transition: translateY(-40px);
+    }
+    50%{
+        opacity: .5;
+        transform: translateY(-20px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}

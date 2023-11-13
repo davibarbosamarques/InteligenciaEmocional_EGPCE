@@ -93,7 +93,9 @@ body::-webkit-scrollbar-thumb {
     background-color: rgb(173, 173, 173);
     border-radius: 10px;
 }
-
+.all-conteudo{
+    transition: 0.3s;
+}
 /* aqui eu defini algumas propriedades que "ajudam" a nav a ficar animada --jayron-- */
 #navmenu {
     position: fixed;
