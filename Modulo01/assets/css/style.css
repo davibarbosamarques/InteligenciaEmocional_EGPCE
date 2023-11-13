@@ -94,6 +94,10 @@ body::-webkit-scrollbar-thumb {
     border-radius: 10px;
 }
 
+.all-conteudo{
+    transition: 0.3s;
+}
+
 /* aqui eu defini algumas propriedades que "ajudam" a nav a ficar animada --jayron-- */
 #navmenu {
     position: fixed;
@@ -477,8 +481,7 @@ hr {
     display: flex;
     justify-content: center;
     font-family: 'Raleway' !important;
-    margin-bottom: 2rem;
-    cursor: pointer;
+    margin-bottom: 2rem;z
 }
 
 .accordion {
