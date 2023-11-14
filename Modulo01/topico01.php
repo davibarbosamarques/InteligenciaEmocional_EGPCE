@@ -61,6 +61,7 @@ include('layout/head.php');
 
                         <p>De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
 
+                        
                         <div class="storytelling">
                         <div class="timeline">
                             <input type="radio" checked class="profile" id="" name="bright">
@@ -107,9 +108,8 @@ include('layout/head.php');
                                     <h3>Advanced Section</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
                                 </section>
+                            </div>
                         </div>
-                        </div>
-
                         </div>
 
                         <p>Todos os tipos de inteligência são muito desejáveis e é bem provável que logo após ter lido sobre elas, você tenha se identificado com uma ou mais delas. É normal percebermos que existe em nós uma predominância de algumas dessas inteligências, enquanto outras nos parece um tanto difícil de praticar.</p>

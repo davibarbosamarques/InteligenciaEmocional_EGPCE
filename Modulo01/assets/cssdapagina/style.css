@@ -2,24 +2,29 @@
 .storytelling{
     box-sizing: border-box;
     overflow: hidden;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .timeline{
     margin: 150px auto;
-    border: 1px solid black;
-    min-height: 20vw;
+    /* border: 1px solid black; */
+    min-height: 20vw !important;
 }
 input{
     display: none;
     position: absolute;
 }
 .topo{
-    position: relative;
+    /* position: relative; */
     width: 90%;
     margin: auto;
     height: 100px;
     margin-top: 60px;
     animation: trans .7s linear forwards;
+}
+
+
+.topo ul.nav{
+    box-shadow: none !important;
 }
 ul.nav{
     padding-top: 15px;
@@ -214,5 +219,18 @@ h3{
     100%{
         opacity: 1;
         transform: translateY(0px);
+    }
+}
+@media (max-width: 768px) {
+    .conteudo {
+        position: static; /* Remova o position: absolute */
+    }
+
+    ul.nav {
+        width: 100%; /* Ocupa 100% da largura em telas menores */
+    }
+
+    #secao {
+        margin-bottom: 100vh !important; /* Adicione margem na parte inferior conforme necessário */
     }
 }
