@@ -89,7 +89,7 @@
                                     <article>
                                         <div class="front">
                                             <header>
-                                                <h2>CLIQUE</h2>
+                                                <h2>Clique para saber mais</h2>
                                                 <span class="material-symbols-outlined"> <i
                                                         class="fa-solid fa-hand-pointer"></i> </span>
                                             </header>
@@ -117,7 +117,7 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2>CLIQUE</h2>
+                                                <h2>Clique para saber mais</h2>
                                                 <i class="fa-solid fa-hand-pointer"></i>
                                             </header>
                                             <div class="text-left">
