@@ -35,27 +35,35 @@ include('layout/head.php');
 
                             </div>
                             <div class="col-md-6">
-                                <br><!-- Titulo Figura -->
-                                <div class="text-center">
-                                    <a href="imagens/Figura01.jpg" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                        <img class="img-fluid wow fadeInRight" data-wow-delay="0.5s" class="img-fluid" src="imgs/topico01/Figura01.jpg" width="300" alt="Alt da imagem fica aqui">
-                                    </a>
-                                </div>
+                        <!-- Titulo Figura -->
+                        <div class="text-center img-01">
+                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
+                                Representação
+                                do tempo na mente humana</p>
+                            <div class="zoom">
+                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
+                                    <img class="w-50" src="imgs/topico01/Figura01.jpg" alt="Imagem que remete a organização" id="img-1">
+                                </a>
+                            </div>
+                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> banco de imagens
+                                gratuitas do canvas, 2020</p>
+                        </div>
 
-                                <!-- Imagem 01 - MODAL -->
-                                <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-centered modal-lg">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <img class="img-fluid" src="imagens/Figura01.jpg" alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer text-center">
-                                                <p class="TituloFigura"><strong>Figura 01:</strong> </p>
-                                            </div>
-                                        </div>
-                                    </div>
+                        <!-- Imagem 01 - MODAL (Audi)-->
+                        <div class="modal fade text-center" id="Imagem01" tabindex="-1"
+                            aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div
+                                class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                <div class="modal-content w-50">
+                                    <img class="img-fluid" src="imgs/topico01/Figura01.jpg" alt="Alt da imagem fica aqui">
                                 </div>
-                                <!-- Imagem 01 - End -->
+                                <div class="modal-footer w-50 bg-light justify-content-center">
+                                    <p class="text-secondary"><strong>Fonte:</strong> banco de imagens
+                                        gratuitas do canvas, 2020</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Imagem 01 - End  (Audi)-->
                             </div>
                         </div>
 
