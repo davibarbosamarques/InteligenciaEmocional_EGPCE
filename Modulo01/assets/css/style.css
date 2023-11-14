@@ -93,11 +93,9 @@ body::-webkit-scrollbar-thumb {
     background-color: rgb(173, 173, 173);
     border-radius: 10px;
 }
-
 .all-conteudo{
     transition: 0.3s;
 }
-
 /* aqui eu defini algumas propriedades que "ajudam" a nav a ficar animada --jayron-- */
 #navmenu {
     position: fixed;
@@ -430,7 +428,7 @@ h2 {
     padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
     color: #44833D;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 /* estilo do conteudo da primeira pagina */
@@ -481,21 +479,22 @@ hr {
     display: flex;
     justify-content: center;
     font-family: 'Raleway' !important;
-    margin-bottom: 2rem;z
+    margin-bottom: 2rem;
+    cursor: pointer;
 }
 
 .accordion {
     width: 1000px;
-    /*define o tamanho do acordeon*/
+    /* define o tamanho do acordeon */
     margin: 40px 10px 0px 10px;
-    /*coloquei o top só para tirar lá de cima e nas laterais para no reponsivo não grudar na tela*/
+    /* /coloquei o top só para tirar lá de cima e nas laterais para no reponsivo não grudar na tela/ */
 }
 
 .accordion #content .caixaprincipal {
     text-decoration: none;
     display: block;
     padding: 10px 20px;
-    /*linha de baixo da caixa principal*/
+    /* linha de baixo da caixa principal */
     font-size: 1.4em;
     padding-left: 1rem;
     border-radius: 7px 7px 0px 0px;
@@ -525,9 +524,9 @@ hr {
 /* CAIXA DUVIDA */
 .accordion #content .caixaprincipal#tituloDuvida {
     background-color: #2A8C82;
-    /*cor da caixa principal curiosidade*/
+    /* /cor da caixa principal curiosidade/ */
     color: #fffffff6;
-    /*cor da palavra na caixa principal*/
+    /* /cor da palavra na caixa principal/ */
 }
 
 #Duvida p {
@@ -553,9 +552,9 @@ hr {
 /* CAIXA IMPORTANTE */
 .accordion #content .caixaprincipal#tituloimportante {
     background-color: #f18519;
-    /*cor da caixa principal importante*/
+    /* /cor da caixa principal importante/ */
     color: #fffffee0;
-    /*cor da palavra na caixa principal*/
+    /* /cor da palavra na caixa principal/ */
 }
 
 [data-theme="dark"] .accordion #content .caixaprincipal#tituloimportante {
@@ -596,7 +595,7 @@ hr {
 /* CAIXA FIQUE ATENTO */
 .accordion #content .caixaprincipal#titulofiqueatento {
     background-color: #edb009;
-    /*cor da caixa principal fique atento*/
+    /* /cor da caixa principal fique atento/ */
     color: #ffffffe0;
 }
 
@@ -626,7 +625,7 @@ hr {
 
 .accordion #content .caixaprincipal#tituloreflita {
     background-color: #3be3e2;
-    /*cor da caixa principal reflita*/
+    /* /cor da caixa principal reflita/ */
     color: #feffffe0;
 }
 
@@ -651,7 +650,7 @@ hr {
 
 .accordion #content .caixaprincipal#tituloexemplo {
     background-color: #49d199;
-    /*cor da caixa principal reflita*/
+    /* /cor da caixa principal reflita/ */
     color: #ffffffe0;
 }
 
@@ -679,7 +678,7 @@ hr {
 
 .accordion #content .caixaprincipal#tituloSaibaMais {
     background-color: #3be3e2;
-    /*cor da caixa principal reflita*/
+    /* /cor da caixa principal reflita/ */
     color: #ffffffe0;
 }
 
@@ -694,7 +693,7 @@ hr {
 
 .accordion #content .caixaprincipal#tituloexemplo {
     background-color: #49d199;
-    /*cor da caixa principal reflita*/
+    /* /cor da caixa principal reflita/ */
     color: #ffffffdc;
 }
 
@@ -710,9 +709,9 @@ hr {
 /* CAIXA CURIOSIDADES */
 .accordion #content .caixaprincipal#tituloCuriosidade {
     background-color: #a042e5;
-    /*cor da caixa principal curiosidade*/
+    /* /cor da caixa principal curiosidade/ */
     color: #fffffff6;
-    /*cor da palavra na caixa principal*/
+    /* /cor da palavra na caixa principal/ */
 }
 
 #Curiosidade p {
@@ -743,7 +742,7 @@ hr {
     padding-right: 20px;
     background-color: #ff7f0033;
     border: none;
-    /*linha de baixo da caixa principal*/
+    /* /linha de baixo da caixa principal/ */
     margin-bottom: 0;
     border-radius: 0px 0px 7px 7px;
 
@@ -863,6 +862,13 @@ o estado inicial de height 0 manteria o texto aparecendo */
     border-left: 5px solid #44833D;
     border-radius: 7px;
     padding: 1.5rem;
+}
+
+.bd-topico04{
+    border-left: 5px solid #5a8dee;
+}
+.bd-topico04-2{
+    border-left: 5px solid #f0ad4e;
 }
 
 
@@ -1045,7 +1051,7 @@ h2,
 
 }
 
-/*FIM DA CONFIGURAÇÃO DO MODO ESCURO*/
+/* /FIM DA CONFIGURAÇÃO DO MODO ESCURO/ */
 
 /* EFEITO DE ZOOM NA IMAGEM ADAPTADO (AUDI) */
 .zoom {

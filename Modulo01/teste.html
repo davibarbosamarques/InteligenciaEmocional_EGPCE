@@ -1,368 +1,46 @@
-<!-- heade -->
-<?php
-    include( 'layout/head.php' );
-    ?>
+<!DOCTYPE html>
+<html lang="pt-br">
 
-<body>
-    <!-- nav -->
-    <?php
-    include( 'layout/nav.php' );
-    ?>
-
-    <!-- menu -->
-    <?php
-    include( 'layout/menu.php');
-    ?>
-
-
-    <div class="all-conteudo">
-        <section>
-            <div class="main-content container-fluid">
-
-                <!-- imagem  -->
-                <div class="row">
-                    <!-- Begin row -->
-                    <div class="col-md-1"></div>
-                    <div class="col-md-10 col-sm-8 container-fluid">
-
-                        <!-- Título -->
-                        <h2 class="Titulo fw-bolde scrool">02 - Qual é a melhor inteligência?</h2>
-                        <!-- Título -->
-
-                        <!-- Citação com borda verde (esquerda) -->
-                        <div class="bd-callout bd-callout-success m-5">
-
-                            <!-- blockquote do bootstrap -->
-                            <figure class="d-flex justify-content-evenly">
-                                <p class="d-flex align-items-center">
-                                    Se não podemos possuir o máximo grau de inteligência nos <br>
-                                    nove tipos citados acima, talvez você tenha se questionado <br>
-                                    quais deles você deveria optar por desenvolver, ou seja, <br>
-                                    quais desses tipos de inteligência dão mais vantagens <br>
-                                    aos indivíduos?
-                                </p>
-
-                                <blockquote class="blockquote">
-                                    <div class="text-center img-01">
-                                        <p class="TituloFigura FonteMenor text-secondary p-2">
-                                            <strong>Figura 02:</strong>
-                                            Representação do cérebro racional e emocional
-                                        </p>
-                                        <div class="zoom">
-                                            <a href="" data-bs-toggle="modal" data-bs-target="#Imagem2">
-                                                <img src="imgs/topico02/Figura02.png"
-                                                    alt="Imagem que remete a organização" id="img-1">
-                                            </a>
-                                        </div>
-                                        <p class="FonteFigura FonteMenor text-secondary">
-                                            <strong>Fonte:</strong> banco de imagens gratuitas, Canvas, 2020.
-                                        </p>
-                                    </div>
-
-                                    <!-- Imagem - MODAL-->
-                                    <div class="modal fade text-center" id="Imagem2" tabindex="-1"
-                                        aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                        <div
-                                            class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                            <div class="modal-content w-75">
-                                                <img class="img-fluid" src="imgs/topico02/Figura02.png"
-                                                    alt="Alt da imagem fica aqui">
-                                            </div>
-                                            <div class="modal-footer w-75 bg-light justify-content-center">
-                                                <p class="text-secondary"><strong>Fonte:</strong> banco de imagens
-                                                    gratuitas, Canvas, 2020.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Imagem - End-->
-                                </blockquote>
-                            </figure>
-                        </div>
-                        <!-- Citação com borda verde (esquerda) -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CDN DO BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+    <!-- link do scroollrevel -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <!-- Cdn do bootstrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <!-- cdn jquery  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- link do font awesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="http://ava.egp.ce.gov.br/2018/desv/logo/favicon.png" />
+    <!-- nosso css -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/cssdapagina/style.css">
+    <!-- link do script -->
+    <script src="assets/js/script.js" defer></script>
+    <!-- link do wow.js -->
+    <link rel="stylesheet" href="animate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
 
 
-                        <div class="container mt-4">
-                            <div class="cards">
-                                <label id="summary">
-                                    <input type="checkbox" />
-                                    <article>
-                                        <div class="front">
-                                            <header>
-                                                <h2>CLIQUE</h2>
-                                                <span class="material-symbols-outlined"> <i
-                                                        class="fa-solid fa-hand-pointer"></i> </span>
-                                            </header>
-
-                                            <p class="text-left paragrafo fs-6">
-                                                A resposta para esta pergunta é que o tipo de inteligência que você
-                                                deseja possuir está
-                                                relacionada ao tipo de atividade que pratica ou deseja praticar. Um
-                                                indivíduo pode correr
-                                                tão rápido quanto Usain Bolt, embora não seja capaz de influenciar
-                                                milhares de pessoas como
-                                                uma Oprah Winfrey. Outro pode desenvolver teorias utilizando física
-                                                e matemática como Albert
-                                                Einstein, mas esse mesmo indivíduo dificilmente conseguirá tocar ou
-                                                compor como Amadeus
-                                                Mozart. Ainda, alguém poderia construir monumentos e edifícios como
-                                                Oscar Niemeyer, e ainda
-                                                assim não ser capaz de copiar um único salto ornamental da Daiane
-                                                dos Santos. Em resumo, não
-                                                importa o quão genial uma pessoa possa ser em algo específico, ela
-                                                jamais será capaz de se
-                                                destacar em tudo.
-                                            </p>
-
-                                        </div>
-                                        <div class="back">
-                                            <header>
-                                                <h2>CLIQUE</h2>
-                                                <i class="fa-solid fa-hand-pointer"></i>
-                                            </header>
-                                            <div class="text-left">
-                                                <p class="paragrafo">No entanto, a Inteligência Emocional, que abrange
-                                                    as inteligências
-                                                    intrapessoal e
-                                                    interpessoal, é fundamental em quaisquer tipos de trabalhos ou
-                                                    atividades e, por esse
-                                                    motivo, precisam ser desenvolvidas por todos. De fato, a
-                                                    Inteligência Emocional é
-                                                    considerada pelo <a
-                                                        href="https://www.weforum.org/agenda/2020/02/emotional-intelligence-career-life-personal-development/"
-                                                        target="_blank" class="aref">Fórum Econômico Mundial</a> como
-                                                    uma das dez habilidades
-                                                    mais importantes para a carreira, bem como um fator decisivo para
-                                                    explicar a alta
-                                                    performance e o sucesso da maioria dos profissionais (RATCHEVA,
-                                                    LEOPOLD e SAA ZAHIDI, 2020).
-                                                </p>
-                                            </div>
-
-                                        </div>
-                                    </article>
-                                </label>
-                            </div>
-                        </div>
-
-                        <p class="scrool">
-                            Nossa sociedade, por muitas décadas, e mesmo nos dias atuais, tratou
-                            de destacar
-                            especialmente as inteligências ligadas à lógica matemática e
-                            linguística, as quais costumam
-                            ser muito importantes para as habilidades profissionais e técnicas
-                            (OSHO, 2016).
-                        </p>
-
-                        <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
-                        <section class="container">
-                            <div class="accordion ">
-                                <section id="content">
-                                    <div class="caixaprincipal" id="titulofiqueatento">
-                                        <div class="div_teste">
-                                            <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE ATENTO
-                                            </div>
-                                            <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
-                                        </div>
-                                    </div> <!--caixa Principal-->
-                                    <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
-                                        <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong>
-                                        </p>
-                                        <p class="txt-caixasecundaria">
-                                            Um exemplo que destaca bem essa preferência são os testes de QI que
-                                            avaliavam as habilidades técnicas e cognitivas dos indivíduos relacionadas
-                                            ao pensamento lógico, resolução de problemas, memorização, habilidades
-                                            verbais, entre outras.
-
-                                            <br><br>
-
-                                            Assista ao vídeo de Teste de QI de 5 Perguntas que Vai Detectar o Seu
-                                            Intelecto, do canal INCRÍVEL.
-                                        </p>
-                                    </div>
-                                </section>
-                        </section>
-                        <!-- FIM DA CAIXA FIQUE ATENTO -->
-
-                        <!-- Iframe - video -->
-                        <div class="container iframe-container">
-                            <iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/bjdOErjaUeY?si=8bCaxsXyBtLVe39W"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                        </div>
-                        <!-- fim do Iframe -->
-
-                        <div class="teste scrool d-flex justify-content-evenly mt-5">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-6 ">
-                                    <p class="text-start">
-                                        Não por acaso, os pesquisadores acabaram formulando teorias que demonstravam que
-                                        apenas
-                                        uma pequena parcela da população era “muito inteligente”, sendo que a grande
-                                        maioria
-                                        estava na média ou mesmo abaixo dela. Ora, se nossas inteligências estão
-                                        distribuídas de
-                                        modo aleatório, obviamente apenas um pequeno grupo de pessoas será extremamente
-                                        eficiente em uma ou mais delas.
-                                    </p>
-                                </div>
-
-                                <div class="col-sm-12 col-md-6 ">
-                                    <p class="text-right">
-                                        A partir desses resultados, percebeu-se que estes tipos de testes eram
-                                        extremamente
-                                        limitados e preconceituosos, visto que destacavam apenas um pequeno número de
-                                        habilidades humanas que não reflete a diversidade dos seres. Conforme destacado
-                                        acima,
-                                        cada tipo de atividade que um ser humano queira exercer estará relacionado a um
-                                        tipo de
-                                        inteligência distinta. Bill Gates, por exemplo, talvez não fizesse bom uso das
-                                        habilidades de um grande corredor, enquanto um esportista provavelmente não
-                                        precisa das
-                                        habilidades de um empreendedor.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <p class="scrool mt-2">
-                            Entretanto, isso de modo algum nos autoriza a pensar que as habilidades de um milionário
-                            sejam mais importantes que as de um atleta. No entanto, socialmente, fomos condicionados a
-                            valorizar mais alguns tipos de habilidades - como as lógico-matemáticas - em prejuízo de
-                            outras - como as motoras e musicais.
-                        </p>
-
-                        <!-- CAIXA DE TEXTO IMPORTANTE -->
-                        <section class="container">
-                            <div class="accordion">
-                                <section id="content">
-                                    <div class="caixaprincipal" id="tituloimportante">
-                                        <div class="div_teste">
-                                            <div><i class="bi bi-exclamation-circle"></i> IMPORTANTE </div>
-                                            <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
-                                        </div>
-                                    </div> <!--caixa Principal-->
-                                    <div class="accordion-content" id="importante">
-                                        <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong>
-                                        </p>
-                                        <p class="txt-caixasecundaria">
-                                            Um primeiro passo para corrigir essa desvalorização foi a criação de quadros
-                                            de inteligências muito mais abrangentes, como o que já foi mencionado acima,
-                                            proposto por Howard Gardner. Neste caso, quando adota-se o ponto de vista
-                                            das múltiplas inteligências, um indivíduo “muito inteligente” seria aquele
-                                            que pudesse mobilizar de forma eficiente o maior número de inteligências, e
-                                            não apenas ser muito bom em algo. O motivo disso é que há vários exemplos de
-                                            indivíduos extremamente habilidosos em um tipo de tarefa, mas que falham em
-                                            tantas outras que são consideradas relativamente fáceis para a maioria dos
-                                            indivíduos (HOWARD, 1999).
-                                        </p>
-                                        <!--caixa secundaria-->
-                                    </div>
-                                </section>
-                            </div>
-                        </section>
-                        <!-- FIM DA CAIXA IMPORTANTE -->
-
-                        <P class="scrool">
-                            No caso específico da Inteligência Emocional, é preciso considerar que, independente da
-                            capacidade que um indivíduo tenha para correr, dançar, escrever, cantar ou resolver fórmulas
-                            matemáticas, todos os seres humanos, para se construírem como indivíduos e se relacionarem
-                            com os demais, necessitam mobilizar as inteligências intrapessoal e interpessoal, sendo elas
-                            indispensáveis à convivência social.
-                        </P>
-
-                        <p class="scrool">
-                            Como resultado disso, os indivíduos que não possuem nenhuma dessas inteligências como
-                            preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta razão, os livros e
-                            treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais disseminados.
-                            Inclusive, você que se matriculou neste curso provavelmente está em busca de aprender novas
-                            técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
-                        </p>
-
-                        <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
-                        <section class="container">
-                            <div class="accordion ">
-                                <section id="content">
-                                    <div class="caixaprincipal" id="titulofiqueatento">
-                                        <div class="div_teste">
-                                            <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE ATENTO
-                                            </div>
-                                            <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
-                                        </div>
-                                    </div> <!--caixa Principal-->
-                                    <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
-                                        <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong>
-                                        </p>
-                                        <p class="txt-caixasecundaria">
-                                            A Inteligência Emocional inclui a flexibilidade emocional, empatia,
-                                            capacidade de gerenciar o estresse, autoconhecimento, autoestima, entre
-                                            outros. Estas são habilidades que nos auxiliam a lidar com as nossas emoções
-                                            e com as dos demais no dia a dia, e são especialmente úteis em situações de
-                                            mudanças de ambiente e contexto (CURY, 2007).
-                                        </p>
-                                    </div>
-                                </section>
-                        </section>
-                        <!-- FIM DA CAIXA FIQUE ATENTO -->
-
-                        <div class="container scrool d-flex justify-content-evenly mt-5">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-6">
-                                    <p class="text-start">
-                                        Isto ocorre porque pessoas com alta Inteligência Emocional costumam ser muito
-                                        eficazes em processos adaptativos, conseguindo facilmente perceber mudanças e se
-                                        ajustar a elas. Além disso, é bastante provável que elas consigam facilmente
-                                        conectar-se em novos relacionamentos interpessoais, o que explica o fato dela
-                                        ser um fator preponderante para quem trabalha com vendas e negociações.
-                                    </p>
-                                </div>
-
-                                <div class="col-sm-12 col-md-6 ">
-                                    <p class="text-right">
-                                        Por outro lado, uma baixa Inteligência Emocional pode nos levar a problemas de
-                                        comunicação, de interação com as novidades, e pode inclusive nos induzir a tomar
-                                        decisões precipitadas que geram conflitos ou danos contra a própria pessoa e os
-                                        outros (CURY, 2007).
-                                    </p>
-                                </div>
-
-                            </div>
-
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section>
-
-        <!-- Botões de navegação -->
-        <div class="text-center">
-            <a href="index.php" class="btn btn-outline-success" role="button" aria-pressed="true"><i
-                    class="fa-solid fa-chevron-left"></i> Voltar</a>
-
-            <a href="topico03.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
-                    class="fa-solid fa-chevron-right"></i></a>
-        </div>
-
-        <!-- barra de progresso embaixo -->
-        <div id="progress-bar"></div>
-    </div>
-
-    <!-- BUTTON BACK TO TOP (JAMILLE) -->
-    <div id="back_to_top">
-        <div id="btn_back">
-            <i id="icon_up" class="fa-solid fa-arrow-up"></i>
-        </div>
-    </div>
-    <?php
-    include('layout/footer.php');
-    ?>
-</body>
-
-</html>
+    <title>EGPCE | Gestão do Tempo</title>
+</head>

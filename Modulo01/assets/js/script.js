@@ -73,33 +73,6 @@ function defineCurrentTheme(theme) {
 defineCurrentTheme(themeSystem)
 //FIM DA FUNÇÃO MODO ESCURO (JAMILLE)
 
-// script do ScrollReveal
-document.addEventListener('DOMContentLoaded', function () {
-    // Inicialização do ScrollReveal
-    const sr = ScrollReveal({ reset: true });
-
-    // ScrollReveal para a página de apresentação
-    sr.reveal('.main-content', { duration: 1000 });
-//    sr.reveal('#para01', { duration: 1000 });
-//     sr.reveal('#para02', { duration: 1000 });
-
-    // ScrollReveal para a página do módulo 01
-    sr.reveal('#img-1', { duration: 1000 });
-    
-    // Correção do seletor para o título (exemplo com h1)
-    sr.reveal('h1', { duration: 1000 });
-    
-    sr.reveal('.bd-callout', { duration: 1000 });
-    sr.reveal('.none', { duration: 1000 });
-    // Adicione outros seletores e efeitos conforme necessário
-    sr.reveal('.scrool', { duration: 1000 });
-    sr.reveal('.accordion', { duration: 1000 });
-
-    sr.reveal('iframe', { duration: 1000 });
-    
-    // Certifique-se de incluir este código no local apropriado em sua página HTML
-});
-
 // CORES DO MENU QUE MUDAM CONFORME O USUARIO MUDA DE PAG
 
 document.addEventListener("DOMContentLoaded", function() {

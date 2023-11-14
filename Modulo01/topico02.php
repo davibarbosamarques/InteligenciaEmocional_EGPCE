@@ -26,14 +26,14 @@
                     <div class="col-md-10 col-sm-8 container-fluid">
 
                         <!-- Título -->
-                        <h2 class="Titulo fw-bolde scrool">02 - Qual é a melhor inteligência?</h2>
+                        <h2 class="Titulo fw-bolde wow fadeIn" data-wow-delay="0.3s">02 - Qual é a melhor inteligência?</h2>
                         <!-- Título -->
 
                         <!-- Citação com borda verde (esquerda) -->
                         <div class="bd-callout bd-callout-success m-5">
 
                             <!-- blockquote do bootstrap -->
-                            <figure class="d-flex justify-content-evenly">
+                            <figure class="d-flex justify-content-evenly wow fadeIn" data-wow-delay="0.3s">
                                 <p class="d-flex align-items-center">
                                     Se não podemos possuir o máximo grau de inteligência nos <br>
                                     nove tipos citados acima, talvez você tenha se questionado <br>
@@ -145,7 +145,7 @@
                             </div>
                         </div>
 
-                        <p class="scrool">
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
                             Nossa sociedade, por muitas décadas, e mesmo nos dias atuais, tratou
                             de destacar
                             especialmente as inteligências ligadas à lógica matemática e
@@ -155,7 +155,7 @@
                         </p>
 
                         <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
-                        <section class="container">
+                        <section class="container wow fadeIn" data-wow-delay="0.3s">
                             <div class="accordion ">
                                 <section id="content">
                                     <div class="caixaprincipal" id="titulofiqueatento">
@@ -185,7 +185,7 @@
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
                         <!-- Iframe - video -->
-                        <div class="container iframe-container">
+                        <div class="container iframe-container wow fadeIn" data-wow-delay="0.3s">
                             <iframe width="560" height="315"
                                 src="https://www.youtube.com/embed/bjdOErjaUeY?si=8bCaxsXyBtLVe39W"
                                 title="YouTube video player" frameborder="0"
@@ -194,40 +194,32 @@
                         </div>
                         <!-- fim do Iframe -->
 
-                        <div class="teste scrool d-flex justify-content-evenly mt-5">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-6 ">
-                                    <p class="text-start">
-                                        Não por acaso, os pesquisadores acabaram formulando teorias que demonstravam que
-                                        apenas
-                                        uma pequena parcela da população era “muito inteligente”, sendo que a grande
-                                        maioria
-                                        estava na média ou mesmo abaixo dela. Ora, se nossas inteligências estão
-                                        distribuídas de
-                                        modo aleatório, obviamente apenas um pequeno grupo de pessoas será extremamente
-                                        eficiente em uma ou mais delas.
-                                    </p>
-                                </div>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                            Não por acaso, os pesquisadores acabaram formulando teorias que demonstravam que
+                            apenas
+                            uma pequena parcela da população era “muito inteligente”, sendo que a grande
+                            maioria
+                            estava na média ou mesmo abaixo dela. Ora, se nossas inteligências estão
+                            distribuídas de
+                            modo aleatório, obviamente apenas um pequeno grupo de pessoas será extremamente
+                            eficiente em uma ou mais delas.
+                        </p>
 
-                                <div class="col-sm-12 col-md-6 ">
-                                    <p class="text-right">
-                                        A partir desses resultados, percebeu-se que estes tipos de testes eram
-                                        extremamente
-                                        limitados e preconceituosos, visto que destacavam apenas um pequeno número de
-                                        habilidades humanas que não reflete a diversidade dos seres. Conforme destacado
-                                        acima,
-                                        cada tipo de atividade que um ser humano queira exercer estará relacionado a um
-                                        tipo de
-                                        inteligência distinta. Bill Gates, por exemplo, talvez não fizesse bom uso das
-                                        habilidades de um grande corredor, enquanto um esportista provavelmente não
-                                        precisa das
-                                        habilidades de um empreendedor.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                            A partir desses resultados, percebeu-se que estes tipos de testes eram
+                            extremamente
+                            limitados e preconceituosos, visto que destacavam apenas um pequeno número de
+                            habilidades humanas que não reflete a diversidade dos seres. Conforme destacado
+                            acima,
+                            cada tipo de atividade que um ser humano queira exercer estará relacionado a um
+                            tipo de
+                            inteligência distinta. Bill Gates, por exemplo, talvez não fizesse bom uso das
+                            habilidades de um grande corredor, enquanto um esportista provavelmente não
+                            precisa das
+                            habilidades de um empreendedor.
+                        </p>
 
-                        <p class="scrool mt-2">
+                        <p class="wow fadeIn mt-2" data-wow-delay="0.3s">
                             Entretanto, isso de modo algum nos autoriza a pensar que as habilidades de um milionário
                             sejam mais importantes que as de um atleta. No entanto, socialmente, fomos condicionados a
                             valorizar mais alguns tipos de habilidades - como as lógico-matemáticas - em prejuízo de
@@ -235,7 +227,7 @@
                         </p>
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
-                        <section class="container">
+                        <section class="container wow fadeIn" data-wow-delay="0.3s">
                             <div class="accordion">
                                 <section id="content">
                                     <div class="caixaprincipal" id="tituloimportante">
@@ -265,24 +257,41 @@
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
-                        <P class="scrool">
-                            No caso específico da Inteligência Emocional, é preciso considerar que, independente da
-                            capacidade que um indivíduo tenha para correr, dançar, escrever, cantar ou resolver fórmulas
-                            matemáticas, todos os seres humanos, para se construírem como indivíduos e se relacionarem
-                            com os demais, necessitam mobilizar as inteligências intrapessoal e interpessoal, sendo elas
-                            indispensáveis à convivência social.
-                        </P>
+                        <div class="d-flex justify-content-evenly mt-5 wow fadeIn" data-wow-delay="0.3s">
+                            <div class="row">
+                                <div class="col-sm-12 col-md-6">
+                                    <P class="text-start">
+                                        No caso específico da Inteligência Emocional, é preciso considerar que,
+                                        independente da
+                                        capacidade que um indivíduo tenha para correr, dançar, escrever, cantar ou
+                                        resolver fórmulas
+                                        matemáticas, todos os seres humanos, para se construírem como indivíduos e se
+                                        relacionarem
+                                        com os demais, necessitam mobilizar as inteligências intrapessoal e
+                                        interpessoal, sendo elas
+                                        indispensáveis à convivência social.
+                                    </P>
+                                </div>
 
-                        <p class="scrool">
-                            Como resultado disso, os indivíduos que não possuem nenhuma dessas inteligências como
-                            preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta razão, os livros e
-                            treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais disseminados.
-                            Inclusive, você que se matriculou neste curso provavelmente está em busca de aprender novas
-                            técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
-                        </p>
+                                <div class="col-sm-12 col-md-6">
+                                    <p class="text-right">
+                                        Como resultado disso, os indivíduos que não possuem nenhuma dessas inteligências
+                                        como
+                                        preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta razão,
+                                        os livros e
+                                        treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais
+                                        disseminados.
+                                        Inclusive, você que se matriculou neste curso provavelmente está em busca de
+                                        aprender novas
+                                        técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
 
                         <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
-                        <section class="container">
+                        <section class="container wow fadeIn" data-wow-delay="0.3s">
                             <div class="accordion ">
                                 <section id="content">
                                     <div class="caixaprincipal" id="titulofiqueatento">
@@ -307,31 +316,95 @@
                         </section>
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
-                        <div class="container scrool d-flex justify-content-evenly mt-5">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-6">
-                                    <p class="text-start">
-                                        Isto ocorre porque pessoas com alta Inteligência Emocional costumam ser muito
-                                        eficazes em processos adaptativos, conseguindo facilmente perceber mudanças e se
-                                        ajustar a elas. Além disso, é bastante provável que elas consigam facilmente
-                                        conectar-se em novos relacionamentos interpessoais, o que explica o fato dela
-                                        ser um fator preponderante para quem trabalha com vendas e negociações.
-                                    </p>
-                                </div>
+                        <div class="container mt-4 wow fadeIn" data-wow-delay="0.3s">
+                            <div class="cards">
+                                <label id="summary">
+                                    <input type="checkbox" />
+                                    <article>
+                                        <div class="front">
+                                            <header>
+                                                <h2>CLIQUE</h2>
+                                                <span class="material-symbols-outlined"> <i
+                                                        class="fa-solid fa-hand-pointer"></i> </span>
+                                            </header>
 
-                                <div class="col-sm-12 col-md-6 ">
-                                    <p class="text-right">
-                                        Por outro lado, uma baixa Inteligência Emocional pode nos levar a problemas de
-                                        comunicação, de interação com as novidades, e pode inclusive nos induzir a tomar
-                                        decisões precipitadas que geram conflitos ou danos contra a própria pessoa e os
-                                        outros (CURY, 2007).
-                                    </p>
-                                </div>
+                                            <p class="text-left paragrafo">
+                                                Isto ocorre porque pessoas com alta Inteligência Emocional costumam ser
+                                                muito
+                                                eficazes em processos adaptativos, conseguindo facilmente perceber
+                                                mudanças e se
+                                                ajustar a elas. Além disso, é bastante provável que elas consigam
+                                                facilmente
+                                                conectar-se em novos relacionamentos interpessoais, o que explica o fato
+                                                dela
+                                                ser um fator preponderante para quem trabalha com vendas e negociações.
+                                            </p>
 
+                                        </div>
+                                        <div class="back">
+                                            <header>
+                                                <h2>CLIQUE</h2>
+                                                <i class="fa-solid fa-hand-pointer"></i>
+                                            </header>
+                                            <div class="text-left">
+                                                <p class="paragrafo">
+                                                    Por outro lado, uma baixa Inteligência Emocional pode nos levar a
+                                                    problemas de
+                                                    comunicação, de interação com as novidades, e pode inclusive nos
+                                                    induzir a tomar
+                                                    decisões precipitadas que geram conflitos ou danos contra a própria
+                                                    pessoa e os
+                                                    outros (CURY, 2007).
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </label>
                             </div>
-
-
                         </div>
+                        
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                            A baixa capacidade em compreender e lidar com as emoções também está associada a uma maior
+                            propensão para doenças mentais e físicas. Isto ocorre porque as emoções que não são bem
+                            processadas pelo indivíduo tendem a se acumular e causar problemas como <strong>ansiedade,
+                                estresse e depressão</strong>. Estes, por sua vez, podem prejudicar o sistema
+                            imunológico e causar outros tipos de doenças.
+                        </p>
+
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                            Gerenciar as emoções não significa reprimir tudo aquilo que se apresenta imediatamente como
+                            negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a ignorar
+                            parte da nossa existência e, na verdade, logo em seguida ela voltaria a se apresentar (CURY,
+                            2007).
+                        </p>
+
+                        <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
+                        <section class="container wow fadeIn" data-wow-delay="0.3s">
+                            <div class="accordion ">
+                                <section id="content">
+                                    <div class="caixaprincipal" id="titulofiqueatento">
+                                        <div class="div_teste">
+                                            <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE ATENTO
+                                            </div>
+                                            <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                        </div>
+                                    </div> <!--caixa Principal-->
+                                    <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
+                                        <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong>
+                                        </p>
+                                        <p class="txt-caixasecundaria">
+                                            A Inteligência Emocional está relacionada ao reconhecimento da nossa posição
+                                            no mundo de uma forma que nos empodere em vez de nos limitar. Os maiores
+                                            obstáculos para alcançar este estado emocional são justamente negar a
+                                            realidade ou buscar manejá-la de acordo com nosso entendimento pessoal. Ora,
+                                            a realidade não se adapta aos nossos desejos individuais, ao contrário,
+                                            somos nós que devemos desenvolver as habilidades necessárias para nos
+                                            adaptarmos ao nosso contexto.
+                                        </p>
+                                    </div>
+                                </section>
+                        </section>
+                        <!-- FIM DA CAIXA FIQUE ATENTO -->
 
                     </div>
 
