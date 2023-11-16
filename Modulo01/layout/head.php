@@ -43,5 +43,5 @@
         new WOW().init();
     </script>
 
-    <title>EGPCE | Gestão do Tempo</title>
+    <title>EGPCE | Inteligência Emocional</title>
 </head>

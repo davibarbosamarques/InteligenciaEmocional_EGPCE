@@ -31,12 +31,12 @@ include('layout/head.php');
 
                         <div class="row">
                             <div class="col-md-6">
-                                <p class="img-fluid wow fadeInLeft" data-wow-delay="0.5s"> Antes de iniciarmos a jornada que leva à felicidade pessoal, preciso esclarecer o que estou chamando aqui de Inteligência Emocional. De modo simplificado, a Inteligência Emocional pode ser definida como a habilidade de lidar adequadamente com as próprias emoções e de compreender as emoções das outras pessoas, de modo a alcançar relações intrapessoais e interpessoais satisfatórias. Desse modo, pode ser compreendida como uma habilidade que é mobilizada tanto para o autoconhecimento como para que possamos nos relacionar com as outras pessoas.</p>
+                                <p class="wow fadeInLeft" data-wow-delay="0.5s"> Antes de iniciarmos a jornada que leva à felicidade pessoal, preciso esclarecer o que estou chamando aqui de Inteligência Emocional. De modo simplificado, a Inteligência Emocional pode ser definida como a habilidade de lidar adequadamente com as próprias emoções e de compreender as emoções das outras pessoas, de modo a alcançar relações intrapessoais e interpessoais satisfatórias. Desse modo, pode ser compreendida como uma habilidade que é mobilizada tanto para o autoconhecimento como para que possamos nos relacionar com as outras pessoas.</p>
 
                             </div>
                             <div class="col-md-6">
                         <!-- Titulo Figura -->
-                        <div class="text-center img-01">
+                        <div class="text-center img-01 wow animate__zoomIn">
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
                                 Representação
                                 do tempo na mente humana</p>
@@ -132,14 +132,22 @@ include('layout/head.php');
 
         <!-- Botões de navegação -->
         <div class="text-center wow fadeIn" data-wow-delay="0.3s">
-            <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
+        <a href="index.php" class="btn btn-outline-success" role="button" aria-pressed="true"> <i
+                    class="fa-solid fa-chevron-left"></i> Voltar </a>
+            <a href="topico02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
                     class="bi bi-chevron-right"></i></a>
         </div>
 
 
         <div id="progress-bar"></div>
     </div>
-    
+
+    <!-- BUTTON BACK TO TOP (JAMILLE) -->
+    <div id="back_to_top">
+        <div id="btn_back">
+            <i id="icon_up" class="fa-solid fa-arrow-up"></i>
+        </div>
+    </div>
 <?php
 include('layout/footer.php');
 ?>
