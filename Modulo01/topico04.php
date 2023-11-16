@@ -26,11 +26,11 @@
                     <div class="col-md-10 col-sm-8 container-fluid">
 
                         <!-- Título -->
-                        <h2 class="Titulo fw-bolde scrool">04 - Parábola Indiana: A árvore dos desejos</h2>
+                        <h2 class="Titulo fw-bolde wow fadeIn" data-wow-delay="0.3s">04 - Parábola Indiana: A árvore dos desejos</h2>
                         <!-- Título -->
 
                         <!-- Citação com borda verde (esquerda) -->
-                        <div class="bd-callout bd-callout-success bd-topico04 m-3">
+                        <div class="bd-callout bd-callout-success bd-topico04 m-3 wow fadeIn" data-wow-delay="0.3s">
 
                             <!-- blockquote do bootstrap -->
                             <figure>
@@ -49,7 +49,7 @@
                                         </div>
 
                                         <!-- IMAGEM NO SITE  -->
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 wow animate__zoomIn">
                                             <div class="text-center img-01">
                                                 <p class="TituloFigura FonteMenor text-secondary p-2">
                                                     <strong>Figura 1:</strong>
@@ -148,7 +148,7 @@
                         <!-- Citação com borda verde (esquerda) -->
 
                         <!-- Citação com borda verde (esquerda) -->
-                        <div class="bd-callout bd-callout-success bd-topico04-2 m-3">
+                        <div class="bd-callout  bd-topico04-2 m-3 wow fadeIn" data-wow-delay="0.3s">
 
                             <!-- blockquote do bootstrap -->
                             <figure>
@@ -195,7 +195,7 @@
 
                         <!-- IMAGEM NO SITE  -->
 
-                        <div class="text-center img-01">
+                        <div class="text-center img-01 wow animate__zoomIn">
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
                                 Foto do Guru Osho</p>
                             <div class="zoom">
@@ -230,7 +230,7 @@
         </section>
 
         <!-- Botões de navegação -->
-        <div class="text-center">
+        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
             <a href="topico03.php" class="btn btn-outline-success" role="button" aria-pressed="true"><i
                     class="fa-solid fa-chevron-left"></i> Voltar</a>
 

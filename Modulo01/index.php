@@ -26,19 +26,18 @@
                     <div class="col-md-10 col-sm-8 container-fluid">
 
                         <!-- Título -->
-                        <h2 class="Titulo fw-bolde scrool">Apresentação</h2>
+                        <h2 class="Titulo fw-bolde wow fadeIn" data-wow-delay="0.3s">Apresentação</h2>
                         <!-- Título -->
 
-                        <div class="container mt-4">
+                        <div class="container mt-4 wow fadeIn" data-wow-delay="0.3s">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
                                     <article>
                                         <div class="front">
                                             <header>
-                                                <h2>CLIQUE</h2>
-                                                <span class="material-symbols-outlined"> <i
-                                                        class="fa-solid fa-hand-pointer"></i> </span>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <span class="material-symbols-outlined"> <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i> </span>
                                             </header>
 
                                             <p class="text-left paragrafo fs-6">
@@ -60,8 +59,8 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2>CLIQUE</h2>
-                                                <i class="fa-solid fa-hand-pointer"></i>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
                                             </header>
                                             <p class="text-left paragrafo fs-6">
                                                 Durante as próximas horas, eu, <strong>Kamila Nascimento</strong>, lhe
@@ -87,7 +86,7 @@
                         </div>
 
                         <!-- Citação com borda verde (esquerda) -->
-                        <div class="bd-callout bd-callout-success m-3">
+                        <div class="bd-callout bd-callout-success m-3 wow fadeIn" data-wow-delay="0.3s">
 
                             <!-- blockquote do bootstrap -->
                             <figure>
@@ -108,11 +107,7 @@
                         </div>
                         <!-- Citação com borda verde (esquerda) -->
 
-                        <p class="scrool">
-
-                        </p>
-
-                        <p class="scrool">
+                        <p class="wow fadeIn" data-wow-delay="0.3s">
                             Nesta primeira parte, falarei dos aspectos mais gerais da Inteligência Emocional.
                             Apresentarei sua conceituação e abordarei os diversos tipos de inteligência e como a
                             Inteligência Emocional se destaca como habilidade essencial para todos os indivíduos. Também
@@ -120,7 +115,7 @@
                             tornando sua própria vida mais feliz e positiva.
                         </p>
 
-                        <p class="scrool fs-6 mt-5">
+                        <p class="fs-6 mt-5 wow fadeIn" data-wow-delay="0.3s">
                             <i class="fa-solid fa-arrow-right" style="color: #33833d;"></i>
                             <strong>Kamila Nascimento</strong> é professora universitária, atuando em diversas
                             disciplinas de Sociologia e Gestão de Pessoas. Formada em Ciência Sociais, Mestre e Doutora
@@ -137,7 +132,7 @@
         </section>
 
         <!-- Botões de navegação -->
-        <div class="text-center">
+        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
             <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
                     class="fa-solid fa-chevron-right"></i></a>
         </div>

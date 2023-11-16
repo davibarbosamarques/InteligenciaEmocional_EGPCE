@@ -30,10 +30,10 @@
                         <!-- Título -->
 
                         <!-- Citação com borda verde (esquerda) -->
-                        <div class="bd-callout bd-callout-success m-5">
+                        <div class="bd-callout bd-callout-success m-5 wow fadeIn" data-wow-delay="0.3s">
 
                             <!-- blockquote do bootstrap -->
-                            <figure class="d-flex justify-content-evenly wow fadeIn" data-wow-delay="0.3s">
+                            <figure class="d-flex justify-content-evenly">
                                 <p class="d-flex align-items-center">
                                     Se não podemos possuir o máximo grau de inteligência nos <br>
                                     nove tipos citados acima, talvez você tenha se questionado <br>
@@ -43,7 +43,8 @@
                                 </p>
 
                                 <blockquote class="blockquote">
-                                    <div class="text-center img-01">
+                                    <!-- Imagem - Inicio -->
+                                    <div class="text-center img-01 wow animate__zoomIn">
                                         <p class="TituloFigura FonteMenor text-secondary p-2">
                                             <strong>Figura 02:</strong>
                                             Representação do cérebro racional e emocional
@@ -82,16 +83,15 @@
                         <!-- Citação com borda verde (esquerda) -->
 
 
-                        <div class="container mt-4">
+                        <div class="container mt-4 wow fadeIn" data-wow-delay="0.3s">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
                                     <article>
                                         <div class="front">
                                             <header>
-                                                <h2>Clique para saber mais</h2>
-                                                <span class="material-symbols-outlined"> <i
-                                                        class="fa-solid fa-hand-pointer"></i> </span>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <span class="material-symbols-outlined"> <i class="fa-regular fa-hand-pointer" style="color: #fff"></i></span>
                                             </header>
 
                                             <p class="text-left paragrafo fs-6">
@@ -117,8 +117,8 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2>Clique para saber mais</h2>
-                                                <i class="fa-solid fa-hand-pointer"></i>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <i class="fa-regular fa-hand-pointer" style="color: #fff"></i>
                                             </header>
                                             <div class="text-left">
                                                 <p class="paragrafo">No entanto, a Inteligência Emocional, que abrange
@@ -257,9 +257,6 @@
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
-                        <div class="d-flex justify-content-evenly mt-5 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-6">
                                     <P class="text-start">
                                         No caso específico da Inteligência Emocional, é preciso considerar que,
                                         independente da
@@ -271,9 +268,8 @@
                                         interpessoal, sendo elas
                                         indispensáveis à convivência social.
                                     </P>
-                                </div>
 
-                                <div class="col-sm-12 col-md-6">
+                               
                                     <p class="text-right">
                                         Como resultado disso, os indivíduos que não possuem nenhuma dessas inteligências
                                         como
@@ -285,9 +281,6 @@
                                         aprender novas
                                         técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
                                     </p>
-                                </div>
-                            </div>
-                        </div>
 
 
                         <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
@@ -323,9 +316,8 @@
                                     <article>
                                         <div class="front">
                                             <header>
-                                                <h2>CLIQUE</h2>
-                                                <span class="material-symbols-outlined"> <i
-                                                        class="fa-solid fa-hand-pointer"></i> </span>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <span class="material-symbols-outlined"> <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i> </span>
                                             </header>
 
                                             <p class="text-left paragrafo">
@@ -343,8 +335,8 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2>CLIQUE</h2>
-                                                <i class="fa-solid fa-hand-pointer"></i>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
                                             </header>
                                             <div class="text-left">
                                                 <p class="paragrafo">
@@ -363,19 +355,12 @@
                             </div>
                         </div>
                         
-                        <p class="wow fadeIn" data-wow-delay="0.3s">
-                            A baixa capacidade em compreender e lidar com as emoções também está associada a uma maior
-                            propensão para doenças mentais e físicas. Isto ocorre porque as emoções que não são bem
-                            processadas pelo indivíduo tendem a se acumular e causar problemas como <strong>ansiedade,
-                                estresse e depressão</strong>. Estes, por sua vez, podem prejudicar o sistema
-                            imunológico e causar outros tipos de doenças.
+                        <p class="wow fadeIN" data-wow-daley="0.3s">
+                            A baixa capacidade em compreender e lidar com as emoções também está associada a uma maior propensão para doenças mentais e físicas. Isto ocorre porque as emoções que não são bem processadas pelo indivíduo tendem a se acumular e causar problemas como ansiedade, estresse e depressão. Estes, por sua vez, podem prejudicar o sistema imunológico e causar outros tipos de doenças.
                         </p>
 
-                        <p class="wow fadeIn" data-wow-delay="0.3s">
-                            Gerenciar as emoções não significa reprimir tudo aquilo que se apresenta imediatamente como
-                            negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a ignorar
-                            parte da nossa existência e, na verdade, logo em seguida ela voltaria a se apresentar (CURY,
-                            2007).
+                        <p class="wow fadeIN" data-wow-daley="0.3s">
+                            Gerenciar as emoções não significa reprimir tudo aquilo que se apresenta imediatamente como negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a ignorar parte da nossa existência e, na verdade, logo em seguida ela voltaria a se apresentar (CURY, 2007).
                         </p>
 
                         <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
@@ -415,7 +400,7 @@
         </section>
 
         <!-- Botões de navegação -->
-        <div class="text-center">
+        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
             <a href="index.php" class="btn btn-outline-success" role="button" aria-pressed="true"><i
                     class="fa-solid fa-chevron-left"></i> Voltar</a>
 
