@@ -90,6 +90,36 @@ include('layout/head.php');
                             </section>
                             <!-- FIM DA CAIXA DE TEXTO CURIOSIDADE -->
 
+                            
+                            <div class="container">
+                            <div class="cards">
+                                <label id="summary">
+                                <input type="checkbox" />
+                                <article>
+                                    <div class="front">
+                                    <header>
+                                        <h2>CLIQUE</h2>
+                                        <span class="material-symbols-outlined"> <i class="fa-solid fa-hand-pointer fa-beat-fade"></i> </span>
+                                    </header>
+                                    
+                                    <h3>Promova uma comunicação eficiente e facilite o diálogo </h3>
+                            
+                                    </div>
+                                    <div class="back">
+                                    <header>
+                                        <span class="material-symbols-outlined"> close </span>
+                                    </header>
+                                    <div class="text-left">
+                                        <p>Os conflitos são causados pela falta de comunicação, portanto para administrar e até mesmo prevenir situações conflituosas, é necessário que haja diálogo entre colaboradores, equipes e líderes.</p>
+                                        <p>Uma cultura de comunicação aberta, com troca de informações de forma transparente já é um primeiro passo para até mesmo prevenir conflitos.</p>
+                                    </div>
+                            
+                                    </div>
+                                </article>
+                                </label>
+                                </div>
+                            </div>  
+
                             <p class="wow fadeIn" data-wow-delay="0.3s">Mesmo no imaginário popular existe o desestímulo a tal prática, e quem descobrir que você está conversando consigo mesmo perguntará se está em seu pleno juízo ou se ficou louco. Este tipo de ideia é extremamente prejudicial, pois nos torna dependentes da gentileza das outras pessoas para verificarmos como estão as nossas emoções e qualidade de vida. Porém, temos total capacidade de conhecermos a nós mesmos. Além disso, terceirizar esses questionamentos nos coloca na expectativa com relação aos gestos das outras pessoas e nos frustra quando pensamos que o outro “não está nem aí pra nós”.</p>
 
                             <p class="wow fadeIn" data-wow-delay="0.3s">Em contrapartida, é bastante importante que consigamos compreender que cada um é responsável por si mesmo e pelo próprio bem-estar. Ao entendermos esta realidade, somos empoderados com a capacidade de tornarmos a nós mesmos pessoas mais felizes ao focalizarmos a nossa atenção em nós mesmos, compreendendo nossas emoções e necessidades. Para tanto, precisamos apenas interrogar o nosso eu, conversando conosco, com o nosso ser. Esta é, sem dúvida, a mais saudável conversação que você encontrará. Aqui, eu gostaria de chamar sua atenção para uma questão muito importante:</p>
