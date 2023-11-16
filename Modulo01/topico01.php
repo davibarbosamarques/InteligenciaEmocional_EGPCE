@@ -67,7 +67,7 @@ include('layout/head.php');
                             </div>
                         </div>
 
-                        <p>De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
 
                         
                         <div class="storytelling">
@@ -120,9 +120,9 @@ include('layout/head.php');
                         </div>
                         </div>
 
-                        <p>Todos os tipos de inteligência são muito desejáveis e é bem provável que logo após ter lido sobre elas, você tenha se identificado com uma ou mais delas. É normal percebermos que existe em nós uma predominância de algumas dessas inteligências, enquanto outras nos parece um tanto difícil de praticar.</p>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">Todos os tipos de inteligência são muito desejáveis e é bem provável que logo após ter lido sobre elas, você tenha se identificado com uma ou mais delas. É normal percebermos que existe em nós uma predominância de algumas dessas inteligências, enquanto outras nos parece um tanto difícil de praticar.</p>
 
-                        <p>Quanto a isso, é importante destacar que mesmo que tenhamos nos identificado mais com uma delas, todos os seres humanos, a princípio, possuem estas nove inteligências ou a capacidade de desenvolvê-las. Obviamente, nem todos os indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante singular em cada pessoa (HOWARD, 1999).</p>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">Quanto a isso, é importante destacar que mesmo que tenhamos nos identificado mais com uma delas, todos os seres humanos, a princípio, possuem estas nove inteligências ou a capacidade de desenvolvê-las. Obviamente, nem todos os indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante singular em cada pessoa (HOWARD, 1999).</p>
                     </div>
                 </div>
 
@@ -131,7 +131,7 @@ include('layout/head.php');
 
 
         <!-- Botões de navegação -->
-        <div class="text-center">
+        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
             <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
                     class="bi bi-chevron-right"></i></a>
         </div>
