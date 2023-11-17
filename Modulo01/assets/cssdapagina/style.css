@@ -5,10 +5,14 @@
     /* border: 1px solid red; */
 }
 .timeline{
-    margin: 150px auto;
+    margin: 150px;
     /* border: 1px solid black; */
-    min-height: 20vw !important;
-}
+    /* min-height: 20vw !important; */
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25em;
+  }
 input{
     display: none;
     position: absolute;
@@ -47,6 +51,7 @@ ul.nav li{
     vertical-align: middle;
     height: 60px;
     position: relative;
+    margin-right: rem !important;
 }
 ul.nav li::before{
     content: "";
@@ -222,6 +227,9 @@ h3{
     }
 }
 @media (max-width: 768px) {
+    .timeline{
+        margin-bottom: 50em;
+    }
     .conteudo {
         position: static; /* Remova o position: absolute */
     }
@@ -348,4 +356,77 @@ article p {
 .container {
   display: flex;
   justify-content: center;
+}
+
+@media screen and (max-width: 430px) {
+  article {
+    height: auto;
+    min-height: 650px;
+    width: auto;
+    min-width: 45vh;
+  }
+}
+@media screen and (min-width: 430px) {
+  article {
+    height: auto;
+    min-height: 550px;
+    width: auto;
+    min-width: 45vh;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  article {
+    height: auto;
+    min-height: 300px;
+    width: auto;
+    min-width: 100vh;
+  }
+}
+/* FOLHA DE CADERNO */
+
+.caderno {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset ;
+
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  max-width: 35rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.listacaderno{
+  list-style: none;
+  padding: 0;
+}
+
+.itemlistacaderno{
+  margin-bottom: 10px;
+  position: relative;
+}
+
+/* .itemlistacaderno::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -20px;
+  border-top: 1px solid blue;
+  opacity: 0.5;
+  width: 15px;
+} */
+
+/* Estilo para linhas extras */
+.itemlistacaderno::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: -20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.301);
+  width: calc(100% - 10px);
 }

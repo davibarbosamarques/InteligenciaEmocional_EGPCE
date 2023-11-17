@@ -99,7 +99,7 @@ include('layout/head.php');
                                     <div class="front">
                                     <header>
                                         <h2>Clique para saber mais</h2>
-                                        <span class="material-symbols-outlined"> <i class="fa-solid fa-hand-pointer fa-beat-fade"></i> </span>
+                                        <span class="material-symbols-outlined"><i class="fa-regular fa-hand-pointer" style="color:white"></i></span>
                                     </header>
                                     
                                     <p class="fs-6">Mesmo no imaginário popular existe o desestímulo a tal prática, e quem descobrir que você está conversando consigo mesmo perguntará se está em seu pleno juízo ou se ficou louco. Este tipo de ideia é extremamente prejudicial, pois nos torna dependentes da gentileza das outras pessoas para verificarmos como estão as nossas emoções e qualidade de vida. Porém, temos total capacidade de conhecermos a nós mesmos. Além disso, terceirizar esses questionamentos nos coloca na expectativa com relação aos gestos das outras pessoas e nos frustra quando pensamos que o outro “não está nem aí pra nós”.</p>
@@ -108,6 +108,8 @@ include('layout/head.php');
                                     <div class="back">
                                     <header>
                                     <h2>Clique para saber mais</h2>
+
+                                    <span class="material-symbols-outlined"><i class="fa-regular fa-hand-pointer" style="color:white"></i></span>
                                     </header>
                                     <div class="text-left">
                                         <p class="fs-6">Em contrapartida, é bastante importante que consigamos compreender que cada um é responsável por si mesmo e pelo próprio bem-estar. Ao entendermos esta realidade, somos empoderados com a capacidade de tornarmos a nós mesmos pessoas mais felizes ao focalizarmos a nossa atenção em nós mesmos, compreendendo nossas emoções e necessidades. Para tanto, precisamos apenas interrogar o nosso eu, conversando conosco, com o nosso ser. Esta é, sem dúvida, a mais saudável conversação que você encontrará. Aqui, eu gostaria de chamar sua atenção para uma questão muito importante:</p>
@@ -129,28 +131,26 @@ include('layout/head.php');
                             </figure>
                         </div>
                         <!-- Citação com borda verde (esquerda) -->
-                        <p class="wow fadeIn" data-wow-delay="0.3s">Você já deve ter observado que é comum que as pessoas se sintam desconfortáveis quando em uma entrevista ou conversa inicial alguém lhes faz perguntas que levam à reflexão interna. Separei aqui algumas perguntas que são frequentes em ocasiões como essas e gostaria que você verificasse quantos desses questionamentos é capaz de responder imediatamente. Pegue uma folha em branco e escreva essas perguntas e em seguida responda. Ao final faça uma reflexão e dê continuidade ao curso.</p>
+                        <p class="wow fadeIn" data-wow-delay="0.3s">Você já deve ter observado que é comum que as pessoas se sintam desconfortáveis quando em uma entrevista ou conversa inicial alguém lhes faz perguntas que levam à reflexão interna. Separei aqui algumas perguntas que são frequentes em ocasiões como essas e gostaria que você verificasse quantos desses questionamentos é capaz de responder imediatamente.</p>
 
-                        <div class="row wow fadeIn" data-wow-delay="0.3s">
-                            <div class="col-md-6">
-                                <ol 
-                                id="txt_final">
-                                    <li>Você pode falar um pouco sobre você?</li>
-                                    <li>Por que você quer este trabalho?</li>
-                                    <li>Quais são os seus pontos fortes?</li>
-                                    <li>Quais são os seus pontos fracos?</li>
-                                    <li>Como você lida com pressões ou situações estressantes?</li>
+                            <div class="container">
+                            <div class="caderno">
+                                <p>Pegue uma folha em branco e escreva essas perguntas e em seguida responda. Ao final faça uma reflexão e dê continuidade ao curso.</p>
+                                <ol class="listacaderno">
+
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="0.1s">Você pode falar um pouco sobre você?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="0.3s">Por que você quer este trabalho?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="0.5s">Quais são os seus pontos fortes?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="0.7s">Qual é a sua cor favorita?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="0.9s">Como você lida com pressões ou situações estressantes?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="1.1s">Como você reage às críticas?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="1.3s">Que hobbies você tem fora do trabalho?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="1.5s">O que lhe motiva?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="1.7s">Qual o seu maior fracasso?</li>
+                                <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="1.9s">O que lhe deixa desconfortável?</li>
+
                                 </ol>
-                            </div>
-                            <div class="col-md-6 ">
-                                <ol start="6" id="txt_final">
-                                    <li>Como você reage às críticas?</li>
-                                    <li>Que hobbies você tem fora do trabalho?</li>
-                                    <li>O que lhe motiva?</li>
-                                    <li>Qual o seu maior fracasso?</li>
-                                    <li>O que lhe deixa desconfortável?</li>
-                                </ol>
-                            </div>
+                            </div>                      
                         </div>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Estas perguntas estão entre as mais comuns quando alguém tem a intenção de nos conhecer. Ora, a única forma que aquele ser humano desconhecido tem de saber sobre você é lhe interrogando. E você, como conhece a si mesmo? Certamente não é pela simples convivência que tem consigo pois, se fosse assim, seria muito fácil responder a estas perguntas.</p>
@@ -213,7 +213,7 @@ include('layout/head.php');
 
 
         <!-- Botões de navegação -->
-        <div class="text-center">
+        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
             <a href="topico02.php" class="btn btn-outline-success" role="button" aria-pressed="true"> <i
                     class="fa-solid fa-chevron-left"></i> Voltar </a>
             <a href="topico04.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i

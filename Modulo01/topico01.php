@@ -123,6 +123,46 @@ include('layout/head.php');
                         <p class="wow fadeIn" data-wow-delay="0.3s">Todos os tipos de inteligência são muito desejáveis e é bem provável que logo após ter lido sobre elas, você tenha se identificado com uma ou mais delas. É normal percebermos que existe em nós uma predominância de algumas dessas inteligências, enquanto outras nos parece um tanto difícil de praticar.</p>
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Quanto a isso, é importante destacar que mesmo que tenhamos nos identificado mais com uma delas, todos os seres humanos, a princípio, possuem estas nove inteligências ou a capacidade de desenvolvê-las. Obviamente, nem todos os indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante singular em cada pessoa (HOWARD, 1999).</p>
+
+                        <div class="row">
+                        <div class="col-md-6">
+                        <!-- Titulo Figura -->
+                        <div class="text-center img-01 wow animate__zoomIn">
+                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
+                                Representação
+                                do tempo na mente humana</p>
+                            <div class="zoom">
+                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
+                                    <img class="w-50" src="imgs/topico01/gardner.webp" alt="Imagem que remete a organização" id="img-1">
+                                </a>
+                            </div>
+                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> banco de imagens
+                                gratuitas do canvas, 2020</p>
+                        </div>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL (Audi)-->
+                        <div class="modal fade text-center" id="Imagem01" tabindex="-1"
+                            aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div
+                                class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                <div class="modal-content w-50">
+                                    <img class="img-fluid" src="imgs/topico01/gardner.webp" alt="Alt da imagem fica aqui">
+                                </div>
+                                <div class="modal-footer w-50 bg-light justify-content-center">
+                                    <p class="text-secondary"><strong>Fonte:</strong> banco de imagens
+                                        gratuitas do canvas, 2020</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Imagem 01 - End  (Audi)-->
+                            <div class="col-md-6">
+                                <p> Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.</p>
+
+                            </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
