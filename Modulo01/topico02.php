@@ -34,6 +34,8 @@
 
                             <!-- blockquote do bootstrap -->
                             <figure class="d-flex justify-content-evenly">
+                            <div class="row">
+                            <div class="col-sm-12 col-md-6">
                                 <p class="d-flex align-items-center">
                                     Se não podemos possuir o máximo grau de inteligência nos <br>
                                     nove tipos citados acima, talvez você tenha se questionado <br>
@@ -41,7 +43,9 @@
                                     quais desses tipos de inteligência dão mais vantagens <br>
                                     aos indivíduos?
                                 </p>
+                            </div>
 
+                            <div class="col-sm-12 col-md-6">
                                 <blockquote class="blockquote">
                                     <!-- Imagem - Inicio -->
                                     <div class="text-center img-01 wow animate__zoomIn">
@@ -77,13 +81,15 @@
                                         </div>
                                     </div>
                                     <!-- Imagem - End-->
+                                </div>
+                                    </div>
                                 </blockquote>
                             </figure>
                         </div>
                         <!-- Citação com borda verde (esquerda) -->
 
 
-                        <div class="container mt-4 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="container mt-4 wow animate__zoomIn">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
@@ -185,7 +191,7 @@
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
                         <!-- Iframe - video -->
-                        <div class="container iframe-container wow fadeIn" data-wow-delay="0.3s">
+                        <div class="container iframe-container wow animate__zoomIn" data-wow-delay="0.3s">
                             <iframe width="560" height="315"
                                 src="https://www.youtube.com/embed/bjdOErjaUeY?si=8bCaxsXyBtLVe39W"
                                 title="YouTube video player" frameborder="0"
@@ -309,11 +315,11 @@
                         </section>
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
-                        <div class="container mt-4 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="container mt-4 wow animate__zoomIn">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
-                                    <article>
+                                    <article class="article-topico02">
                                         <div class="front">
                                             <header>
                                                 <h2><strong>Clique para saber mais</strong></h2>

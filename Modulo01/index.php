@@ -29,11 +29,11 @@
                         <h2 class="Titulo fw-bolde wow fadeIn" data-wow-delay="0.3s">Apresentação</h2>
                         <!-- Título -->
 
-                        <div class="container mt-4 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="container mt-4 wow animate__zoomIn">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
-                                    <article>
+                                    <article class="article-index">
                                         <div class="front">
                                             <header>
                                                 <h2><strong>Clique para saber mais</strong></h2>

@@ -193,7 +193,7 @@
                             atitudes que podem ser positivas e empoderadoras, ou negativas e estatizantes.
                         </p>
 
-                        <div class="d-pai container mt-4 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="d-pai container mt-4 wow animate__zoomIn">
                             <div class="card-teste">
                                 <div class="d-flex justify-content-center">
                                     <h5 class="h5-citacao"><strong>Como podemos mudar as atitudes do nosso
@@ -238,6 +238,8 @@
 
                         <div class="container wow fadeIn d-flex align-items-center justify-content-between mt-5"
                             data-wow-daley="0.3s">
+                            <div class="row">
+                            <div class="col-sm-12 col-md-6">
                             <div class="paragrafos">
                                 <p>
                                     Recepcionar as próprias emoções não significa <br>
@@ -258,11 +260,11 @@
                                     informações a partir da sua própria mente, e isso <br>
                                     pode ser alcançado através de um diário.
                                 </p>
-
+                            </div>
                             </div>
 
                             <!-- IMAGEM NO SITE  -->
-
+                            <div class="col-sm-12 col-md-6">
                             <div class="text-center img-01 wow animate__zoomIn">
                                 <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 6:</strong>
                                     Representação do aprendizado</p>
@@ -291,6 +293,8 @@
                                 </div>
                             </div>
                             <!-- Imagem - End-->
+                        </div>
+                        </div>
                         </div>
 
                         <p class="wow fadeIn" data-wow-daley="0.3s">
@@ -411,10 +415,7 @@
                                         respondesse algumas questões sobre o conteúdo apresentado para fixar o seu
                                         conhecimento e checar se conseguiu absorver a maior parte do que foi dito.
                                     </p>
-                                </blockquote>
-                                <figcaption class="blockquote-footer">
-                                    <cite title="Source Title">NOME DO AUTOR DA CITAÇÃO</cite>
-                                </figcaption>
+                                </blockquote> 
                             </figure>
                         </div>
                         <!-- Citação com borda verde (esquerda) -->

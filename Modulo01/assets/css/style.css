@@ -184,9 +184,10 @@ ul li.menu a {
     margin-bottom: 1em;
     cursor: pointer;
     transition: 0.1s;
-    height: 3.7em;
+    height: 4em;
     width: 100%;
 }
+
 
 .menulateral ul {
     padding-left: 0px !important;
@@ -226,7 +227,10 @@ ul li.menu a .icon>i {
 ul li.menu a:hover {
     color: #ffff;
     background-color: #1a9c60;
-
+}
+ul li.menu .txt3:hover {
+    color: #ffff;
+    background-color: #1a9c60;
 }
 
 [data-theme="dark"] ul li.menu a:hover {

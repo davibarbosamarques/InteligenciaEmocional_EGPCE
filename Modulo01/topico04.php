@@ -193,17 +193,19 @@
                         </div>
                         <!-- Citação com borda verde (esquerda) -->
 
-                        <!-- IMAGEM NO SITE  -->
-
+                        <div class="container ">
+                            <div class="row d-flex justify-content-between align-items-center">
+                                <!-- IMAGEM NO SITE  -->
+                        <div class="col-sm-12 col-md-6">
                         <div class="text-center img-01 wow animate__zoomIn">
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
-                                Foto do Guru Osho</p>
+                                Foto do livro do guru Osho</p>
                             <div class="zoom">
                                 <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem5">
-                                    <img src="imgs/topico04/osho.png" alt="Imagem que remete a organização" id="img-1">
+                                    <img src="imgs/topico04/osho.jpg" alt="Imagem que remete a organização" id="img-1" class="w-50">
                                 </a>
                             </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte e <a href="https://segredosdomundo.r7.com/osho/" class="aref" target="_blank"> Biografia</a>:</strong> Site segredos do mundo</p>
+                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269" class="aref" target="_blank">Amazon</a></p>
                         </div>
 
                         <!-- Imagem - MODAL-->
@@ -211,15 +213,25 @@
                             aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div
                                 class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                <div class="modal-content w-75">
-                                    <img class="img-fluid" src="imgs/topico04/osho.png" alt="Alt da imagem fica aqui">
+                                <div class="modal-content w-50">
+                                    <img class="img-fluid" src="imgs/topico04/osho.jpg" alt="Alt da imagem fica aqui">
                                 </div>
-                                <div class="modal-footer w-75 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte e <a href="https://segredosdomundo.r7.com/osho/" class="aref"> Biografia</a>:</strong> Site segredos do mundo </p>
+                                <div class="modal-footer w-50 bg-light justify-content-center">
+                                    <p class="text-secondary"><strong>Fonte:</strong> <a href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269" class="aref" target="_blank">Amazon</a> </p>
                                 </div>
                             </div>
                         </div>
                         <!-- Imagem - End-->
+                    </div>
+                            <div class="col-sm-12 col-md-6">
+                                <p>
+                                    Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.
+                                </p>
+                            </div>
+
+                        
+                    </div>
+                    </div>
 
                     </div>
 
