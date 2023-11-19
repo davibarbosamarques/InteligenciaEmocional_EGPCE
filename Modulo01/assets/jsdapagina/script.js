@@ -10,3 +10,16 @@ $(".st3").click(function(){
 $(".st4").click(function(){
     $(".books").prop("checked", true);
 });
+
+$(".st5").click(function(){
+    $(".quinto").prop("checked", true);
+});
+$(".st6").click(function(){
+    $(".sexto").prop("checked", true);
+});
+$(".st7").click(function(){
+    $(".setimo").prop("checked", true);
+});
+$(".st8").click(function(){
+    $(".oitavo").prop("checked", true);
+});

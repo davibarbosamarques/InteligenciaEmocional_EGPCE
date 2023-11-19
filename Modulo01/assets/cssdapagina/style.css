@@ -36,6 +36,8 @@ ul.nav{
     position: absolute;
     width: 100%;
     margin-top: -40px;
+    display: flex;
+    flex-wrap: nowrap;
 }
 ul.nav li{
     list-style: none;
@@ -147,10 +149,10 @@ h3{
     letter-spacing: 4px;
 }
  #secao p{
-    padding: 30px 40px;
+    padding: 50px 10px;
     text-align: center;
     font-weight: bolder;
-    font-size: 13px;
+    font-size: 1rem;
 }
 
 .profile:checked ~ .topo .nav li.st1::before,
@@ -170,6 +172,43 @@ h3{
     background: green;
     transition: all .3s ease;
 }
+
+.quinto:checked ~ .topo .nav li.st5::before,
+
+.sexto:checked ~ .topo .nav li.st6::before,
+.sexto:checked ~ .topo .nav li.st6::before,
+
+.setimo:checked ~ .topo .nav li.st7::before,
+.setimo:checked ~ .topo .nav li.st7::before,
+.setimo:checked ~ .topo .nav li.st7::before,
+
+.oitavo:checked ~ .topo .nav li.st8::before,
+.oitavo:checked ~ .topo .nav li.st8::before,
+.oitavo:checked ~ .topo .nav li.st8::before,
+.oitavo:checked ~ .topo .nav li.st8::before{
+  border: 2px solid #fff;
+  background: green;
+  transition: all .3s ease;
+}
+.profile-quinto,
+.Account-sexto,
+.Posts-setimo,
+.Advanced-oitavo{
+  transform: scale(0);
+  transform-origin: center bottom;
+  transition: all .7s ease;
+  position: absolute;
+  top: 0;
+}
+.quinto:checked ~ .conteudo .profile-quinto,
+.sexto:checked ~ .conteudo .Account-sexto,
+.setimo:checked ~ .conteudo .Posts-setimo,
+.oitavo:checked ~ .conteudo .Advanced-oitavo{
+    display: block;
+    transform: scale(1);
+    transform-origin: bottom;
+}
+
 .settings:checked ~ .topo .line span{
     width: 35%;
 }
@@ -190,6 +229,7 @@ h3{
     position: absolute;
     top: 0;
 }
+
 .profile:checked ~ .conteudo .profile-section,
 .settings:checked ~ .conteudo .Account-section,
 .posts:checked ~ .conteudo .Posts-section,
@@ -228,7 +268,7 @@ h3{
 }
 @media (max-width: 768px) {
     .timeline{
-        margin-bottom: 50em;
+        margin-bottom: 40em;
     }
     .conteudo {
         position: static; /* Remova o position: absolute */
@@ -238,10 +278,38 @@ h3{
         width: 100%; /* Ocupa 100% da largura em telas menores */
     }
 
-    #secao {
+    /* #secao {
         margin-bottom: 100vh !important; /* Adicione margem na parte inferior conforme necessário */
-    }
+    
 }
+@media (max-width: 900px) {
+
+  .timeline{
+    margin-top: 2em;
+    margin-left: auto;
+    margin-bottom: 20em;
+    margin-right: auto;
+    /* width: 80vw; */
+    height: 30vw;
+  }
+  
+  ul.nav li .inner{
+    padding: none;
+    width: 100%;
+    bottom: 0;
+    font-size: 8px;
+    font-weight: bolder;
+  }
+  
+  
+  
+  
+  }
+  
+   /* timeline fim */
+  
+  
+ 
 
 .bd-topico04-2{
     border-left:5px solid #f0ad4e;   
@@ -397,12 +465,18 @@ article p {
   max-width: 35rem;
 }
 
+[data-theme="dark"] .dica{
+  color: black !important;
+}
+[data-theme="dark"] .itemlistacaderno{
+  color: black !important;
+}
 h1 {
   text-align: center;
 }
 
 .listacaderno{
-  list-style: none;
+  
   padding: 0;
 }
 

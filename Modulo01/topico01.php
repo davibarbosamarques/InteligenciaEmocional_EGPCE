@@ -38,8 +38,7 @@ include('layout/head.php');
                         <!-- Titulo Figura -->
                         <div class="text-center img-01 wow animate__zoomIn">
                             <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
-                                Representação
-                                do tempo na mente humana</p>
+                                Representação de estados emocionais</p>
                             <div class="zoom">
                                 <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
                                     <img class="w-50" src="imgs/topico01/Figura01.jpg" alt="Imagem que remete a organização" id="img-1">
@@ -69,7 +68,9 @@ include('layout/head.php');
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
 
-                        
+                        <div class="text-center">
+                                <h6 class="fs-6 SmallCaps badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb" style="color:white"></i> Clique para saber mais sobre as inteligências.</h6>
+                        </div>
                         <div class="storytelling">
                         <div class="timeline">
                             <input type="radio" checked class="profile" id="" name="bright">
@@ -79,16 +80,16 @@ include('layout/head.php');
                             <div class="topo">
                                 <ul class="nav">
                                     <li class="st st1" >
-                                        <h2 class="inner">Profile</h2>
+                                        <h2 class="inner">Lingüística</h2>
                                     </li>
                                     <li class="st st2">
-                                        <h2 class="inner">Account</h2>
+                                        <h2 class="inner">Matemática</h2>
                                     </li>
                                     <li class="st st3">
-                                        <h2 class="inner">Posts</h2>
+                                        <h2 class="inner">Espacial</h2>
                                     </li>
                                     <li class="st st4">
-                                        <h2 class="inner">Advanced</h2>
+                                        <h2 class="inner">Musical</h2>
                                     </li>
                                 </ul>
                                 <div class="line">
@@ -98,27 +99,82 @@ include('layout/head.php');
                             <div class="conteudo">
                                 <section class="profile-section" id="secao">
                                     <span></span>
-                                    <h3>Home Section</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                    <h3>Inteligência Linguística</h3>
+                                    <p>Relacionada à capacidade de trabalhar com as palavras, sendo atribuída especialmente aos poetas.</p>
                                 </section>
                                 <section class="Account-section" id="secao">
                                     <span></span>
-                                    <h3>Account Section</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                    <h3>Inteligência Lógico-Matemática</h3>
+                                    <p>Ligada à capacidade para a lógica e matemática, sendo tradicionalmente utilizada pelos testes de QI.</p>
                                 </section>
                                 <section class="Posts-section" id="secao">
                                     <span></span>
-                                    <h3>Posts Section</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                    <h3>Inteligência Espacial</h3>
+                                    <p>Relacionada à capacidade de visualizar dimensões espaciais, sendo bastante utilizada por engenheiros, arquitetos, pilotos, etc.</p>
                                 </section>            
                                 <section class="Advanced-section" id="secao">
                                     <span></span>
-                                    <h3>Advanced Section</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aliquam blanditiis placeat nobis dolore nemo, alias delectus magni cum minus omnis sunt dolores. Odio error rem, placeat fugit optio saepe.</p>
+                                    <h3>Inteligência Musical</h3>
+                                    <p>Trata-se da habilidade dos músicos e compositores.</p>
                                 </section>
                             </div>
                         </div>
                         </div>
+
+                        <div class="storytelling">
+                        <div class="timeline">
+                            <input type="radio" class="quinto" id="" name="bright">
+                            <input type="radio" class="sexto" id="" name="bright">
+                            <input type="radio" class="setimo" id="" name="bright">
+                            <input type="radio" class="oitavo" id="" name="bright">
+                            <div class="topo">
+                                <ul class="nav">
+                                    <li class="st st5" >
+                                        <h2 class="inner">Lingüística</h2>
+                                    </li>
+                                    <li class="st st6">
+                                        <h2 class="inner">Matemática</h2>
+                                    </li>
+                                    <li class="st st7">
+                                        <h2 class="inner">Espacial</h2>
+                                    </li>
+                                    <li class="st st8">
+                                        <h2 class="inner">Musical</h2>
+                                    </li>
+                                    <li class="st st4">
+                                        <h2 class="inner">Musical</h2>
+                                    </li>
+                                </ul>
+                                <div class="line">
+                                    <span></span>
+                                </div>
+                            </div>
+                            <div class="conteudo">
+                                <section class="profile-quinto" id="secao">
+                                    <span></span>
+                                    <h3>Inteligência Linguística</h3>
+                                    <p>Relacionada à capacidade de trabalhar com as palavras, sendo atribuída especialmente aos poetas.</p>
+                                </section>
+                                <section class="Account-sexto" id="secao">
+                                    <span></span>
+                                    <h3>Inteligência Lógico-Matemática</h3>
+                                    <p>Ligada à capacidade para a lógica e matemática, sendo tradicionalmente utilizada pelos testes de QI.</p>
+                                </section>
+                                <section class="Posts-setimo" id="secao">
+                                    <span></span>
+                                    <h3>Inteligência Espacial</h3>
+                                    <p>Relacionada à capacidade de visualizar dimensões espaciais, sendo bastante utilizada por engenheiros, arquitetos, pilotos, etc.</p>
+                                </section>            
+                                <section class="Advanced-oitavo" id="secao">
+                                    <span></span>
+                                    <h3>Inteligência Musical</h3>
+                                    <p>Trata-se da habilidade dos músicos e compositores.</p>
+                                </section>
+                            </div>
+                        </div>
+                        </div>
+
+
 
                         <p class="wow fadeIn" data-wow-delay="0.3s">Todos os tipos de inteligência são muito desejáveis e é bem provável que logo após ter lido sobre elas, você tenha se identificado com uma ou mais delas. É normal percebermos que existe em nós uma predominância de algumas dessas inteligências, enquanto outras nos parece um tanto difícil de praticar.</p>
 
@@ -128,12 +184,10 @@ include('layout/head.php');
                         <div class="col-md-6">
                         <!-- Titulo Figura -->
                         <div class="text-center img-01 wow animate__zoomIn">
-                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
-                                Representação
-                                do tempo na mente humana</p>
+                            <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura de Howard Gardner</strong></p>
                             <div class="zoom">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="w-50" src="imgs/topico01/gardner.webp" alt="Imagem que remete a organização" id="img-1">
+                                <a href="gardner" data-bs-toggle="modal" data-bs-target="#gardner">
+                                    <img class="w-75" src="imgs/topico01/gardner.webp" alt="Imagem que remete a organização" id="img-1">
                                 </a>
                             </div>
                             <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> banco de imagens
@@ -142,7 +196,7 @@ include('layout/head.php');
                         </div>
 
                         <!-- Imagem 01 - MODAL (Audi)-->
-                        <div class="modal fade text-center" id="Imagem01" tabindex="-1"
+                        <div class="modal fade text-center" id="gardner" tabindex="-1"
                             aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div
                                 class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
@@ -156,7 +210,7 @@ include('layout/head.php');
                             </div>
                         </div>
                         <!-- Imagem 01 - End  (Audi)-->
-                            <div class="col-md-6">
+                            <div class="col-md-6 wow animate__zoomIn"">
                                 <p> Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.</p>
 
                             </div>

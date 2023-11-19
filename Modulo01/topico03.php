@@ -135,7 +135,7 @@ include('layout/head.php');
 
                             <div class="container">
                             <div class="caderno">
-                                <p>Pegue uma folha em branco e escreva essas perguntas e em seguida responda. Ao final faça uma reflexão e dê continuidade ao curso.</p>
+                                <p class="dica">Pegue uma folha em branco e escreva essas perguntas e em seguida responda. Ao final faça uma reflexão e dê continuidade ao curso.</p>
                                 <ol class="listacaderno">
 
                                 <li class="itemlistacaderno wow fadeInLeft" data-wow-delay="0.1s">Você pode falar um pouco sobre você?</li>
