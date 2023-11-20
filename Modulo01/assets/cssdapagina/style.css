@@ -101,12 +101,12 @@ ul li h2{
     border-bottom: none !important;
 }
 .line{
-    width: 76%;
+    width: 80%;
     margin: auto;
     background: #eee;
     height: 7px;
     position: absolute;
-    left: 11.5%;
+    left: 10%;
     top: 52px;
     z-index: 1;
     border-radius: 50px;
