@@ -29,59 +29,93 @@
                         <h2 class="Titulo fw-bolde wow fadeIn" data-wow-delay="0.3s">Apresentação</h2>
                         <!-- Título -->
 
-                        <div class="container mt-4 wow animate__zoomIn">
-                            <div class="cards">
-                                <label id="summary">
-                                    <input type="checkbox" />
-                                    <article class="article-index">
-                                        <div class="front">
-                                            <header>
-                                                <h2><strong>Clique para saber mais</strong></h2>
-                                                <span class="material-symbols-outlined"> <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i> </span>
-                                            </header>
+                        <div class="tudo">
+                            <div class="row d-flex align-items-center justify-content-between">
+                                <div class="col-sm-12 col-md-6">
+                                    <img src="imgs/img-comeco.png" alt="Imagem que remete a organização" id="img-1" class="w-50">
+                                </div>
 
-                                            <p class="text-left paragrafo fs-6">
-                                                Bem-vindo ao curso sobre <strong>Inteligência Emocional e Trabalho em
-                                                    Equipe</strong>. Se
-                                                você, em qualquer momento da sua vida, já entrou em conflito com pessoas
-                                                queridas, já se viu
-                                                sem conseguir ter uma relação afetiva saudável com alguém importante, ou
-                                                ainda, já teve
-                                                problemas para se relacionar com colegas de trabalho, então
-                                                provavelmente se beneficiará
-                                                enormemente do conteúdo que apresentarei aqui. Além disso, esse curso
-                                                será de grande valia
-                                                para pessoas que já enfrentaram problemas tais como depressão,
-                                                ansiedade, ataques de pânico
-                                                e irritação constante.
-                                            </p>
+                                <div class="col-sm-12 col-md-6">
+                                    <div class="container mt-4 wow animate__zoomIn">
+                                        <div class="cards">
+                                            <label id="summary">
+                                                <input type="checkbox" />
+                                                <article class="article-index">
+                                                    <div class="front">
+                                                        <header>
+                                                            <h2><strong>Clique para saber mais</strong></h2>
+                                                            <span class="material-symbols-outlined"> <i
+                                                                    class="fa-regular fa-hand-pointer fs-4"
+                                                                    style="color: #fff"></i> </span>
+                                                        </header>
 
+                                                        <p class="text-left paragrafo fs-6">
+                                                            Bem-vindo ao curso sobre <strong>Inteligência Emocional e
+                                                                Trabalho
+                                                                em
+                                                                Equipe</strong>. Se
+                                                            você, em qualquer momento da sua vida, já entrou em conflito
+                                                            com
+                                                            pessoas
+                                                            queridas, já se viu
+                                                            sem conseguir ter uma relação afetiva saudável com alguém
+                                                            importante, ou
+                                                            ainda, já teve
+                                                            problemas para se relacionar com colegas de trabalho, então
+                                                            provavelmente se beneficiará
+                                                            enormemente do conteúdo que apresentarei aqui. Além disso,
+                                                            esse
+                                                            curso
+                                                            será de grande valia
+                                                            para pessoas que já enfrentaram problemas tais como
+                                                            depressão,
+                                                            ansiedade, ataques de pânico
+                                                            e irritação constante.
+                                                        </p>
+
+                                                    </div>
+                                                    <div class="back">
+                                                        <header>
+                                                            <h2><strong>Clique para voltar</strong></h2>
+                                                            <i class="fa-regular fa-hand-pointer fs-4"
+                                                                style="color: #fff"></i>
+                                                        </header>
+                                                        <p class="text-left paragrafo fs-6">
+                                                            Durante as próximas horas, eu, <strong>Kamila
+                                                                Nascimento</strong>,
+                                                            lhe
+                                                            conduzirei em uma
+                                                            jornada de autoconhecimento que lhe permitirá conhecer a si
+                                                            mesmo e
+                                                            aos
+                                                            demais por meio de
+                                                            uma nova perspectiva. Há mais de uma década, venho estudando
+                                                            os
+                                                            seres
+                                                            humanos e seus
+                                                            relacionamentos na sociedade. Essa interação entre o “eu” e
+                                                            o
+                                                            “outro”
+                                                            tem sido o coração dos
+                                                            estudos das ciências sociais e da psicologia desde seus
+                                                            primórdios.
+                                                            A
+                                                            partir de inúmeros
+                                                            experimentos e observações, os pesquisadores buscaram
+                                                            analisar, do
+                                                            ponto
+                                                            de vista individual
+                                                            e coletivo, como essa interação ocorre e de que modo ela
+                                                            pode ser
+                                                            aperfeiçoada a fim de
+                                                            contribuir com a nossa felicidade.
+                                                        </p>
+                                                    </div>
+                                                </article>
+                                            </label>
                                         </div>
-                                        <div class="back">
-                                            <header>
-                                                <h2><strong>Clique para voltar</strong></h2>
-                                                <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
-                                            </header>
-                                            <p class="text-left paragrafo fs-6">
-                                                Durante as próximas horas, eu, <strong>Kamila Nascimento</strong>, lhe
-                                                conduzirei em uma
-                                                jornada de autoconhecimento que lhe permitirá conhecer a si mesmo e aos
-                                                demais por meio de
-                                                uma nova perspectiva. Há mais de uma década, venho estudando os seres
-                                                humanos e seus
-                                                relacionamentos na sociedade. Essa interação entre o “eu” e o “outro”
-                                                tem sido o coração dos
-                                                estudos das ciências sociais e da psicologia desde seus primórdios. A
-                                                partir de inúmeros
-                                                experimentos e observações, os pesquisadores buscaram analisar, do ponto
-                                                de vista individual
-                                                e coletivo, como essa interação ocorre e de que modo ela pode ser
-                                                aperfeiçoada a fim de
-                                                contribuir com a nossa felicidade.
-                                            </p>
-                                        </div>
-                                    </article>
-                                </label>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
