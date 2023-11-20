@@ -87,6 +87,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 
+
 // SUBTÓPICO COM JQUERY
 
 $(document).ready(function () {

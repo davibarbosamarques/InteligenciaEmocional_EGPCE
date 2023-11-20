@@ -127,7 +127,7 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <h2><strong>Clique para voltar</strong></h2>
                                                 <i class="fa-regular fa-hand-pointer" style="color: #fff"></i>
                                             </header>
                                             <div class="text-left">
@@ -194,11 +194,11 @@
                         </section>
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
-                            <h5 class="d-flex justify-content-center mb-2"><span class="badge bg-warning p-2"><i
-                                        class="bi bi-lightbulb-fill"></i> Assista ao vídeo de Teste de QI de 5 Perguntas
-                                    que
-                                    Vai Detectar o Seu
-                                    Intelecto, do canal INCRÍVEL.</span></h5>
+                        <h5 class="d-flex justify-content-center mb-2"><span class="badge bg-warning p-2"><i
+                                    class="bi bi-lightbulb-fill"></i> Assista ao vídeo de Teste de QI de 5 Perguntas
+                                que
+                                Vai Detectar o Seu
+                                Intelecto, do canal INCRÍVEL.</span></h5>
 
 
                         <!-- Iframe - video -->
@@ -222,9 +222,8 @@
                             eficiente em uma ou mais delas.
                         </p>
 
-                            <h5 class="text-center"><span class="badge bg-warning p-2"><i
-                                        class="bi bi-lightbulb-fill"></i>
-                                    Clique para saber mais</span></h5>
+                        <h5 class="text-center"><span class="badge bg-warning p-2"><i class="bi bi-lightbulb-fill"></i>
+                                Clique para saber mais</span></h5>
 
                         <div class="container">
                             <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -320,9 +319,8 @@
                             indispensáveis à convivência social.
                         </P>
 
-                            <h5 class="text-center"><span class="badge bg-warning p-2"><i
-                                        class="bi bi-lightbulb-fill"></i>
-                                    Clique para saber mais</span></h5>
+                        <h5 class="text-center"><span class="badge bg-warning p-2"><i class="bi bi-lightbulb-fill"></i>
+                                Clique para saber mais</span></h5>
 
                         <div class="container">
                             <div class="accordion" id="accordionPanelsStayOpenExample">
@@ -417,7 +415,7 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <h2><strong>Clique para voltar</strong></h2>
                                                 <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
                                             </header>
                                             <div class="text-left">
@@ -508,7 +506,7 @@
 
         <!-- Botões de navegação -->
         <div class="text-center wow fadeIn" data-wow-delay="0.3s">
-            <a href="index.php" class="btn btn-outline-success" role="button" aria-pressed="true"><i
+            <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true"><i
                     class="fa-solid fa-chevron-left"></i> Voltar</a>
 
             <a href="topico03.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i

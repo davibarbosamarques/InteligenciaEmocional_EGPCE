@@ -239,62 +239,63 @@
                         <div class="container wow fadeIn d-flex align-items-center justify-content-between mt-5"
                             data-wow-daley="0.3s">
                             <div class="row">
-                            <div class="col-sm-12 col-md-6">
-                            <div class="paragrafos">
-                                <p>
-                                    Recepcionar as próprias emoções não significa <br>
-                                    ceder a todos os desejos e impulsos que surgem <br>
-                                    imediatamente em nossa mente. A Inteligência <br>
-                                    Emocional significa o discernimento das nossas <br>
-                                    emoções e a decisão consciente de como <br>
-                                    responder a elas (CURY, 2007).
-                                </p>
+                                <div class="col-sm-12 col-md-6">
+                                    <div class="paragrafos">
+                                        <p>
+                                            Recepcionar as próprias emoções não significa <br>
+                                            ceder a todos os desejos e impulsos que surgem <br>
+                                            imediatamente em nossa mente. A Inteligência <br>
+                                            Emocional significa o discernimento das nossas <br>
+                                            emoções e a decisão consciente de como <br>
+                                            responder a elas (CURY, 2007).
+                                        </p>
 
-                                <p>
-                                    Para iniciar o processo de autoconhecimento das <br>
-                                    emoções e dos seus padrões mentais, é necessário <br>
-                                    que você comece a tomar consciência de como, no <br>
-                                    seu dia a dia, costuma reagir a determinadas <br>
-                                    situações recorrentes na sua rotina. Para isso, será <br>
-                                    necessário um esforço no sentido de coletar essas <br>
-                                    informações a partir da sua própria mente, e isso <br>
-                                    pode ser alcançado através de um diário.
-                                </p>
-                            </div>
-                            </div>
-
-                            <!-- IMAGEM NO SITE  -->
-                            <div class="col-sm-12 col-md-6">
-                            <div class="text-center img-01 wow animate__zoomIn">
-                                <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 6:</strong>
-                                    Representação do aprendizado</p>
-                                <div class="zoom">
-                                    <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem6">
-                                        <img src="imgs/topico05/figura06.jpg" alt="Imagem que remete a organização"
-                                            id="img-1" class="w-75">
-                                    </a>
-                                </div>
-                                <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong>descrição
-                                </p>
-                            </div>
-
-                            <!-- Imagem - MODAL-->
-                            <div class="modal fade text-center" id="Imagem6" tabindex="-1"
-                                aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div
-                                    class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
-                                    <div class="modal-content w-50">
-                                        <img class="img-fluid" src="imgs/topico05/figura06.jpg"
-                                            alt="Alt da imagem fica aqui">
-                                    </div>
-                                    <div class="modal-footer w-50 bg-light justify-content-center">
-                                        <p class="text-secondary"><strong>Fonte:</strong>descrição</p>
+                                        <p>
+                                            Para iniciar o processo de autoconhecimento das <br>
+                                            emoções e dos seus padrões mentais, é necessário <br>
+                                            que você comece a tomar consciência de como, no <br>
+                                            seu dia a dia, costuma reagir a determinadas <br>
+                                            situações recorrentes na sua rotina. Para isso, será <br>
+                                            necessário um esforço no sentido de coletar essas <br>
+                                            informações a partir da sua própria mente, e isso <br>
+                                            pode ser alcançado através de um diário.
+                                        </p>
                                     </div>
                                 </div>
+
+                                <!-- IMAGEM NO SITE  -->
+                                <div class="col-sm-12 col-md-6">
+                                    <div class="text-center img-01 wow animate__zoomIn">
+                                        <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 6:</strong>
+                                            Representação do aprendizado</p>
+                                        <div class="zoom">
+                                            <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem6">
+                                                <img src="imgs/topico05/figura06.jpg"
+                                                    alt="Imagem que remete a organização" id="img-1" class="w-75">
+                                            </a>
+                                        </div>
+                                        <p class="FonteFigura FonteMenor text-secondary">
+                                            <strong>Fonte:</strong>descrição
+                                        </p>
+                                    </div>
+
+                                    <!-- Imagem - MODAL-->
+                                    <div class="modal fade text-center" id="Imagem6" tabindex="-1"
+                                        aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                        <div
+                                            class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                            <div class="modal-content w-50">
+                                                <img class="img-fluid" src="imgs/topico05/figura06.jpg"
+                                                    alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer w-50 bg-light justify-content-center">
+                                                <p class="text-secondary"><strong>Fonte:</strong>descrição</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Imagem - End-->
+                                </div>
                             </div>
-                            <!-- Imagem - End-->
-                        </div>
-                        </div>
                         </div>
 
                         <p class="wow fadeIn" data-wow-daley="0.3s">
@@ -415,7 +416,7 @@
                                         respondesse algumas questões sobre o conteúdo apresentado para fixar o seu
                                         conhecimento e checar se conseguiu absorver a maior parte do que foi dito.
                                     </p>
-                                </blockquote> 
+                                </blockquote>
                             </figure>
                         </div>
                         <!-- Citação com borda verde (esquerda) -->
