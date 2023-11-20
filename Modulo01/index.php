@@ -31,7 +31,7 @@
 
                         <div class="tudo">
                             <div class="row d-flex align-items-center justify-content-between">
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-sm-12 col-md-6 img-index">
                                     <img src="imgs/img-comeco.png" alt="Imagem que remete a organização" id="img-1" class="w-50">
                                 </div>
 

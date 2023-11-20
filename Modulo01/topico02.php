@@ -222,20 +222,6 @@
                             eficiente em uma ou mais delas.
                         </p>
 
-                        <!-- <p class="wow fadeIn" data-wow-delay="0.3s">
-                            A partir desses resultados, percebeu-se que estes tipos de testes eram
-                            extremamente
-                            limitados e preconceituosos, visto que destacavam apenas um pequeno número de
-                            habilidades humanas que não reflete a diversidade dos seres. Conforme destacado
-                            acima,
-                            cada tipo de atividade que um ser humano queira exercer estará relacionado a um
-                            tipo de
-                            inteligência distinta. Bill Gates, por exemplo, talvez não fizesse bom uso das
-                            habilidades de um grande corredor, enquanto um esportista provavelmente não
-                            precisa das
-                            habilidades de um empreendedor.
-                        </p> -->
-
                         <h5 class="text-center"><span class="badge bg-warning"><i class="bi bi-lightbulb-fill"></i> Clique para saber mais</span></h5>
 
                         <div class="container">
@@ -288,13 +274,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <p class="wow fadeIn mt-2" data-wow-delay="0.3s">
-                            Entretanto, isso de modo algum nos autoriza a pensar que as habilidades de um milionário
-                            sejam mais importantes que as de um atleta. No entanto, socialmente, fomos condicionados a
-                            valorizar mais alguns tipos de habilidades - como as lógico-matemáticas - em prejuízo de
-                            outras - como as motoras e musicais.
-                        </p> -->
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
                         <section class="container wow fadeIn" data-wow-delay="0.3s">
