@@ -69,7 +69,7 @@ include('layout/head.php');
                         <p class="wow fadeIn" data-wow-delay="0.3s">De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
 
                         <div class="text-center">
-                        <h4><span class="badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb" style="color:white"></i> Clique para entender sobre as nove Inteligência.</span></h4>
+                        <h4><span class="badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb" style="color:white"></i> Clique para entender sobre as nove Inteligências.</span></h4>
                         </div>
                         <div class="storytelling">
                         <div class="timeline">
@@ -209,12 +209,12 @@ include('layout/head.php');
                                     <img class="img-fluid" src="imgs/topico01/gardner.webp" alt="Alt da imagem fica aqui">
                                 </div>
                                 <div class="modal-footer w-50 bg-light justify-content-center">
-                                <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a target="blank" href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/">Site Inteligencia de Vida</a></p>
+                                <p class="FonteFigura FonteMenor text-secondary"><strong>Figura de Howard Gardner</strong></p>
                                 </div>
                             </div>
                         </div>
                         <!-- Imagem 01 - End  (Audi)-->
-                            <div class="col-md-6 wow animate__zoomIn"">
+                            <div class="col-md-6 wow animate__zoomIn">
                                 <p> Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.</p>
 
                             </div>
