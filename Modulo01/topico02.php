@@ -30,7 +30,7 @@
                         </h2>
                         <!-- Título -->
 
-                        <!-- Citação com borda verde (esquerda) -->z
+                        <!-- Citação com borda verde (esquerda) -->
                         <div class="bd-callout bd-callout-success m-5 wow fadeIn" data-wow-delay="0.3s">
 
                             <!-- blockquote do bootstrap -->
@@ -194,12 +194,12 @@
                         </section>
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
-                        <div class="alert alert-warning d-flex justify-content-center" role="alert">
-                            <p class="fs-6">
-                                Assista ao vídeo de Teste de QI de 5 Perguntas que Vai Detectar o Seu
-                                Intelecto, do canal INCRÍVEL.
-                            </p>
-                        </div>
+                            <h5 class="d-flex justify-content-center mb-2"><span class="badge bg-warning p-2"><i
+                                        class="bi bi-lightbulb-fill"></i> Assista ao vídeo de Teste de QI de 5 Perguntas
+                                    que
+                                    Vai Detectar o Seu
+                                    Intelecto, do canal INCRÍVEL.</span></h5>
+
 
                         <!-- Iframe - video -->
                         <div class="container iframe-container wow animate__zoomIn" data-wow-delay="0.3s">
@@ -222,7 +222,9 @@
                             eficiente em uma ou mais delas.
                         </p>
 
-                        <h5 class="text-center"><span class="badge bg-warning"><i class="bi bi-lightbulb-fill"></i> Clique para saber mais</span></h5>
+                            <h5 class="text-center"><span class="badge bg-warning p-2"><i
+                                        class="bi bi-lightbulb-fill"></i>
+                                    Clique para saber mais</span></h5>
 
                         <div class="container">
                             <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -318,20 +320,9 @@
                             indispensáveis à convivência social.
                         </P>
 
-
-                        <!-- <p class="text-right">
-                            Como resultado disso, os indivíduos que não possuem nenhuma dessas inteligências
-                            como
-                            preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta razão,
-                            os livros e
-                            treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais
-                            disseminados.
-                            Inclusive, você que se matriculou neste curso provavelmente está em busca de
-                            aprender novas
-                            técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
-                        </p> -->
-
-                        <h5 class="text-center"><span class="badge bg-warning"><i class="bi bi-lightbulb-fill"></i> Clique para saber mais</span></h5>
+                            <h5 class="text-center"><span class="badge bg-warning p-2"><i
+                                        class="bi bi-lightbulb-fill"></i>
+                                    Clique para saber mais</span></h5>
 
                         <div class="container">
                             <div class="accordion" id="accordionPanelsStayOpenExample">
@@ -345,193 +336,173 @@
                                     </h2>
                                     <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
                                         <div class="accordion-body">
-                                        os indivíduos que não possuem nenhuma dessas inteligências
-                            como
-                            preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta razão,
-                            os livros e
-                            treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais
-                            disseminados.
-                            Inclusive, você que se matriculou neste curso provavelmente está em busca de
-                            aprender novas
-                            técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
+                                            os indivíduos que não possuem nenhuma dessas inteligências
+                                            como
+                                            preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta
+                                            razão,
+                                            os livros e
+                                            treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais
+                                            disseminados.
+                                            Inclusive, você que se matriculou neste curso provavelmente está em busca de
+                                            aprender novas
+                                            técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="accordion accordion-flush" id="accordionFlushExample">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button text-light collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#flush-collapseOne" aria-expanded="false"
-                                        aria-controls="flush-collapseOne">
-                                        <h5>Como resultado disso...</h5>
-                                    </button>
-                                </h2>
-                                <div id="flush-collapseOne" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionFlushExample">
-                                    <div class="accordion-body">os indivíduos que não possuem nenhuma dessas inteligências
-                            como
-                            preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta razão,
-                            os livros e
-                            treinamentos sobre o tema da inteligência emocional vêm sendo cada dia mais
-                            disseminados.
-                            Inclusive, você que se matriculou neste curso provavelmente está em busca de
-                            aprender novas
-                            técnicas que lhe possibilite dominar habilidades de desenvolvimento pessoal.</div>
-                                </div>
-                            </div> -->
-
-                                <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
-                                <section class="container wow fadeIn" data-wow-delay="0.3s">
-                                    <div class="accordion ">
-                                        <section id="content">
-                                            <div class="caixaprincipal" id="titulofiqueatento">
-                                                <div class="div_teste">
-                                                    <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE
-                                                        ATENTO
-                                                    </div>
-                                                    <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
-                                                </div>
-                                            </div> <!--caixa Principal-->
-                                            <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
-                                                <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima
-                                                    </strong>
-                                                </p>
-                                                <p class="txt-caixasecundaria">
-                                                    A Inteligência Emocional inclui a flexibilidade emocional, empatia,
-                                                    capacidade de gerenciar o estresse, autoconhecimento, autoestima,
-                                                    entre
-                                                    outros. Estas são habilidades que nos auxiliam a lidar com as nossas
-                                                    emoções
-                                                    e com as dos demais no dia a dia, e são especialmente úteis em
-                                                    situações de
-                                                    mudanças de ambiente e contexto (CURY, 2007).
-                                                </p>
-                                            </div>
-                                        </section>
-                                </section>
-                                <!-- FIM DA CAIXA FIQUE ATENTO -->
-
-                                <div class="container mt-4 wow animate__zoomIn">
-                                    <div class="cards">
-                                        <label id="summary">
-                                            <input type="checkbox" />
-                                            <article class="article-topico02">
-                                                <div class="front">
-                                                    <header>
-                                                        <h2><strong>Clique para saber mais</strong></h2>
-                                                        <span class="material-symbols-outlined"> <i
-                                                                class="fa-regular fa-hand-pointer fs-4"
-                                                                style="color: #fff"></i>
-                                                        </span>
-                                                    </header>
-
-                                                    <p class="text-left paragrafo">
-                                                        Isto ocorre porque pessoas com alta Inteligência Emocional
-                                                        costumam ser
-                                                        muito
-                                                        eficazes em processos adaptativos, conseguindo facilmente
-                                                        perceber
-                                                        mudanças e se
-                                                        ajustar a elas. Além disso, é bastante provável que elas
-                                                        consigam
-                                                        facilmente
-                                                        conectar-se em novos relacionamentos interpessoais, o que
-                                                        explica o fato
-                                                        dela
-                                                        ser um fator preponderante para quem trabalha com vendas e
-                                                        negociações.
-                                                    </p>
-
-                                                </div>
-                                                <div class="back">
-                                                    <header>
-                                                        <h2><strong>Clique para saber mais</strong></h2>
-                                                        <i class="fa-regular fa-hand-pointer fs-4"
-                                                            style="color: #fff"></i>
-                                                    </header>
-                                                    <div class="text-left">
-                                                        <p class="paragrafo">
-                                                            Por outro lado, uma baixa Inteligência Emocional pode nos
-                                                            levar a
-                                                            problemas de
-                                                            comunicação, de interação com as novidades, e pode inclusive
-                                                            nos
-                                                            induzir a tomar
-                                                            decisões precipitadas que geram conflitos ou danos contra a
-                                                            própria
-                                                            pessoa e os
-                                                            outros (CURY, 2007).
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </article>
-                                        </label>
-                                    </div>
-                                </div>
-
-                                <p class="wow fadeIN" data-wow-daley="0.3s">
-                                    A baixa capacidade em compreender e lidar com as emoções também está associada a uma
-                                    maior
-                                    propensão para doenças mentais e físicas. Isto ocorre porque as emoções que não são
-                                    bem
-                                    processadas pelo indivíduo tendem a se acumular e causar problemas como ansiedade,
-                                    estresse
-                                    e depressão. Estes, por sua vez, podem prejudicar o sistema imunológico e causar
-                                    outros
-                                    tipos de doenças.
-                                </p>
-
-                                <p class="wow fadeIN" data-wow-daley="0.3s">
-                                    Gerenciar as emoções não significa reprimir tudo aquilo que se apresenta
-                                    imediatamente como
-                                    negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a
-                                    ignorar
-                                    parte da nossa existência e, na verdade, logo em seguida ela voltaria a se
-                                    apresentar (CURY,
-                                    2007).
-                                </p>
-
-                                <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
-                                <section class="container wow fadeIn" data-wow-delay="0.3s">
-                                    <div class="accordion ">
-                                        <section id="content">
-                                            <div class="caixaprincipal" id="titulofiqueatento">
-                                                <div class="div_teste">
-                                                    <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE
-                                                        ATENTO
-                                                    </div>
-                                                    <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
-                                                </div>
-                                            </div> <!--caixa Principal-->
-                                            <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
-                                                <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima
-                                                    </strong>
-                                                </p>
-                                                <p class="txt-caixasecundaria">
-                                                    A Inteligência Emocional está relacionada ao reconhecimento da nossa
-                                                    posição
-                                                    no mundo de uma forma que nos empodere em vez de nos limitar. Os
-                                                    maiores
-                                                    obstáculos para alcançar este estado emocional são justamente negar
-                                                    a
-                                                    realidade ou buscar manejá-la de acordo com nosso entendimento
-                                                    pessoal. Ora,
-                                                    a realidade não se adapta aos nossos desejos individuais, ao
-                                                    contrário,
-                                                    somos nós que devemos desenvolver as habilidades necessárias para
-                                                    nos
-                                                    adaptarmos ao nosso contexto.
-                                                </p>
-                                            </div>
-                                        </section>
-                                </section>
-                                <!-- FIM DA CAIXA FIQUE ATENTO -->
-
                             </div>
-
                         </div>
 
+
+                        <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
+                        <section class="container wow fadeIn" data-wow-delay="0.3s">
+                            <div class="accordion ">
+                                <section id="content">
+                                    <div class="caixaprincipal" id="titulofiqueatento">
+                                        <div class="div_teste">
+                                            <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE
+                                                ATENTO
+                                            </div>
+                                            <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                        </div>
+                                    </div> <!--caixa Principal-->
+                                    <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
+                                        <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima
+                                            </strong>
+                                        </p>
+                                        <p class="txt-caixasecundaria">
+                                            A Inteligência Emocional inclui a flexibilidade emocional, empatia,
+                                            capacidade de gerenciar o estresse, autoconhecimento, autoestima,
+                                            entre
+                                            outros. Estas são habilidades que nos auxiliam a lidar com as nossas
+                                            emoções
+                                            e com as dos demais no dia a dia, e são especialmente úteis em
+                                            situações de
+                                            mudanças de ambiente e contexto (CURY, 2007).
+                                        </p>
+                                    </div>
+                                </section>
+                        </section>
+                        <!-- FIM DA CAIXA FIQUE ATENTO -->
+
+                        <div class="container mt-4 wow animate__zoomIn">
+                            <div class="cards">
+                                <label id="summary">
+                                    <input type="checkbox" />
+                                    <article class="article-topico02">
+                                        <div class="front">
+                                            <header>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <span class="material-symbols-outlined"> <i
+                                                        class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
+                                                </span>
+                                            </header>
+
+                                            <p class="text-left paragrafo">
+                                                Isto ocorre porque pessoas com alta Inteligência Emocional
+                                                costumam ser
+                                                muito
+                                                eficazes em processos adaptativos, conseguindo facilmente
+                                                perceber
+                                                mudanças e se
+                                                ajustar a elas. Além disso, é bastante provável que elas
+                                                consigam
+                                                facilmente
+                                                conectar-se em novos relacionamentos interpessoais, o que
+                                                explica o fato
+                                                dela
+                                                ser um fator preponderante para quem trabalha com vendas e
+                                                negociações.
+                                            </p>
+
+                                        </div>
+                                        <div class="back">
+                                            <header>
+                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
+                                            </header>
+                                            <div class="text-left">
+                                                <p class="paragrafo">
+                                                    Por outro lado, uma baixa Inteligência Emocional pode nos
+                                                    levar a
+                                                    problemas de
+                                                    comunicação, de interação com as novidades, e pode inclusive
+                                                    nos
+                                                    induzir a tomar
+                                                    decisões precipitadas que geram conflitos ou danos contra a
+                                                    própria
+                                                    pessoa e os
+                                                    outros (CURY, 2007).
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </label>
+                            </div>
+                        </div>
+
+                        <p class="wow fadeIN" data-wow-daley="0.3s">
+                            A baixa capacidade em compreender e lidar com as emoções também está associada a uma
+                            maior
+                            propensão para doenças mentais e físicas. Isto ocorre porque as emoções que não são
+                            bem
+                            processadas pelo indivíduo tendem a se acumular e causar problemas como ansiedade,
+                            estresse
+                            e depressão. Estes, por sua vez, podem prejudicar o sistema imunológico e causar
+                            outros
+                            tipos de doenças.
+                        </p>
+
+                        <p class="wow fadeIN" data-wow-daley="0.3s">
+                            Gerenciar as emoções não significa reprimir tudo aquilo que se apresenta
+                            imediatamente como
+                            negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a
+                            ignorar
+                            parte da nossa existência e, na verdade, logo em seguida ela voltaria a se
+                            apresentar (CURY,
+                            2007).
+                        </p>
+
+                        <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
+                        <section class="container wow fadeIn" data-wow-delay="0.3s">
+                            <div class="accordion ">
+                                <section id="content">
+                                    <div class="caixaprincipal" id="titulofiqueatento">
+                                        <div class="div_teste">
+                                            <div><i class="fa-solid fa-person-circle-exclamation"></i> FIQUE
+                                                ATENTO
+                                            </div>
+                                            <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                        </div>
+                                    </div> <!--caixa Principal-->
+                                    <div class="accordion-content" id="fiqueatento"><!--caixa secundaria-->
+                                        <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima
+                                            </strong>
+                                        </p>
+                                        <p class="txt-caixasecundaria">
+                                            A Inteligência Emocional está relacionada ao reconhecimento da nossa
+                                            posição
+                                            no mundo de uma forma que nos empodere em vez de nos limitar. Os
+                                            maiores
+                                            obstáculos para alcançar este estado emocional são justamente negar
+                                            a
+                                            realidade ou buscar manejá-la de acordo com nosso entendimento
+                                            pessoal. Ora,
+                                            a realidade não se adapta aos nossos desejos individuais, ao
+                                            contrário,
+                                            somos nós que devemos desenvolver as habilidades necessárias para
+                                            nos
+                                            adaptarmos ao nosso contexto.
+                                        </p>
+                                    </div>
+                                </section>
+                        </section>
+                        <!-- FIM DA CAIXA FIQUE ATENTO -->
+
                     </div>
+
+                </div>
+
+            </div>
 
         </section>
 
