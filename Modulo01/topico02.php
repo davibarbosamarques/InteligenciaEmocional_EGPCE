@@ -29,7 +29,7 @@
                         <h2 class="Titulo fw-bolde wow fadeIn" data-wow-delay="0.3s">02 - Qual é a melhor inteligência?</h2>
                         <!-- Título -->
 
-                        <!-- Citação com borda verde (esquerda) -->
+                        <!-- Citação com borda verde (esquerda) -->z
                         <div class="bd-callout bd-callout-success m-5 wow fadeIn" data-wow-delay="0.3s">
 
                             <!-- blockquote do bootstrap -->
