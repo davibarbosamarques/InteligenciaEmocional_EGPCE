@@ -23,3 +23,6 @@ $(".st7").click(function(){
 $(".st8").click(function(){
     $(".oitavo").prop("checked", true);
 });
+$(".st9").click(function(){
+    $(".nono").prop("checked", true);
+});

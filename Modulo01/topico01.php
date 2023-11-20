@@ -69,7 +69,7 @@ include('layout/head.php');
                         <p class="wow fadeIn" data-wow-delay="0.3s">De acordo com a Teoria das Inteligências Múltiplas, desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios humanos (HOWARD, 1999). São elas:</p>
 
                         <div class="text-center">
-                                <h6 class="fs-6 SmallCaps badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb" style="color:white"></i> Clique para saber mais sobre as inteligências.</h6>
+                        <h4><span class="badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb" style="color:white"></i> Clique para entender sobre as nove Inteligência.</span></h4>
                         </div>
                         <div class="storytelling">
                         <div class="timeline">
@@ -127,22 +127,23 @@ include('layout/head.php');
                             <input type="radio" class="sexto" id="" name="bright">
                             <input type="radio" class="setimo" id="" name="bright">
                             <input type="radio" class="oitavo" id="" name="bright">
+                            <input type="radio" class="nono" id="" name="bright">
                             <div class="topo">
                                 <ul class="nav">
                                     <li class="st st5" >
-                                        <h2 class="inner">Lingüística</h2>
+                                        <h2 class="inner">Corporal</h2>
                                     </li>
                                     <li class="st st6">
-                                        <h2 class="inner">Matemática</h2>
+                                        <h2 class="inner">Interpessoal</h2>
                                     </li>
                                     <li class="st st7">
-                                        <h2 class="inner">Espacial</h2>
+                                        <h2 class="inner">Intrapessoal</h2>
                                     </li>
                                     <li class="st st8">
-                                        <h2 class="inner">Musical</h2>
+                                        <h2 class="inner">Naturalista</h2>
                                     </li>
-                                    <li class="st st4">
-                                        <h2 class="inner">Musical</h2>
+                                    <li class="st st9">
+                                        <h2 class="inner">Existencial</h2>
                                     </li>
                                 </ul>
                                 <div class="line">
@@ -152,23 +153,28 @@ include('layout/head.php');
                             <div class="conteudo">
                                 <section class="profile-quinto" id="secao">
                                     <span></span>
-                                    <h3>Inteligência Linguística</h3>
-                                    <p>Relacionada à capacidade de trabalhar com as palavras, sendo atribuída especialmente aos poetas.</p>
+                                    <h3>Inteligência Corporal-Cinestésica</h3>
+                                    <p>Atribuída aos atletas, dançarinos e artistas que desenvolvem e trabalham o próprio corpo.</p>
                                 </section>
                                 <section class="Account-sexto" id="secao">
                                     <span></span>
-                                    <h3>Inteligência Lógico-Matemática</h3>
-                                    <p>Ligada à capacidade para a lógica e matemática, sendo tradicionalmente utilizada pelos testes de QI.</p>
+                                    <h3>Inteligência Interpessoal</h3>
+                                    <p>Capacidade de se relacionar com outras pessoas com facilidade. Envolve aspectos como empatia e escuta ativa e é atribuída a psicólogos, terapeutas, professores e a pessoas que trabalham com negociações, como vendedores e políticos.</p>
                                 </section>
                                 <section class="Posts-setimo" id="secao">
                                     <span></span>
-                                    <h3>Inteligência Espacial</h3>
-                                    <p>Relacionada à capacidade de visualizar dimensões espaciais, sendo bastante utilizada por engenheiros, arquitetos, pilotos, etc.</p>
+                                    <h3>Inteligência Intrapessoal</h3>
+                                    <p>Capacidade de se relacionar consigo mesmo e lidar com os próprios sentimentos e emoções. Relaciona-se com o autoconhecimento e com a autoestima;</p>
                                 </section>            
                                 <section class="Advanced-oitavo" id="secao">
                                     <span></span>
-                                    <h3>Inteligência Musical</h3>
-                                    <p>Trata-se da habilidade dos músicos e compositores.</p>
+                                    <h3>Inteligência Naturalista</h3>
+                                    <p>Relacionada com os profissionais que se interessam pelas ciências naturais e do meio ambiente. É a compreensão da natureza e seu funcionamento;</p>
+                                </section>
+                                <section class="Espace-nono" id="secao">
+                                    <span></span>
+                                    <h3>Inteligência Existencial</h3>
+                                    <p>Atribuída aos profissionais de filosofia, sociologia, antropologia, entre outros. É a capacidade de investigar e refletir sobre a existência humana, bem como de questionar a realidade.</p>
                                 </section>
                             </div>
                         </div>
@@ -190,8 +196,7 @@ include('layout/head.php');
                                     <img class="w-75" src="imgs/topico01/gardner.webp" alt="Imagem que remete a organização" id="img-1">
                                 </a>
                             </div>
-                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> banco de imagens
-                                gratuitas do canvas, 2020</p>
+                            <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a target="blank" href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/">Site Inteligencia de Vida</a></p>
                         </div>
                         </div>
 
@@ -204,8 +209,7 @@ include('layout/head.php');
                                     <img class="img-fluid" src="imgs/topico01/gardner.webp" alt="Alt da imagem fica aqui">
                                 </div>
                                 <div class="modal-footer w-50 bg-light justify-content-center">
-                                    <p class="text-secondary"><strong>Fonte:</strong> banco de imagens
-                                        gratuitas do canvas, 2020</p>
+                                <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a target="blank" href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/">Site Inteligencia de Vida</a></p>
                                 </div>
                             </div>
                         </div>
