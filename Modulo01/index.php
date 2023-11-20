@@ -59,7 +59,7 @@
                                         </div>
                                         <div class="back">
                                             <header>
-                                                <h2><strong>Clique para saber mais</strong></h2>
+                                                <h2><strong>Clique para voltar</strong></h2>
                                                 <i class="fa-regular fa-hand-pointer fs-4" style="color: #fff"></i>
                                             </header>
                                             <p class="text-left paragrafo fs-6">
@@ -119,7 +119,7 @@
                             <i class="fa-solid fa-arrow-right" style="color: #33833d;"></i>
                             <strong>Kamila Nascimento</strong> é professora universitária, atuando em diversas
                             disciplinas de Sociologia e Gestão de Pessoas. Formada em Ciência Sociais, Mestre e Doutora
-                            em Ciência Política.
+                            em Ciência Política e instrutora conteudista deste curso.
                         </p>
 
 
