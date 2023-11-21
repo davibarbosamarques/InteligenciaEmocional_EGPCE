@@ -130,7 +130,7 @@ include('layout/head.php');
                                                         style="color:white"></i></span>
                                             </header>
 
-                                            <p class="fs-6">Mesmo no imaginário popular existe o desestímulo a tal
+                                            <p class="fs-6 text-left">Mesmo no imaginário popular existe o desestímulo a tal
                                                 prática, e quem descobrir que você está conversando consigo mesmo
                                                 perguntará se está em seu pleno juízo ou se ficou louco. Este tipo de
                                                 ideia é extremamente prejudicial, pois nos torna dependentes da
