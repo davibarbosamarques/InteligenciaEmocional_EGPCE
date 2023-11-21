@@ -26,7 +26,7 @@ include('layout/head.php');
                     <div class="col-md-1"></div>
                     <div class="col-md-10 col-sm-8 container-fluid">
 
-                        <h2 class="Titulo fw-bolder">01 - Inteligência Emocional</h2>
+                        <h2 class="Titulo fw-bolder wow fadeIn" data-wow-delay="0.3s">01 - Inteligência Emocional</h2>
                         <!-- tirei o hr por que o menu não estava ficando sobreposto -->
                         <!-- <hr> -->
 
@@ -83,12 +83,12 @@ include('layout/head.php');
                             tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios
                             humanos (HOWARD, 1999). São elas:</p>
 
-                        <div class="text-center">
+                        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
                             <h4><span class="badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb"
                                         style="color:white"></i> Clique para entender sobre as nove
                                     Inteligências.</span></h4>
                         </div>
-                        <div class="storytelling">
+                        <div class="storytelling wow fadeIn" data-wow-delay="0.3s">
                             <div class="timeline">
                                 <input type="radio" checked class="profile" id="" name="bright">
                                 <input type="radio" class="settings" id="" name="bright">
@@ -141,7 +141,7 @@ include('layout/head.php');
                             </div>
                         </div>
 
-                        <div class="storytelling">
+                        <div class="storytelling wow fadeIn" data-wow-delay="0.3s">
                             <div class="timeline">
                                 <input type="radio" class="quinto" id="" name="bright">
                                 <input type="radio" class="sexto" id="" name="bright">

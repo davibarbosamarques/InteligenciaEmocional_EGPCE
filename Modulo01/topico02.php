@@ -194,38 +194,43 @@
                         </section>
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
-                        <h5 class="d-flex justify-content-center mb-2"><span class="badge bg-warning p-2"><i
+                        <h5 class="text-center mb-2 wow fadeIn" data-wow-delay="0.3s"><span class="badge bg-warning p-2"><i
                                     class="bi bi-lightbulb-fill"></i> Assista ao vídeo de Teste de QI de 5 Perguntas
                                 que
                                 Vai Detectar o Seu
                                 Intelecto, do canal INCRÍVEL.</span></h5>
 
+                        <div class="row d-flex align-items-center mt-4 justify-content-between">
+                            <div class="col-sm-12 col-md-6">
+                                <!-- Iframe - video -->
+                                <div class="container iframe-container wow animate__zoomIn" data-wow-delay="0.3s">
+                                    <iframe width="560" height="315"
+                                        src="https://www.youtube.com/embed/bjdOErjaUeY?si=-UTzGSeG9XceeC51"
+                                        title="YouTube video player" frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                        allowfullscreen></iframe>
+                                </div>
+                                <!-- fim do Iframe -->
+                            </div>
 
-                        <!-- Iframe - video -->
-                        <div class="container iframe-container wow animate__zoomIn" data-wow-delay="0.3s">
-                            <iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/bjdOErjaUeY?si=-UTzGSeG9XceeC51"
-                                title="YouTube video player" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
+                            <div class="col-sm-12 col-md-6 wow fadeIn" data-wow-delay="0.3s">
+                                <p class="wow fadeIn" data-wow-delay="0.3s">
+                                    Não por acaso, os pesquisadores acabaram formulando teorias que demonstravam que
+                                    apenas
+                                    uma pequena parcela da população era “muito inteligente”, sendo que a grande
+                                    maioria
+                                    estava na média ou mesmo abaixo dela. Ora, se nossas inteligências estão
+                                    distribuídas de
+                                    modo aleatório, obviamente apenas um pequeno grupo de pessoas será extremamente
+                                    eficiente em uma ou mais delas.
+                                </p>
+                            </div>
                         </div>
-                        <!-- fim do Iframe -->
 
-                        <p class="wow fadeIn" data-wow-delay="0.3s">
-                            Não por acaso, os pesquisadores acabaram formulando teorias que demonstravam que
-                            apenas
-                            uma pequena parcela da população era “muito inteligente”, sendo que a grande
-                            maioria
-                            estava na média ou mesmo abaixo dela. Ora, se nossas inteligências estão
-                            distribuídas de
-                            modo aleatório, obviamente apenas um pequeno grupo de pessoas será extremamente
-                            eficiente em uma ou mais delas.
-                        </p>
-
-                        <h5 class="text-center"><span class="badge bg-warning p-2"><i class="bi bi-lightbulb-fill"></i>
+                        <h5 class="text-center wow fadeIn" data-wow-delay="0.3s"><span class="badge bg-warning p-2"><i class="bi bi-lightbulb-fill"></i>
                                 Clique para saber mais</span></h5>
 
-                        <div class="container">
+                        <div class="container wow fadeIn" data-wow-delay="0.3s">
                             <div class="accordion accordion-flush" id="accordionFlushExample">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
@@ -254,6 +259,7 @@
                                             habilidades de um empreendedor.</div>
                                     </div>
                                 </div>
+
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
                                         <button class="accordion-button text-light collapsed" type="button"
@@ -307,7 +313,7 @@
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
-                        <P class="text-start">
+                        <P class="text-start wow fadeIn" data-wow-delay="0.3s">
                             No caso específico da Inteligência Emocional, é preciso considerar que,
                             independente da
                             capacidade que um indivíduo tenha para correr, dançar, escrever, cantar ou
@@ -319,10 +325,10 @@
                             indispensáveis à convivência social.
                         </P>
 
-                        <h5 class="text-center"><span class="badge bg-warning p-2"><i class="bi bi-lightbulb-fill"></i>
+                        <h5 class="text-center wow fadeIn" data-wow-delay="0.3s"><span class="badge bg-warning p-2"><i class="bi bi-lightbulb-fill"></i>
                                 Clique para saber mais</span></h5>
 
-                        <div class="container">
+                        <div class="container wow fadeIn" data-wow-delay="0.3s">
                             <div class="accordion" id="accordionPanelsStayOpenExample">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header">
@@ -438,7 +444,7 @@
                             </div>
                         </div>
 
-                        <p class="wow fadeIN" data-wow-daley="0.3s">
+                        <p class="wow fadeIn" data-wow-daley="0.3s">
                             A baixa capacidade em compreender e lidar com as emoções também está associada a uma
                             maior
                             propensão para doenças mentais e físicas. Isto ocorre porque as emoções que não são
@@ -450,7 +456,7 @@
                             tipos de doenças.
                         </p>
 
-                        <p class="wow fadeIN" data-wow-daley="0.3s">
+                        <p class="wow fadeIn" data-wow-daley="0.3s">
                             Gerenciar as emoções não significa reprimir tudo aquilo que se apresenta
                             imediatamente como
                             negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a

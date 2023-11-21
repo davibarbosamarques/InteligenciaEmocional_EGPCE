@@ -30,37 +30,37 @@ include('layout/head.php');
 
                             <!-- COMEÇO REFERÊNCIAS  -->
 
-                            <h2 class="Titulo">REFERÊNCIAS</h2>
+                            <h2 class="Titulo wow fadeIn" data-wow-delay="0.3s">REFERÊNCIAS</h2>
 
                             <br>
 
-                            <p class="Texto"> <i class="bi bi-book "></i> CURY, Augusto. <strong>Treinando a emoção para
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book "></i> CURY, Augusto. <strong>Treinando a emoção para
                                     ser feliz: nunca a auto estima foi tão cultivada no solo da vida.</strong>São Paulo:
                                 Editora Planeta do Brasil, 2007.
                             </p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Gardner, Howard. <strong>Inteligência um
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Gardner, Howard. <strong>Inteligência um
                                     conceito reformulado.</strong> Editora Objetiva, 1999.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Ratcheva, Vesselina, Till Alexander Leopold,
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Ratcheva, Vesselina, Till Alexander Leopold,
                                 and Saa Zahidi. <strong>Jobs of tomorrow: mapping opportunity in the new
                                     economy.</strong> World Economic Forum, Geneva, Switzerland, 2020.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Osho. <strong>Confiança.</strong> Editora
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Osho. <strong>Confiança.</strong> Editora
                                 Pensamento Cultrix. 2016</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> FRANCO, Maria da Glória Salazar d'Eça Costa and
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> FRANCO, Maria da Glória Salazar d'Eça Costa and
                                 SANTOS, Natalie Nobrega.<a target="blank"
                                     href="https://www.scielo.br/j/ptp/a/z46nh6ghBCgJMsPSHWtVgpJ/?lang=pt">
                                     Desenvolvimento da Compreensão Emocional.</a> Psic.: Teor. e Pesq. [online]. 2015,
                                 vol.31, n.3 [cited 2020-09-18], pp.339-348. Available from: ISSN 1806-3446.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Gardner, Howard. <a href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/" target="_blank">Quem é Howard Gardner e o que é Teoria das Inteligências Múltiplas</a> 08/08/2018</p>
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Gardner, Howard. <a href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/" target="_blank">Quem é Howard Gardner e o que é Teoria das Inteligências Múltiplas</a> 08/08/2018</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Osho. <a href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269" target="_blank">Autobiografia de um místico espiritualmente incorreto</a> 03/11/2016</p>
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Osho. <a href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269" target="_blank">Autobiografia de um místico espiritualmente incorreto</a> 03/11/2016</p>
 
                             <!-- Botões de navegação -->
-                            <div class="text-center">
+                            <div class="text-center wow fadeIn" data-wow-delay="0.3s">
                                 <a href="topico05.php" class="btn btn-outline-success" role="button"
                                     aria-pressed="true">
                                     <i class="fa-solid fa-chevron-left"></i> Voltar </a>

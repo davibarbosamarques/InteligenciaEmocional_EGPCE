@@ -33,7 +33,7 @@
                             <div class="row d-flex align-items-center justify-content-between">
                                 <div class="col-sm-12 col-md-6 img-index">
                                     <img src="imgs/img-comeco.png" alt="Imagem que remete a organização" id="img-1"
-                                        class="w-50">
+                                        class="w-50 wow animate__zoomIn">
                                 </div>
 
                                 <div class="col-sm-12 col-md-6">
