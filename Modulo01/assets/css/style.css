@@ -71,7 +71,7 @@ a {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: var(--FonteRaleway);
 }
 
 body {
@@ -1003,6 +1003,7 @@ form {
 h2,
 .Titulo {
     color: var(--color-green);
+    font-family: var(--FonteArial);
 }
 
 .Subtopico {

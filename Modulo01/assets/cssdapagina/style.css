@@ -5,7 +5,10 @@ h4 {
   font-weight: 500;
 }
 
-
+.link-tooltip{
+  color: black;
+  border-bottom: 2px solid #10ac44;
+}
 
 .cards {
   display: flex;
@@ -653,4 +656,9 @@ h1 {
   left: -20px;
   border-top: 1px solid rgba(0, 0, 0, 0.301);
   width: calc(100% - 10px);
+}
+
+/* FLIP */
+.flip-up  {
+  transition: 1s;
 }
