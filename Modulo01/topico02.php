@@ -237,7 +237,7 @@
                                     </h2>
                                     <div id="flush-collapseOne" class="accordion-collapse collapse"
                                         data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">percebeu-se que estes tipos de testes eram
+                                        <div class="accordion-body">Percebeu-se que estes tipos de testes eram
                                             extremamente
                                             limitados e preconceituosos, visto que destacavam apenas um pequeno número
                                             de
@@ -264,7 +264,7 @@
                                     </h2>
                                     <div id="flush-collapseTwo" class="accordion-collapse collapse"
                                         data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">isso de modo algum nos autoriza a pensar que as
+                                        <div class="accordion-body">Isso de modo algum nos autoriza a pensar que as
                                             habilidades de um milionário
                                             sejam mais importantes que as de um atleta. No entanto, socialmente, fomos
                                             condicionados a
@@ -334,7 +334,7 @@
                                     </h2>
                                     <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
                                         <div class="accordion-body">
-                                            os indivíduos que não possuem nenhuma dessas inteligências
+                                            Os indivíduos que não possuem nenhuma dessas inteligências
                                             como
                                             preponderantes necessitam aprender como desenvolvê-las. Talvez, por esta
                                             razão,
