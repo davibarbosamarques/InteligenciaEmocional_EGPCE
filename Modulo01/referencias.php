@@ -55,6 +55,10 @@ include('layout/head.php');
                                     Desenvolvimento da Compreensão Emocional.</a> Psic.: Teor. e Pesq. [online]. 2015,
                                 vol.31, n.3 [cited 2020-09-18], pp.339-348. Available from: ISSN 1806-3446.</p>
 
+                            <p class="Texto"> <i class="bi bi-book"></i> Gardner, Howard. <a href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/" target="_blank">Quem é Howard Gardner e o que é Teoria das Inteligências Múltiplas</a> 08/08/2018</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> Osho. <a href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269" target="_blank">Autobiografia de um místico espiritualmente incorreto</a> 03/11/2016</p>
+
                             <!-- Botões de navegação -->
                             <div class="text-center">
                                 <a href="topico05.php" class="btn btn-outline-success" role="button"
