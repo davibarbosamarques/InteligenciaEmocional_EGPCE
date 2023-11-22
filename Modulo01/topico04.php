@@ -172,6 +172,10 @@
                                                     <strong>“Você cria seu inferno e paraíso, seu tormento e alegria, o
                                                         negativo
                                                         e o positivo”.</strong>
+
+                                                <figcaption class="blockquote-footer mt-4">
+                                                    <cite title="Source Title">Osho, 2016.</cite>
+                                                </figcaption>
                                                 </p>
                                             </blockquote>
                                         </figure>
@@ -185,10 +189,6 @@
                                         sua. Ao compreendermos que somos artistas da nossa própria existência, temos a
                                         possibilidade de mudar as cores com que pintamos a nossa realidade.
                                     </p>
-
-                                    <figcaption class="blockquote-footer mt-4">
-                                        <cite title="Source Title">Osho, 2016.</cite>
-                                    </figcaption>
                                 </blockquote>
                             </figure>
                         </div>
