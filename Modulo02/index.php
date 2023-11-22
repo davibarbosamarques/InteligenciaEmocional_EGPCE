@@ -35,11 +35,11 @@
                                     <img src="imgs/img-comeco.png" alt="Imagem que remete a organização" id="img-1" class="w-75 wow animate__zoomIn img-apresentacao">
                                 </div>
 
-                                <div class="col-sm-12 col-md-7 mb-5">
+                                <div class="col-sm-12 col-md-7 mt-5">
                                     <div class="row container mt-6 wow animate__zoomIn">
-                                        <div class="mensagem">
+                                        <div class="mensagem md-5">
                                         <p class=" text-left paragrafo mb-4">
-                                       <strong>Olá [Nome Completo],
+                                       <strong>Olá [Nome_Completo],
                                         Parabéns por avançar para o Módulo 02 do curso!</strong> É uma conquista notável e demonstra seu comprometimento e dedicação ao aprendizado.
                                         </p>
                                         <p class=" text-left paragrafo mb-4">
