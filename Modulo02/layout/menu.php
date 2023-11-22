@@ -13,7 +13,7 @@
         </li>
 
         <li class="menu">
-            <a href="tipico.php">
+            <a href="topico01.php">
                 <span class="icon space"><i class="bi bi-1-circle"></i></span>
                 <span class="txt">01 - Inteligência Intrapessoal</span>
             </a>
