@@ -82,23 +82,32 @@
 
                             <p class="wow fadeIn" data-wow-delay="0.3s">Embora eu esteja utilizando aqui a palavra “processo” para indicar uma série de etapas, esse processo exige pouco esforço e muita compreensão. Não será necessário que o indivíduo sofra enormes privações ou precise dedicar um esforço anormal para alcançar a inteligência intrapessoal.</p>
 
-                            <div class="container wow fadeIn" data-wow-delay="0.3s">
-                            <div class="accordion" id="accordionPanelsStayOpenExample">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header">
-                                        <button class="accordion-button text-light collapsed" type="button"
-                                            data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo"
-                                            aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                                            <h5>Então o que será necessário?</h5>
-                                        </button>
-                                    </h2>
-                                    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
-                                        <div class="accordion-body">
-                                        Para atingir o maior grau de compreensão do seu próprio ser, você precisa apenas cair em si mesmo. Exige-se pouca ação e mais reflexão. Cair em si mesmo significa conseguir compreender as próprias necessidades, conhecer a si mesmo, responsabilizar- se pelo seu próprio bem-estar, descobrir o seu amor-próprio, livrar-se de toda e qualquer culpa ou padrão de autopunição e, por fim, transmutar todos os padrões negativos em positivos.
+                            <div class="container wow animate__zoomIn">
+                                <div class="cards">
+                                    <label id="summary">
+                                        <input type="checkbox" />
+                                        <article>
+                                        <div class="front">
+                                            <header>
+                                            <h2>Clique para saber mais</h2>
+                                            <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
+                                            </header>
+                                            
+                                            <h3>Então o que será necessário?</h3>
+                                    
                                         </div>
-                                    </div>
+                                        <div class="back">
+                                            <header>
+                                            <span class="material-symbols-outlined"></span>
+                                            </header>
+                                            <div class="text-left">
+                                            <p>Para atingir o maior grau de compreensão do seu próprio ser, você precisa apenas cair em si mesmo. Exige-se pouca ação e mais reflexão. Cair em si mesmo significa conseguir compreender as próprias necessidades, conhecer a si mesmo, responsabilizar- se pelo seu próprio bem-estar, descobrir o seu amor-próprio, livrar-se de toda e qualquer culpa ou padrão de autopunição e, por fim, transmutar todos os padrões negativos em positivos.</p>
+                                            </div>
+                                    
+                                        </div>
+                                        </article>
+                                    </label>
                                 </div>
-                            </div>
                             </div>
 
                             <p class="wow fadeIn" data-wow-delay="0.3s">Em alguns círculos sociais, voltar-se para si mesmo pode ser considerado como um comportamento egoísta, pois somos sempre muito inclinados a cuidar das outras pessoas. Contudo, peço que você não se deixe levar por esse tipo de pensamento, pois, na realidade, nós somos inteiramente nossa responsabilidade e nosso eu deve ser a nossa prioridade. O bem-estar que podemos proporcionar às outras pessoas é sempre proporcional ao bem-estar que podemos oferecer a nós mesmos.</p>
