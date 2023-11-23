@@ -264,8 +264,116 @@ include('layout/head.php');
                                     lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e
                                     intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de
                                     habilidades cognitivas.</p>
-
                             </div>
+
+                        <div class="tudo">
+                            <div class="row d-flex align-items-center justify-content-between">
+                                <div class="col-sm-12 col-md-5 img-index">
+                                    <img src="imgs/img-game.png" alt="Imagem que remete a organização" id="img-1" class="w-75 wow animate__zoomIn img-apresentacao">
+                                </div>
+
+                                <div class="col-sm-12 col-md-7 mt-5">
+                                    <div class="row container mt-6 wow animate__zoomIn">
+                                        <div class="mensagem md-5">
+                                        <p class=" text-left paragrafo mb-4">
+                                       Olá [Nome_Completo],
+                                       antes de avançar para o próximo tópico clique abaixo e participe de um jogo sobre o conteúdo apresentado para solidificar o seu aprendizado.
+                                        </p>
+                                        </div> 
+                                        <!-- MODAL 1 - INSTRÇÕES DO JOGO -->
+                                    <div class="botao">
+                                        <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel"
+                                        tabindex="-1">
+                                        <div class="modal-dialog modal-dialog-centered">
+                                            <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h1 class="modal-title fs-3" id="exampleModalToggleLabel"><i class="fa-solid fa-pen-clip"></i> Instruções do
+                                                Teste</h1>
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+                                            <div class="modal-body fw-medium">
+                                                <ol id="instrucoes">
+                                                <li>Esse será um jogo para relacionar duas colunas</li>
+                                                <li>Para computador arraste SOMENTE a letra do item até o espaço vazio<br>
+                                                    Para celular toque SOMENTE na letra do item e depois no espaço vazio
+                                                </li>
+                                                <li>Se for colocado duas letras no mesmo espaço será considerada a última letra colocada</li>
+                                                <li>Se a resposta estiver correta ficara verde</li>
+                                                <li>Este teste não influenciará na avaliação final.</li>
+                                                </ol>
+                                            </div>
+                                            <div class="modal-footer d-flex justify-content-center">
+                                                <button class="btn" id="btn-game" data-bs-target="#exampleModalToggle2"
+                                                data-bs-toggle="modal">Continuar</button>
+                                            </div>
+                                            </div>
+                                        </div>
+                                        </div>
+
+                                        <!-- MODAL 2 - INÍCIO DO JOGO -->
+                                        <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
+                                        tabindex="-1">
+                                        <div class="modal-dialog modal-dialog-centered">
+                                            <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h1 class="modal-title fs-3" id="exampleModalToggleLabel2"><i class="fa-solid fa-gamepad"></i> Relacione as
+                                                colunas</h1>
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+
+                                            <div class="Jogo">
+                                                <ul class="column-A">
+                                                <div id="item-A">
+                                                    <li draggable="true">A</li>Maçã
+                                                </div>
+                                                <div id="item-A">
+                                                    <li draggable="true">B</li>Banana
+                                                </div>
+                                                <div id="item-A">
+                                                    <li draggable="true">C</li>Laranja
+                                                </div>
+                                                </ul>
+                                                <ul class="column-B">
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="B"></li>fruto da bananeira.
+                                                    </p>
+                                                </div>
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="C"></li>é uma fruta cítrica com sabor
+                                                    variando
+                                                    do doce para o levemente azedo.
+                                                    </p>
+                                                </div>
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="A"></li>O fruto comestível da macieira,
+                                                    redondo, um pouco
+                                                    achatado, com casca fina de cor verde ou vermelha com estrias amarelas e sabor doce
+                                                    ou ácido.
+                                                    </p>
+                                                </div>
+                                                </ul>
+                                            </div>
+
+                                            <div class="modal-footer d-flex justify-content-center">
+                                                <button class="btn" id="btn-voltar" data-bs-target="#exampleModalToggle"
+                                                data-bs-toggle="modal">Voltar</button>
+                                                <button class="btn" id="btn-voltar" data-bs-dismiss="modal"
+                                            aria-label="Close">Concluído</button>
+                                            </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <button class="btn d-flex align-items-center" data-bs-target="#exampleModalToggle"
+                                        id="btn-game" data-bs-toggle="modal"><i class="fa-solid fa-puzzle-piece" id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>
+                                    </div>
+                                    </div>
+                                </div>
+                        </div>
                         </div>
                     </div>
 

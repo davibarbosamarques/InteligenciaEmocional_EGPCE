@@ -150,13 +150,13 @@
 
                             <div class="processo">
                                 <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.5s">Egocentrismo;</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.9s">Estresse</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.7s">Depressão</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.5s">Ansiedade</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.3s">Estresse</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.1s">Depressão</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.9s">Ansiedade</div>
                             </div>
                             <div class="processo">
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.3s">Irritabilidade sem motivo relevante;</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.1s">Dificuldades em controlar seus impulsos</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.7s">Irritabilidade sem motivo relevante;</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.5s">Dificuldades em controlar seus impulsos</div>
                                 <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.3s">Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.</div>
                             </div>
 
