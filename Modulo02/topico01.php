@@ -72,13 +72,11 @@
                             
                             <p class="mt-3">Minha abordagem envolve três processos:</p>
 
-                            <!-- lista ordenada  -->
-                            <ol id="txt_final">
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s">Autoconhecimento;</li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.5s">Amor-próprio;</li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.7s">Transmutação.</li>
-                            </ol>
-                            <!-- fim da lista ordenada  -->
+                            <div class="processo">
+                                <div class="ex ex-1 mb-5 wow animate__backInDown" data-wow-delay="0.5s">Autoconhecimento;</div>
+                                <div class="ex ex-1 mb-5 wow animate__backInDown" data-wow-delay="0.7s">Amor-próprio;</div>
+                                <div class="ex ex-1 mb-5 wow animate__backInDown" data-wow-delay="0.9s">Transmutação.</div>
+                            </div>
 
                             <p class="wow fadeIn" data-wow-delay="0.3s">Embora eu esteja utilizando aqui a palavra “processo” para indicar uma série de etapas, esse processo exige pouco esforço e muita compreensão. Não será necessário que o indivíduo sofra enormes privações ou precise dedicar um esforço anormal para alcançar a inteligência intrapessoal.</p>
 
@@ -93,7 +91,7 @@
                                             <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
                                             </header>
                                             
-                                            <h3>Então o que será necessário?</h3>
+                                            <h3>Então, o que será necessário?</h3>
                                     
                                         </div>
                                         <div class="back">
@@ -148,33 +146,20 @@
                             </div>
                             <!-- Citação com borda verde (esquerda) -->
 
-                            <p class="wow fadeIn" data-wow-delay="0.3s">Entre os sinais muito comuns de pessoas que não são emocionalmente inteligentes podemos destacar:</p>
+                            <p class="wow fadeIn" data-wow-delay="0.3s text-center">Entre os sinais muito comuns de pessoas que não são emocionalmente inteligentes podemos destacar:</p>
 
-                            <!-- lista  -->
-                            <ul class="list">
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
-                                Egocentrismo;
-                                </li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.5s"><i class="fa fa-dot-circle text-success"></i>
-                                Irritabilidade sem motivo relevante;;
-                                </li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.7s"><i class="fa fa-dot-circle text-success"></i>
-                                Dificuldades em controlar seus impulsos;
-                                </li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="0.9s"><i class="fa fa-dot-circle text-success"></i>
-                                Estresse;
-                                </li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="1.1s"><i class="fa fa-dot-circle text-success"></i>
-                                Depressão;
-                                </li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="1.3s"><i class="fa fa-dot-circle text-success"></i>
-                                Ansiedade;
-                                </li>
-                                <li class="img-fluid wow fadeInLeft" data-wow-delay="1.5s"><i class="fa fa-dot-circle text-success"></i>
-                                Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.
-                                </li>
-                            </ul>
-                            <!-- fim da lista  -->
+                            <div class="processo">
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.5s">Egocentrismo;</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.9s">Estresse</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.7s">Depressão</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.5s">Ansiedade</div>
+                            </div>
+                            <div class="processo">
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.3s">Irritabilidade sem motivo relevante;</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.1s">Dificuldades em controlar seus impulsos</div>
+                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.3s">Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.</div>
+                            </div>
+
                             <p class="wow fadeIn" data-wow-delay="0.3s">Se você reconheceu um ou vários desses sinais em si mesmo, não se preocupe. A boa notícia é que tudo aquilo que envolve a nossa própria mente e as nossas próprias emoções podem ser modificado por nós mesmos. Isso significa que mesmo que você tenha se identificado com várias dessas características, não deve se sentir mal, mas deve mudar a situação atual em direção a comportamentos que sejam mais positivos. Aliás, uma das características das pessoas que são emocionalmente inteligentes é sua disposição para mudança.</p>
                             </div>
                         </div>
