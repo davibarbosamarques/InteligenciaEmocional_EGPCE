@@ -658,6 +658,8 @@ h1 {
   padding: 1em;
   border-bottom-right-radius: 2em;
   border-top-left-radius: 2em;
+  border-top-right-radius: 2em;
+  border-bottom-left-radius:0 ;
   color: white;
 }
 /* Estilo para linhas extras */

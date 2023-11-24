@@ -3,7 +3,7 @@
     padding: 0 10px;
     align-items: center;
     justify-content: center;
-    /* min-height: 100vh; */
+    /* min-height: 100vh;*/
     background-color: #5372F0;
   }
   /* CORPO DO JOGO */
@@ -80,11 +80,29 @@
   
   /* ESTRUTURA DO MODAL */
   #btn-game{
-    background-color: #26a737;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(17 134 219);
+    color: white;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius:0 ;
+    margin: 3em 0;
+  }
+  #btn-game:hover{
+    transform: scale(1.1);
+  }
+  #btn-continuar{
+    background-color: rgb(17 134 219);
     color: white;
   }
   #btn-voltar{
-    background-color: #26a737;
+    background-color: rgb(17 134 219);
     color: white;
   }
   #puzzle{

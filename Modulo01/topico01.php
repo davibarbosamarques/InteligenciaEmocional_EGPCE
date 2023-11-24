@@ -54,9 +54,7 @@ include('layout/head.php');
                                                 alt="Imagem que remete a organização" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> banco de
-                                        imagens
-                                        gratuitas do canvas, 2020</p>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Banco de imagens gratuitas do canvas, 2020</p>
                                 </div>
 
                                 <!-- Imagem 01 - MODAL (Audi)-->
@@ -189,7 +187,7 @@ include('layout/head.php');
                                         <span></span>
                                         <h3>Inteligência Intrapessoal</h3>
                                         <p>Capacidade de se relacionar consigo mesmo e lidar com os próprios sentimentos
-                                            e emoções. Relaciona-se com o autoconhecimento e com a autoestima;</p>
+                                        e emoções. Relaciona-se com o autoconhecimento e com a autoestima;</p>
                                     </section>
                                     <section class="Advanced-oitavo" id="secao">
                                         <span></span>
@@ -303,7 +301,7 @@ include('layout/head.php');
                                                 </ol>
                                             </div>
                                             <div class="modal-footer d-flex justify-content-center">
-                                                <button class="btn" id="btn-game" data-bs-target="#exampleModalToggle2"
+                                                <button class="btn" id="btn-continuar" data-bs-target="#exampleModalToggle2"
                                                 data-bs-toggle="modal">Continuar</button>
                                             </div>
                                             </div>
@@ -324,34 +322,42 @@ include('layout/head.php');
                                             <div class="Jogo">
                                                 <ul class="column-A">
                                                 <div id="item-A">
-                                                    <li draggable="true">A</li>Maçã
+                                                    <li draggable="true">A</li>Inteligência Linguística
                                                 </div>
                                                 <div id="item-A">
-                                                    <li draggable="true">B</li>Banana
+                                                    <li draggable="true">B</li>Inteligência Corporal-Cinestésica
                                                 </div>
                                                 <div id="item-A">
-                                                    <li draggable="true">C</li>Laranja
+                                                    <li draggable="true">C</li>Inteligência Interpessoal
+                                                </div>
+                                                <div id="item-A">
+                                                    <li draggable="true">D</li>Inteligência Intrapessoal
                                                 </div>
                                                 </ul>
+
                                                 <ul class="column-B">
                                                 <div id="item-B">
                                                     <p>
-                                                    <li class="dropzone" data-resposta="B"></li>fruto da bananeira.
+                                                    <li class="dropzone" data-resposta="B"></li>Atribuída aos atletas, dançarinos e artistas que desenvolvem e trabalham o próprio corpo.
                                                     </p>
                                                 </div>
                                                 <div id="item-B">
                                                     <p>
-                                                    <li class="dropzone" data-resposta="C"></li>é uma fruta cítrica com sabor
-                                                    variando
-                                                    do doce para o levemente azedo.
+                                                    <li class="dropzone" data-resposta="C"></li>Capacidade de se relacionar com outras pessoas com facilidade. Envolve
+                                                    aspectos como empatia e escuta ativa e é atribuída a psicólogos, terapeutas,
+                                                    professores e a pessoas que trabalham com negociações, como vendedores e
+                                                    políticos.
                                                     </p>
                                                 </div>
                                                 <div id="item-B">
                                                     <p>
-                                                    <li class="dropzone" data-resposta="A"></li>O fruto comestível da macieira,
-                                                    redondo, um pouco
-                                                    achatado, com casca fina de cor verde ou vermelha com estrias amarelas e sabor doce
-                                                    ou ácido.
+                                                    <li class="dropzone" data-resposta="A"></li>Relacionada à capacidade de trabalhar com as palavras, sendo atribuída
+                                                    especialmente aos poetas.
+                                                    </p>
+                                                </div>
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="D"></li>Capacidade de se relacionar consigo mesmo e lidar com os próprios sentimentos e emoções. Relaciona-se com o autoconhecimento e com a autoestima;
                                                     </p>
                                                 </div>
                                                 </ul>
@@ -368,8 +374,10 @@ include('layout/head.php');
                                         </div>
                                     </div>
                                     </div>
-                                    <button class="btn d-flex align-items-center" data-bs-target="#exampleModalToggle"
-                                        id="btn-game" data-bs-toggle="modal"><i class="fa-solid fa-puzzle-piece" id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>
+                                    <div class="d-flex justify-content-center">
+                                    <button class="btn d-flex align-items-center wow animate__bounceInRight" data-wow-delay="0.4s" data-bs-target="#exampleModalToggle"
+                                        id="btn-game" data-bs-toggle="modal"><i class="fa-solid fa-puzzle-piece text-light" id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>
+                                    </div>
                                     </div>
                                     </div>
                                 </div>

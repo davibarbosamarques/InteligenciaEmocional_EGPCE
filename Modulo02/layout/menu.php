@@ -27,7 +27,7 @@
         </li>
 
         <li class="menu">
-            <a href="tipoco03.php">
+            <a href="topico03.php">
                 <span class="icon space"><i class="bi bi-3-circle"></i></span>
                 <span class="txt">03 - Inteligência Interpessoal</span>
             </a>
