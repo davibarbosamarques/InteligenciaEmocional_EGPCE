@@ -32,9 +32,9 @@ h4 {
 article {
     position: relative;
     perspective: 1000px;
-    width: 100vh;
+    /* width: 100vh;
     height: auto;
-    min-height: 300px;
+    min-height: 100px; */
 }
 
 @media screen and (max-width: 430px) {
@@ -59,10 +59,16 @@ article {
         min-width: 45vh;
     }
 
-    .div-img .img img{
+    .div-img .img img {
         display: none;
     }
+
 }
+
+.div-img .img img {
+    width: 16em;
+}
+
 
 @media screen and (min-width: 430px) {
     article {
@@ -80,6 +86,11 @@ article {
         width: auto;
         min-width: 100vh;
     }
+
+    #front,
+    #back {
+        height: 200px;
+    }
 }
 
 article header {
@@ -91,6 +102,8 @@ article header {
 article header h2 {
     color: #fff;
     font-size: 20px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #fff;
 }
 
 article .front,
@@ -186,16 +199,121 @@ article p {
 }
 
 /* collapse */
-.text-collapse{
+.text-collapse {
     font-family: 'Raleway', sans-serif;
     color: #000;
     font-size: 1.2em;
 }
 
-[data-theme="dark"] .text-collapse{
+[data-theme="dark"] .text-collapse {
     color: #fff;
 }
 
-.btn-collapse{
-    background-image: linear-gradient(to left, #26a737, #2db39e);
+.btn-collapse {
+    background-image: linear-gradient(to bottom, #e06a0c, #e4a500);
 }
+
+[data-theme="dark"] .btn-collapse {
+    background-image: linear-gradient(to bottom, #2db39e, #46ac33);
+
+}
+
+.body-collpse {
+    background-color: #e4a500;
+    padding: 0.5em;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+}
+
+[data-theme="dark"] .body-collpse {
+    background-color: #45b16e;
+}
+
+/* Modal com efeito */
+
+
+/* #button {
+    font-family: inherit;
+    cursor: pointer;
+    background: #1a1a1a;
+    color: #f9f9f9;
+    border: 0;
+    border-radius: 8px;
+    padding: 20px 36px;
+    font-size: 16px;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    opacity: 0;
+    visibility: hidden;
+    background: rgba(0, 0, 0, 0.25);
+}
+
+body.open .background {
+    visibility: visible;
+    opacity: 1;
+}
+
+@keyframes modal-in {
+    0% {
+        translate: -50% 10%;
+        scale: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+        scale: 1;
+        visibility: visible;
+    }
+}
+
+.page-content,
+.modal,
+.background {
+    transition: 0.5s;
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background: #1a1a1a;
+    color: #f9f9f9;
+    padding: 48px 40px;
+    width: 300px;
+    border-radius: 12px;
+    translate: -50% -50%;
+    scale: 1;
+    opacity: 0;
+    visibility: hidden;
+    border: 1px solid red;
+}
+
+body.open>.page-content {
+    scale: 0.75;
+}
+
+body.open .modal {
+    opacity: 1;
+    visibility: visible;
+    animation: modal-in 0.5s;
+}
+
+#h2 {
+    margin: 0 0 8px;
+    font-weight: 400;
+    font-size: 21px;
+}
+
+#p {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.5);
+} */

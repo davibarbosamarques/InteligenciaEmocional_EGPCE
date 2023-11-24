@@ -427,14 +427,6 @@ ul li.menu a.ativo {
 
 /* estilo do container de apresentação */
 
-h2 {
-    margin-left: 5px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #ccc;
-    color: #44833D;
-    font-weight: bold;
-}
-
 /* estilo do conteudo da primeira pagina */
 
 hr {
@@ -1000,8 +992,12 @@ form {
     color: var(--color-light-50);
 }
 
-h2,
 .Titulo {
+    margin-left: 5px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    color: #44833D;
+    font-weight: bold;
     color: var(--color-green);
     font-family: var(--FonteArial);
 }
