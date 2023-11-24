@@ -427,6 +427,7 @@ h2 {
     border-bottom: 1px solid #ccc;
     color: #44833D;
     font-weight: bolder;
+    font-family: var(--FonteArial);
 }
 
 /* estilo do conteudo da primeira pagina */
