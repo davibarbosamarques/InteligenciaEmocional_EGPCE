@@ -173,6 +173,126 @@
                         </div>
                         </div>
 
+                        <!-- Citação com borda verde (esquerda) -->
+                        <div class="bd-callout bd-callout-success blue m-3">
+
+                        <!-- blockquote do bootstrap -->
+                        <figure>
+                        <blockquote class="blockquote">
+                            <p> A empatia é também fundamental nos relacionamentos amorosos e familiares. Esse tipo de relacionamento ocorre através de um sistema de reciprocidade em que o indivíduo, via de regra, oferece e espera sentimentos em relação às outras pessoas, o que nem sempre ocorre em um ambiente organizacional. Neste caso, temos um grau de expectativa em relação ao outro que pode criar a falsa ideia de que a reciprocidade se caracteriza por dar e receber exatamente o mesmo tipo de afeto.</p>
+                        </blockquote>
+                        </figure>
+                        </div>
+                        <!-- Citação com borda verde (esquerda) -->
+
+                        <p class="text-start wow fadeIn" data-wow-delay="0.3s">Este pensamento ignora a singularidade de cada indivíduo e o fato de que cada pessoa pode demonstrar sentimentos de formas completamente diferentes. Isto não significa que o sistema da reciprocidade esteja sendo ferido. O que pode estar acontecendo é simplesmente uma incompreensão de alguma das partes quanto ao fato de que as demonstrações de afeto podem se dar de diferentes formas.</p>
+
+                        <div class="container wow fadeIn" data-wow-delay="0.3s">
+                            <div class="accordion" id="accordionPanelsStayOpenExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header">
+                                        <button class="accordion-button text-light collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo"
+                                            aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                                            <h5>Fazendo uma analogia simples</h5>
+                                        </button>
+                                    </h2>
+                                    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
+                                        <div class="accordion-body">
+                                        Se uma pessoa lhe oferta uma maçã, você poderá demonstrar a sua reciprocidade oferecendo outra maçã, mas também pode oferecer uma banana. Isso não significa que a reciprocidade e a expectativa do dar, receber e retribuir não foi atendida, mas que cada indivíduo oferece ao outro exatamente o que tem. Sendo assim, o indivíduo que só possui bananas não pode oferecer maçãs como gesto de afeto.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <p class="text-start wow fadeIn" data-wow-delay="0.3s">Esta compreensão pode levar a duas reações completamente distintas. O ser humano pode compreender que as pessoas são simplesmente diferentes e se sentir grato por todas as formas de afeto, ou pode chegar à conclusão de que a forma de afeto que aquela outra pessoa oferece simplesmente não preenche suas necessidades e expectativas. De qualquer forma, é preciso compreender que não existe intenção do outro ser humano de lhe desapontar, mas cada pessoa sente e age de forma diferente.</p>
+
+                        <div class="container wow animate__zoomIn">
+                            <div class="cards">
+                                <label id="summary">
+                                    <input type="checkbox" />
+                                    <article>
+                                    <div class="front">
+                                        <header>
+                                        <h2>Clique para saber mais</h2>
+                                        <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
+                                        </header>
+                                        
+                                        <h3>Então, o que devemos compreender?</h3>
+                                
+                                    </div>
+                                    <div class="back">
+                                        <header>
+                                        <span class="material-symbols-outlined"></span>
+                                        </header>
+                                        <div class="text-left">
+                                        <p>Devemos compreender que as pessoas não são o seu comportamento, mas que o comportamento dela reflete suas emoções e como esta pessoa foi ensinada ou condicionada a reagir em determinadas situações. Ficaríamos surpresos ao compreendermos através da empatia que são realmente raras as situações em que os indivíduos, especialmente aqueles com quem temos proximidade e afinidade, intencionam nos fazer qualquer tipo de mal.</p>
+                                        </div>
+                                
+                                    </div>
+                                    </article>
+                                </label>
+                            </div>
+                        </div>
+
+                        <p class="text-start wow fadeIn" data-wow-delay="0.3s">A realidade mais comum é que os indivíduos sem qualquer intenção de fazer o mal aos outros reagem de forma negativa, pois não são ensinados ou habituados a lidar com os próprios sentimentos. Ainda, qualquer pessoa que não seja capaz de lidar consigo mesmo ,possivelmente terá problemas de se relacionar também os outros indivíduos.</p>
+
+                        <!-- Citação com borda verde (esquerda) -->
+                        <div class="bd-callout bd-callout-success blue m-3">
+
+                        <!-- blockquote do bootstrap -->
+                        <figure>
+                        <blockquote class="blockquote">
+                            <p> Descortina-se, desse modo, a possibilidade de que o problema de um determinado indivíduo não seja com você, mas derive da falta de autoconhecimento dele consigo mesmo. A baixa inteligência emocional pode levar o indivíduo a situações que são realmente destrutivas para sua vida, além de ocasionar problemas mentais e físicos.</p>
+                        </blockquote>
+                        </figure>
+                        </div>
+                        <!-- Citação com borda verde (esquerda) -->
+
+                        <!-- Citação com borda verde (esquerda) -->
+                        <div class="bd-callout bd-callout-success m-3">
+
+                        <!-- blockquote do bootstrap -->
+                        <figure>
+                        <blockquote class="blockquote">
+                            <p> No ambiente de trabalho, as relações interpessoais também nos desafiam constantemente, pois na organização, diferentes visões de mundo irão se encontrar e interagir e será necessário compreender e respeitar o mundo de todos os indivíduos. Este é um desafio ainda maior para aqueles que mantêm cargos de liderança e precisam exercer a função de manter a coesão entre pessoas e grupos muito diferentes. Por isso, a inteligência emocional é bastante desejável para todos os líderes.</p>
+                        </blockquote>
+                        </figure>
+                        </div>
+                        <!-- Citação com borda verde (esquerda) -->
+
+                        <p class="text-start wow fadeIn" data-wow-delay="0.3s">Um líder emocionalmente inteligente consegue extrair o melhor das pessoas, reconhecendo suas fraquezas e virtudes e utilizando-as para o melhor benefício da equipe. Quando um líder é reconhecido por sua equipe pela sua empatia, ele também acaba por inspirar outras pessoas como um exemplo. Obviamente, para se tornar líder com empatia, é preciso, antes de mais nada, lidar muito bem com as próprias emoções; por isso, a inteligência intrapessoal foi apresentada primeiro.</p>
+
+                        <div class="container wow animate__zoomIn">
+                            <div class="cards">
+                                <label id="summary">
+                                    <input type="checkbox" />
+                                    <article>
+                                    <div class="front">
+                                        <header>
+                                        <h2>Clique para saber mais</h2>
+                                        <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
+                                        </header>
+                                        
+                                        <p class="text-left">Um líder que possui uma boa inteligência intrapessoal e interpessoal será capaz de reconhecer a singularidade de todos os seres humanos sem se colocar em qualquer posição de superioridade. Embora ele esteja ocupando uma função hierarquicamente acima de seus subordinados, ele sabe que são iguais enquanto seres humanos. Por isso, trata a todos com enorme respeito e compreensão.</p>
+                                
+                                    </div>
+                                    <div class="back">
+                                        <header>
+                                        <span class="material-symbols-outlined"></span>
+                                        </header>
+                                        <div class="text-left">
+                                        <p>Por outro lado, aquele que não consegue reconhecer a si mesmo e apenas valoriza as conquistas exteriores, provavelmente não valorizará seus subordinados pelo que são, mas apenas pelos bons resultados que podem alcançar. Obviamente, os resultados são essenciais em qualquer organização, mas é preciso reconhecer que o resultado é a somatória do trabalho com o clima na organização, a qualidade de vida no trabalho e outros quesitos que talvez um indivíduo possa estar contribuindo, ainda que, do ponto de vista da produção, ele não esteja conseguindo dar seus melhores resultados.</p>
+                                        </div>
+                                
+                                    </div>
+                                    </article>
+                                </label>
+                            </div>
+                        </div>
+                        </div>
+
                 </div>
 
             </div>
