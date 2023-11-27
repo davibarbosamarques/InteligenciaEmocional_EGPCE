@@ -269,7 +269,10 @@
                         <!-- FIM DA CAIXA DE TEXTO CURIOSIDADE -->
 
                         <p class="wow fadeIn" data-wow-daley="0.3s">
-                        Ao longo do módulo I deste curso, deixei algumas pistas quanto a isso, tais como fechar os olhos e olhar para dentro de si, conversar consigo mesmo, questionar sobre sua própria felicidade e manter um diário. Adicionalmente, gostaria de falar sobre o afastamento do ego como um caminho fundamental para o encontro com o eu.
+                            Ao longo do módulo I deste curso, deixei algumas pistas quanto a isso, tais como fechar os
+                            olhos e olhar para dentro de si, conversar consigo mesmo, questionar sobre sua própria
+                            felicidade e manter um diário. Adicionalmente, gostaria de falar sobre o afastamento do ego
+                            como um caminho fundamental para o encontro com o eu.
                         </p>
 
                         <div class="container mt-4 wow animate__zoomIn">
@@ -890,6 +893,49 @@
                             </div>
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
+
+                        <div class="row d-flex align-items-center">
+                            <div class="col-sm-12 col-md-6">
+                                <!-- IMAGEM NO SITE  -->
+
+                                <div class="text-center img-01">
+                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 03:</strong>
+                                        Foto de Augusto Cury</p>
+                                    <div class="zoom">
+                                        <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem3">
+                                            <img src="imgs/topico02/curry.png" alt="Imagem que remete a organização" id="img-1">
+                                        </a>
+                                    </div>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Wikimedia Commons
+                                    </p>
+                                </div>
+
+                                <!-- Imagem - MODAL-->
+                                <div class="modal fade text-center" id="Imagem3" tabindex="-1"
+                                    aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div
+                                        class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
+                                        <div class="modal-content w-75">
+                                            <img class="img-fluid" src="imgs/topico02/curry.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer w-75 bg-light justify-content-center">
+                                            <p class="text-secondary"><strong>Fonte:</strong> Wikimedia Commons</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Imagem - End-->
+
+                                <!-- FIM DA IMAGEM NO SITE  -->
+                            </div>
+                            <div class="col-sm-12 col-md-6">
+                                <p>
+                                    Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a
+                                    mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor,
+                                    suas palestras são aclamadas por proporcionarem uma visão única e profunda do
+                                    funcionamento da mente e da inteligência emocional.
+                                </p>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
