@@ -427,14 +427,6 @@ ul li.menu a.ativo {
 
 /* estilo do container de apresentação */
 
-h2 {
-    margin-left: 5px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #ccc;
-    color: #44833D;
-    font-weight: bold;
-}
-
 /* estilo do conteudo da primeira pagina */
 
 hr {
@@ -1004,6 +996,11 @@ h2,
 .Titulo {
     color: var(--color-green);
     font-family: var(--FonteArial);
+    margin-left: 5px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    color: #44833D;
+    font-weight: bold;
 }
 
 .Subtopico {
