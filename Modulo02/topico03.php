@@ -275,7 +275,7 @@
                                         <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
                                         </header>
                                         
-                                        <p class="text-left">Um líder que possui uma boa inteligência intrapessoal e interpessoal será capaz de reconhecer a singularidade de todos os seres humanos sem se colocar em qualquer posição de superioridade. Embora ele esteja ocupando uma função hierarquicamente acima de seus subordinados, ele sabe que são iguais enquanto seres humanos. Por isso, trata a todos com enorme respeito e compreensão.</p>
+                                        <p class="text-left text-light" style="opacity:1">Um líder que possui uma boa inteligência intrapessoal e interpessoal será capaz de reconhecer a singularidade de todos os seres humanos sem se colocar em qualquer posição de superioridade. Embora ele esteja ocupando uma função hierarquicamente acima de seus subordinados, ele sabe que são iguais enquanto seres humanos. Por isso, trata a todos com enorme respeito e compreensão.</p>
                                 
                                     </div>
                                     <div class="back">
@@ -291,6 +291,46 @@
                                 </label>
                             </div>
                         </div>
+                        <!-- CAIXA DE TEXTO IMPORTANTE -->
+                        <section class="container">
+                            <div class="accordion">
+                            <section id="content">
+                                <div class="caixaprincipal" id="tituloimportante">
+                                <div class="div_teste">
+                                    <div><i class="bi bi-exclamation-circle"></i> IMPORTANTE </div>
+                                    <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                </div>
+                                </div> <!--caixa Principal-->
+                                <div class="accordion-content" id="importante">
+                                <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong></p>
+                                <p class="txt-caixasecundaria">Eu gostaria de que você prestasse bastante atenção nesse ponto: o mundo exterior, aquele que olhamos enquanto estamos com os olhos abertos, é um mundo limitado e, conforme expliquei antes, restringe nossas ações a todo momento. Por outro lado, nosso mundo interior, aquele que observamos enquanto fechamos os olhos, é ilimitado e completamente acessível, dependendo exclusivamente da nossa própria vontade. Sendo assim, em qual desses mundos você imagina que um ser humano pode se sentir mais confortável e emocionalmente seguro? No mundo exterior - em que ele é, a todo momento, limitado em suas ações - ou no mundo interior - onde ele está absolutamente sobre o seu próprio domínio?</p> <!--caixa secundaria-->
+                                </div>
+                            </section>
+                            </div>
+                        </section>
+                        <!-- FIM DA CAIXA IMPORTANTE -->
+
+                        <p class="text-start wow fadeIn" data-wow-delay="0.3s">O mundo exterior não atende às nossas vontades, pois não podemos modificá-lo ao nosso prazer. Contudo, de certo modo, podemos sim mudar a realidade - pelo menos aquela que olhamos com a nossa perspectiva - estando sempre conscientes de que esta será sempre a nossa visão particular da realidade e não a realidade em si. Trata-se de adaptar a nossa perspectiva sobre a realidade, sem tentar impor esta mesma visão aos demais ou cair na ilusão de que nossa visão é a correta e verdadeira, desmerecendo todas as outras perspectivas.</p>
+
+                        <!-- CAIXA DE TEXTO IMPORTANTE -->
+                        <section class="container">
+                            <div class="accordion">
+                            <section id="content">
+                                <div class="caixaprincipal" id="tituloimportante">
+                                <div class="div_teste">
+                                    <div><i class="bi bi-exclamation-circle"></i> IMPORTANTE </div>
+                                    <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                </div>
+                                </div> <!--caixa Principal-->
+                                <div class="accordion-content" id="importante">
+                                <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong></p>
+                                <p class="txt-caixasecundaria">Quanto a isto, gostaria de que você prestasse atenção em uma história que reflete exatamente como cada pessoa pode criar o seu próprio paraíso e também o seu próprio inferno interior. Conscientes disso, podemos adicionar prazer e felicidade em nossas vidas, ou, quando não estamos em alerta sobre isso, podemos ficar a mercê de todo tipo de acontecimento aleatório e fruto de medos e padrões negativos.</p> <!--caixa secundaria-->
+                                </div>
+                            </section>
+                            </div>
+                        </section>
+                        <!-- FIM DA CAIXA IMPORTANTE -->
+
                         </div>
 
                 </div>
