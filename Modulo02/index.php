@@ -50,7 +50,7 @@
                                 </div>
                         </div>
 
-                        <p class="wow fadeIn" data-wow-delay="0.3s">
+                        <p class="wow fadeIn mt-4" data-wow-delay="0.3s">
                         Você também já aprendeu que a Inteligência Emocional abrange as inteligências intrapessoal e interpessoal, ou seja, a habilidade de gerenciar as próprias emoções e também de lidar com as outras pessoas. Gerenciar as próprias emoções significa prestar atenção às próprias necessidades, exercitando o autoconhecimento e o autocuidado. Lidar com os sentimentos dos outros significa ter o aprendizado da empatia, responsabilidade social e a compreensão de que cada ser é único e possui um ponto de vista particular.
                         </p>
 

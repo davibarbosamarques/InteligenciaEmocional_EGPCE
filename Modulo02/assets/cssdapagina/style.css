@@ -56,7 +56,46 @@ h4 {
   font-weight: 500;
 }
 
+@media screen and (max-width: 430px) {
+  .article-index {
+    height: auto;
+    min-height: 530px;
+    width: auto;
+    min-width: 45vh;
+  }
 
+  .article-topico02 {
+    height: auto;
+    min-height: 540px;
+    width: auto;
+    min-width: 45vh;
+  }
+
+  article {
+    height: auto;
+    min-height: 650px;
+    width: auto;
+    min-width: 45vh;
+  }
+}
+
+@media screen and (min-width: 430px) {
+  article {
+    height: auto;
+    min-height: 550px;
+    width: auto;
+    min-width: 45vh;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  article {
+    height: auto;
+    min-height: 300px;
+    width: auto;
+    min-width: 100vh;
+  }
+}
 
 .cards {
   display: flex;

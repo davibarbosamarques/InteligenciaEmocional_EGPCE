@@ -84,7 +84,7 @@
                                 <div class="cards">
                                     <label id="summary">
                                         <input type="checkbox" />
-                                        <article>
+                                        <article class="article-topico02">
                                         <div class="front">
                                             <header>
                                             <h2>Clique para saber mais</h2>
