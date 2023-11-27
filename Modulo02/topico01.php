@@ -174,8 +174,10 @@
 
         <!-- Botões de navegação -->
         <div class="text-center wow fadeIn" data-wow-delay="0.3s">
-            <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
-                    class="fa-solid fa-chevron-right"></i></a>
+            <a href="index.php" class="btn btn-outline-success" role="button" aria-pressed="true"> <i
+                class="fa-solid fa-chevron-left"></i> Voltar </a>
+            <a href="topico02.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
+                class="fa-solid fa-chevron-right"></i></a>
         </div>
 
         <!-- barra de progresso embaixo -->
