@@ -59,6 +59,8 @@ include('layout/head.php');
 
                             <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Osho. <a href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269" target="_blank">Autobiografia de um místico espiritualmente incorreto</a> 03/11/2016</p>
 
+                            <p class="Texto wow fadeIn" data-wow-delay="0.3s"> <i class="bi bi-book"></i> Augusto Cury. Wikimedia Commons</p>
+
                             <!-- Botões de navegação -->
                             <div class="text-center wow fadeIn" data-wow-delay="0.3s">
                                 <a href="topico03.php" class="btn btn-outline-success" role="button"
