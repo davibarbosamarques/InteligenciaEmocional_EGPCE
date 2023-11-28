@@ -39,14 +39,14 @@
                         </li>
 
                         <li class="menu">
-                            <a href="tipico02.php">
+                            <a href="topico02.php">
                                 <span class="icon space"><i class="bi bi-2-circle"></i></span>
                                 <span class="txt">02 - Testando a Inteligência Emocional</span>
                             </a>
                         </li>
 
                         <li class="menu">
-                            <a href="tipico03.php">
+                            <a href="topico03.php">
                                 <span class="icon space"><i class="bi bi-3-circle"></i></span>
                                 <span class="txt">03 - Inteligência Interpessoal</span>
                             </a>

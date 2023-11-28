@@ -423,7 +423,7 @@
                                         para dentro de nós, não para fora. Não devemos nos comparar com os demais, pois
                                         dentro de nós não existe qualquer outro com o qual podemos nos comparar. Isso
                                         faz com que possamos perceber que cada indivíduo é absolutamente único e
-                                        singular, impossível de ser comparado
+                                        singular, impossível de ser comparado.
                                     </p>
                                 </blockquote>
                                 <figcaption class="blockquote-footer mt-3">
@@ -543,7 +543,7 @@
                                         <p class="txt-caixasecundaria">
                                             Eu gostaria de lhe fazer uma pergunta: como você costuma tratar uma pessoa
                                             muito especial para você? Agora me responda: será que você se trata tão bem
-                                            quanto trata essa pessoa?
+                                            quanto trata essa pessoa?.
                                         </p><!--caixa secundaria-->
                                     </div>
                                 </section>
@@ -635,7 +635,7 @@
                                             Esperar o retorno das outras pessoas pode nos causar frustração, enquanto a
                                             doação desinteressada depende apenas de nós mesmos. Agora imagine se você
                                             conseguir ser tão generoso consigo mesmo quanto é para com as demais
-                                            pessoas, que incrível seria, você não acha?
+                                            pessoas, que incrível seria, você não acha?.
                                         </p>
                                     </div>
                                 </section>
@@ -900,13 +900,13 @@
 
                                 <div class="text-center img-01">
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 03:</strong>
-                                        Foto de Augusto Cury</p>
+                                        Foto de Augusto Cury.</p>
                                     <div class="zoom">
                                         <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem3">
                                             <img src="imgs/topico02/curry.png" alt="Imagem que remete a organização" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Wikimedia Commons
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Wikimedia Commons.
                                     </p>
                                 </div>
 
@@ -919,7 +919,7 @@
                                             <img class="img-fluid" src="imgs/topico02/curry.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte:</strong> Wikimedia Commons</p>
+                                            <p class="text-secondary"><strong>Fonte:</strong> Wikimedia Commons.</p>
                                         </div>
                                     </div>
                                 </div>
