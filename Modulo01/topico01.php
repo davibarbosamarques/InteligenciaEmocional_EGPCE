@@ -54,9 +54,7 @@ include('layout/head.php');
                                                 alt="Imagem que remete a organização" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> banco de
-                                        imagens
-                                        gratuitas do canvas, 2020</p>
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Banco de imagens gratuitas do canvas, 2020</p>
                                 </div>
 
                                 <!-- Imagem 01 - MODAL (Audi)-->
@@ -189,7 +187,7 @@ include('layout/head.php');
                                         <span></span>
                                         <h3>Inteligência Intrapessoal</h3>
                                         <p>Capacidade de se relacionar consigo mesmo e lidar com os próprios sentimentos
-                                            e emoções. Relaciona-se com o autoconhecimento e com a autoestima;</p>
+                                        e emoções. Relaciona-se com o autoconhecimento e com a autoestima;</p>
                                     </section>
                                     <section class="Advanced-oitavo" id="secao">
                                         <span></span>
@@ -264,8 +262,126 @@ include('layout/head.php');
                                     lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e
                                     intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de
                                     habilidades cognitivas.</p>
-
                             </div>
+
+                        <div class="tudo">
+                            <div class="row d-flex align-items-center justify-content-between">
+                                <div class="col-sm-12 col-md-5 img-index">
+                                    <img src="imgs/img-game.png" alt="Imagem que remete a organização" id="img-1" class="w-75 wow animate__zoomIn img-apresentacao">
+                                </div>
+
+                                <div class="col-sm-12 col-md-7 mt-5">
+                                    <div class="row container mt-6 wow animate__zoomIn">
+                                        <div class="mensagem md-5">
+                                        <p class=" text-left paragrafo mb-4">
+                                       Olá [Nome_Completo],
+                                       antes de avançar para o próximo tópico clique abaixo e participe de um jogo sobre o conteúdo apresentado para solidificar o seu aprendizado.
+                                        </p>
+                                        </div> 
+                                        <!-- MODAL 1 - INSTRÇÕES DO JOGO -->
+                                    <div class="botao">
+                                        <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel"
+                                        tabindex="-1">
+                                        <div class="modal-dialog modal-dialog-centered">
+                                            <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h1 class="modal-title fs-3" id="exampleModalToggleLabel"><i class="fa-solid fa-pen-clip"></i> Instruções do
+                                                Teste</h1>
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+                                            <div class="modal-body fw-medium">
+                                                <ol id="instrucoes">
+                                                <li>Esse será um jogo para relacionar duas colunas</li>
+                                                <li>Para computador arraste SOMENTE a letra do item até o espaço vazio<br>
+                                                    Para celular toque SOMENTE na letra do item e depois no espaço vazio
+                                                </li>
+                                                <li>Se for colocado duas letras no mesmo espaço será considerada a última letra colocada</li>
+                                                <li>Se a resposta estiver correta ficara verde</li>
+                                                <li>Este teste não influenciará na avaliação final.</li>
+                                                </ol>
+                                            </div>
+                                            <div class="modal-footer d-flex justify-content-center">
+                                                <button class="btn" id="btn-continuar" data-bs-target="#exampleModalToggle2"
+                                                data-bs-toggle="modal">Continuar</button>
+                                            </div>
+                                            </div>
+                                        </div>
+                                        </div>
+
+                                        <!-- MODAL 2 - INÍCIO DO JOGO -->
+                                        <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2"
+                                        tabindex="-1">
+                                        <div class="modal-dialog modal-dialog-centered">
+                                            <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h1 class="modal-title fs-3" id="exampleModalToggleLabel2"><i class="fa-solid fa-gamepad"></i> Relacione as
+                                                colunas</h1>
+                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            </div>
+
+                                            <div class="Jogo">
+                                                <ul class="column-A">
+                                                <div id="item-A">
+                                                    <li draggable="true">A</li>Inteligência Linguística
+                                                </div>
+                                                <div id="item-A">
+                                                    <li draggable="true">B</li>Inteligência Corporal-Cinestésica
+                                                </div>
+                                                <div id="item-A">
+                                                    <li draggable="true">C</li>Inteligência Interpessoal
+                                                </div>
+                                                <div id="item-A">
+                                                    <li draggable="true">D</li>Inteligência Intrapessoal
+                                                </div>
+                                                </ul>
+
+                                                <ul class="column-B">
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="B"></li>Atribuída aos atletas, dançarinos e artistas que desenvolvem e trabalham o próprio corpo.
+                                                    </p>
+                                                </div>
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="C"></li>Capacidade de se relacionar com outras pessoas com facilidade. Envolve
+                                                    aspectos como empatia e escuta ativa e é atribuída a psicólogos, terapeutas,
+                                                    professores e a pessoas que trabalham com negociações, como vendedores e
+                                                    políticos.
+                                                    </p>
+                                                </div>
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="A"></li>Relacionada à capacidade de trabalhar com as palavras, sendo atribuída
+                                                    especialmente aos poetas.
+                                                    </p>
+                                                </div>
+                                                <div id="item-B">
+                                                    <p>
+                                                    <li class="dropzone" data-resposta="D"></li>Capacidade de se relacionar consigo mesmo e lidar com os próprios sentimentos e emoções. Relaciona-se com o autoconhecimento e com a autoestima;
+                                                    </p>
+                                                </div>
+                                                </ul>
+                                            </div>
+
+                                            <div class="modal-footer d-flex justify-content-center">
+                                                <button class="btn" id="btn-voltar" data-bs-target="#exampleModalToggle"
+                                                data-bs-toggle="modal">Voltar</button>
+                                                <button class="btn" id="btn-voltar" data-bs-dismiss="modal"
+                                            aria-label="Close">Concluído</button>
+                                            </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <div class="d-flex justify-content-center">
+                                    <button class="btn d-flex align-items-center wow animate__bounceInRight" data-wow-delay="0.4s" data-bs-target="#exampleModalToggle"
+                                        id="btn-game" data-bs-toggle="modal"><i class="fa-solid fa-puzzle-piece text-light" id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>
+                                    </div>
+                                    </div>
+                                    </div>
+                                </div>
+                        </div>
                         </div>
                     </div>
 

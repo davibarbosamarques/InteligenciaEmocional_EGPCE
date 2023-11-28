@@ -299,7 +299,6 @@
                                                         aceitando que as
                                                         outras pessoas tenham perspectivas diferentes da nossa.
                                                     </p>
-                                                </blockquote>
                                                 <figcaption class=" mt-3">
                                                     <cite title="Source Title">Osho, 2016</cite>
                                                 </figcaption>
@@ -313,7 +312,7 @@
 
                                             <figure class="text-light mt-2">
                                                 <blockquote class="blockquote">
-                                                    <p class="fs-6">
+                                                    <p class="fs-6 mt-5">
                                                         Podemos pensar no ego como sendo o nosso eu social. Ele é
                                                         formado através da nossa educação e convivência social. É a
                                                         parte de nós que racionaliza e que filtra o nosso agir,
@@ -950,7 +949,10 @@
 
         <!-- Botões de navegação -->
         <div class="text-center wow fadeIn" data-wow-delay="0.3s">
-            <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
+            <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true"><i
+                    class="fa-solid fa-chevron-left"></i> Voltar</a>
+                    
+            <a href="topico03.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
                     class="fa-solid fa-chevron-right"></i></a>
         </div>
 
