@@ -192,6 +192,7 @@
                                 </blockquote>
                             </figure>
                         </div>
+                        
                         <!-- Citação com borda verde (esquerda) -->
 
                         <div class="container ">
