@@ -103,14 +103,14 @@
                                 <div class="cards">
                                     <label id="summary">
                                         <input type="checkbox" />
-                                        <article>
+                                        <article class="article2" id="article01-topico03">
                                         <div class="front">
                                             <header>
                                             <h2>Clique para saber mais</h2>
                                             <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
                                             </header>
                                             
-                                            <p class="text-light text-left" style="opacity:1">Quando utilizamos a empatia, ou seja, quando olhamos a situação do outro do ponto de vista dele, o mais provável é que sentiremos sensações muito semelhantes às deste indivíduo, ou seja, sentimos como ele e não como nós. Obviamente, no limite, a total empatia é impossível, pois jamais seríamos capazes de compreender exatamente como outra pessoa sente ou pensa.</p>
+                                            <p class="text-light text-left mt-4">Quando utilizamos a empatia, ou seja, quando olhamos a situação do outro do ponto de vista dele, o mais provável é que sentiremos sensações muito semelhantes às deste indivíduo, ou seja, sentimos como ele e não como nós. Obviamente, no limite, a total empatia é impossível, pois jamais seríamos capazes de compreender exatamente como outra pessoa sente ou pensa.</p>
                                     
                                         </div>
                                         <div class="back">
@@ -118,9 +118,7 @@
                                             <h2 class="text-light">Clique para voltar</h2>
                                             <span class="material-symbols-outlined"></span>
                                             </header>
-                                            <div class="text-left">
-                                            <p>Contudo, ao nos colocarmos naquela situação, a partir daquele ponto de vista, podemos nos aproximar dos sentimentos daquele indivíduo de forma muito mais aproximada do que a simples simpatia nos possibilita.</p>
-                                            </div>
+                                            <p class="mt-4 text-left">Contudo, ao nos colocarmos naquela situação, a partir daquele ponto de vista, podemos nos aproximar dos sentimentos daquele indivíduo de forma muito mais aproximada do que a simples simpatia nos possibilita.</p>
                                         </div>
                                         </article>
                                     </label>
@@ -212,7 +210,7 @@
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
-                                    <article>
+                                    <article class="article2">
                                     <div class="front">
                                         <header>
                                         <h2>Clique para saber mais</h2>
@@ -223,9 +221,6 @@
                                 
                                     </div>
                                     <div class="back">
-                                        <header>
-                                        <span class="material-symbols-outlined"></span>
-                                        </header>
                                         <div class="text-left">
                                         <p>Devemos compreender que as pessoas não são o seu comportamento, mas que o comportamento dela reflete suas emoções e como esta pessoa foi ensinada ou condicionada a reagir em determinadas situações. Ficaríamos surpresos ao compreendermos através da empatia que são realmente raras as situações em que os indivíduos, especialmente aqueles com quem temos proximidade e afinidade, intencionam nos fazer qualquer tipo de mal.</p>
                                         </div>
@@ -268,23 +263,22 @@
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
-                                    <article>
+                                    <article class="article2" id="article03-topico03">
                                     <div class="front">
                                         <header>
                                         <h2>Clique para saber mais</h2>
                                         <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
                                         </header>
                                         
-                                        <p class="text-left text-light" style="opacity:1">Um líder que possui uma boa inteligência intrapessoal e interpessoal será capaz de reconhecer a singularidade de todos os seres humanos sem se colocar em qualquer posição de superioridade. Embora ele esteja ocupando uma função hierarquicamente acima de seus subordinados, ele sabe que são iguais enquanto seres humanos. Por isso, trata a todos com enorme respeito e compreensão.</p>
+                                        <p class="text-left text-light mt-5" style="opacity:1">Um líder que possui uma boa inteligência intrapessoal e interpessoal será capaz de reconhecer a singularidade de todos os seres humanos sem se colocar em qualquer posição de superioridade. Embora ele esteja ocupando uma função hierarquicamente acima de seus subordinados, ele sabe que são iguais enquanto seres humanos. Por isso, trata a todos com enorme respeito e compreensão.</p>
                                 
                                     </div>
                                     <div class="back">
                                         <header>
+                                        <h2>Clique para voltar</h2>
                                         <span class="material-symbols-outlined"></span>
                                         </header>
-                                        <div class="text-left">
-                                        <p>Por outro lado, aquele que não consegue reconhecer a si mesmo e apenas valoriza as conquistas exteriores, provavelmente não valorizará seus subordinados pelo que são, mas apenas pelos bons resultados que podem alcançar. Obviamente, os resultados são essenciais em qualquer organização, mas é preciso reconhecer que o resultado é a somatória do trabalho com o clima na organização, a qualidade de vida no trabalho e outros quesitos que talvez um indivíduo possa estar contribuindo, ainda que, do ponto de vista da produção, ele não esteja conseguindo dar seus melhores resultados.</p>
-                                        </div>
+                                        <p class="mt-2 text-left">Por outro lado, aquele que não consegue reconhecer a si mesmo e apenas valoriza as conquistas exteriores, provavelmente não valorizará seus subordinados pelo que são, mas apenas pelos bons resultados que podem alcançar. Obviamente, os resultados são essenciais em qualquer organização, mas é preciso reconhecer que o resultado é a somatória do trabalho com o clima na organização, a qualidade de vida no trabalho e outros quesitos que talvez um indivíduo possa estar contribuindo, ainda que, do ponto de vista da produção, ele não esteja conseguindo dar seus melhores resultados.</p>
                                 
                                     </div>
                                     </article>

@@ -84,20 +84,17 @@
                                 <div class="cards">
                                     <label id="summary">
                                         <input type="checkbox" />
-                                        <article class="article-topico02">
+                                        <article class="article2">
                                         <div class="front">
                                             <header>
                                             <h2>Clique para saber mais</h2>
                                             <span class="material-symbols-outlined"> <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat" style="color:white"></i> </span>
                                             </header>
                                             
-                                            <h3>Então, o que será necessário?</h3>
+                                            <h3 class="">Então, o que será necessário?</h3>
                                     
                                         </div>
                                         <div class="back">
-                                            <header>
-                                            <span class="material-symbols-outlined"></span>
-                                            </header>
                                             <div class="text-left">
                                             <p>Para atingir o maior grau de compreensão do seu próprio ser, você precisa apenas cair em si mesmo. Exige-se pouca ação e mais reflexão. Cair em si mesmo significa conseguir compreender as próprias necessidades, conhecer a si mesmo, responsabilizar- se pelo seu próprio bem-estar, descobrir o seu amor-próprio, livrar-se de toda e qualquer culpa ou padrão de autopunição e, por fim, transmutar todos os padrões negativos em positivos.</p>
                                             </div>
