@@ -31,138 +31,78 @@
 
                         <div class="tudo">
                             <div class="row d-flex align-items-center justify-content-between">
-                                <div class="col-sm-12 col-md-6 img-index">
+                                <div class="col-sm-12 col-md-5 img-index">
                                     <img src="imgs/img-comeco.png" alt="Imagem que remete a organização" id="img-1"
-                                        class="w-50 wow animate__zoomIn">
+                                        class="w-75 wow animate__zoomIn img-apresentacao">
                                 </div>
 
-                                <div class="col-sm-12 col-md-6">
-                                    <div class="container mt-4 wow animate__zoomIn">
-                                        <div class="cards">
-                                            <label id="summary">
-                                                <input type="checkbox" />
-                                                <article class="article-index">
-                                                    <div class="front">
-                                                        <header>
-                                                            <h2><strong>Clique para saber mais</strong></h2>
-                                                            <span class="material-symbols-outlined"> <i
-                                                                    class="fa-regular fa-hand-pointer fs-4"
-                                                                    style="color: #fff"></i> </span>
-                                                        </header>
-
-                                                        <p class="text-left paragrafo fs-6">
-                                                            Bem-vindo ao curso sobre <strong>Inteligência Emocional e
-                                                                Trabalho
-                                                                em
-                                                                Equipe</strong>. Se
-                                                            você, em qualquer momento da sua vida, já entrou em conflito
-                                                            com
-                                                            pessoas
-                                                            queridas, já se viu
-                                                            sem conseguir ter uma relação afetiva saudável com alguém
-                                                            importante, ou
-                                                            ainda, já teve
-                                                            problemas para se relacionar com colegas de trabalho, então
-                                                            provavelmente se beneficiará
-                                                            enormemente do conteúdo que apresentarei aqui. Além disso,
-                                                            esse
-                                                            curso
-                                                            será de grande valia
-                                                            para pessoas que já enfrentaram problemas tais como
-                                                            depressão,
-                                                            ansiedade, ataques de pânico
-                                                            e irritação constante.
-                                                        </p>
-
-                                                    </div>
-                                                    <div class="back">
-                                                        <header>
-                                                            <h2><strong>Clique para voltar</strong></h2>
-                                                            <i class="fa-regular fa-hand-pointer fs-4"
-                                                                style="color: #fff"></i>
-                                                        </header>
-                                                        <p class="text-left paragrafo fs-6">
-                                                            Durante as próximas horas, eu, <strong>Kamila
-                                                                Nascimento</strong>,
-                                                            lhe
-                                                            conduzirei em uma
-                                                            jornada de autoconhecimento que lhe permitirá conhecer a si
-                                                            mesmo e
-                                                            aos
-                                                            demais por meio de
-                                                            uma nova perspectiva. Há mais de uma década, venho estudando
-                                                            os
-                                                            seres
-                                                            humanos e seus
-                                                            relacionamentos na sociedade. Essa interação entre o “eu” e
-                                                            o
-                                                            “outro”
-                                                            tem sido o coração dos
-                                                            estudos das ciências sociais e da psicologia desde seus
-                                                            primórdios.
-                                                            A
-                                                            partir de inúmeros
-                                                            experimentos e observações, os pesquisadores buscaram
-                                                            analisar, do
-                                                            ponto
-                                                            de vista individual
-                                                            e coletivo, como essa interação ocorre e de que modo ela
-                                                            pode ser
-                                                            aperfeiçoada a fim de
-                                                            contribuir com a nossa felicidade.
-                                                        </p>
-                                                    </div>
-                                                </article>
-                                            </label>
+                                <div class="col-sm-12 col-md-7 mt-5">
+                                    <div class="row container mt-6 wow animate__zoomIn">
+                                        <div class="mensagem md-5">
+                                            <p class=" text-left paragrafo mb-4">
+                                                <strong>Olá [Nome_Completo]</strong>, bem-vindo ao curso sobre
+                                                <strong>Inteligência Emocional e
+                                                    Trabalho
+                                                    em
+                                                    Equipe</strong>. Se
+                                                você, em qualquer momento da sua vida, já entrou em conflito
+                                                com
+                                                pessoas
+                                                queridas, já se viu
+                                                sem conseguir ter uma relação afetiva saudável com alguém
+                                                importante, ou
+                                                ainda, já teve
+                                                problemas para se relacionar com colegas de trabalho, então
+                                                provavelmente se beneficiará
+                                                enormemente do conteúdo que apresentarei aqui. Além disso,
+                                                esse
+                                                curso
+                                                será de grande valia
+                                                para pessoas que já enfrentaram problemas tais como
+                                                depressão,
+                                                ansiedade, ataques de pânico
+                                                e irritação constante.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+
+                            <p class="wow fadeIn mt-4" data-wow-daley="0.3s">
+                            Durante as próximas horas, eu, <strong>Kamila Nascimento</strong>, lhe conduzirei em uma jornada de autoconhecimento que lhe permitirá conhecer a si mesmo e aos demais por meio de uma nova perspectiva. Há mais de uma década, venho estudando os seres humanos e seus relacionamentos na sociedade. Essa interação entre o “eu” e o “outro” tem sido o coração dos estudos das ciências sociais e da psicologia desde seus primórdios. A partir de inúmeros experimentos e observações, os pesquisadores buscaram analisar, do ponto de vista individual e coletivo, como essa interação ocorre e de que modo ela pode ser aperfeiçoada a fim de contribuir com a nossa felicidade.
+                            </p>
+
+
+                            <!-- Citação com borda verde (esquerda) -->
+                            <div class="bd-callout bd-callout-success m-5 wow fadeIn" data-wow-delay="0.3s">
+
+                                <!-- blockquote do bootstrap -->
+                                <figure>
+                                    <blockquote class="blockquote">
+                                        <p>
+                                            A felicidade é o aspecto mais importante deste curso. A Inteligência Emocional é um caminho que podemos utilizar para melhorar a nossa qualidade de vida e nossas relações, visto que nossos relacionamentos interferem de modo direto em nossa felicidade. Refiro-me aqui aos relacionamentos afetivos pessoais, bem como àqueles que desenvolvemos no nosso ambiente de trabalho, onde passamos praticamente um terço de nossa vida mais ativa.
+                                        </p>
+                                    </blockquote>
+                                </figure>
+                            </div>
+                            <!-- Citação com borda verde (esquerda) -->
+
+                            <p class="wow fadeIn" data-wow-delay="0.3s">
+                                Nesta primeira parte, falarei dos aspectos mais gerais da Inteligência Emocional. Apresentarei sua conceituação e abordarei os diversos tipos de inteligência e como a Inteligência Emocional se destaca como habilidade essencial para todos os indivíduos. Também lhe mostrarei de que modo você pode utilizar a Inteligência Emocional em benefício próprio, tornando sua própria vida mais feliz e positiva.
+                            </p>
+
+                            <p class="fs-6 mt-5 wow fadeIn" data-wow-delay="0.3s">
+                                <i class="fa-solid fa-arrow-right" style="color: #33833d;"></i>
+                                <strong>Kamila Nascimento</strong> é professora universitária, atuando em diversas disciplinas de Sociologia e Gestão de Pessoas. Formada em Ciência Sociais, Mestre e Doutora em Ciência Política e instrutora conteudista deste curso.
+                            </p>
+
+
                         </div>
-
-                        <!-- Citação com borda verde (esquerda) -->
-                        <div class="bd-callout bd-callout-success m-3 wow fadeIn" data-wow-delay="0.3s">
-
-                            <!-- blockquote do bootstrap -->
-                            <figure>
-                                <blockquote class="blockquote">
-                                    <p>
-                                        A felicidade é o aspecto mais importante deste curso. A Inteligência Emocional é
-                                        um caminho
-                                        que podemos utilizar para melhorar a nossa qualidade de vida e nossas relações,
-                                        visto que
-                                        nossos relacionamentos interferem de modo direto em nossa felicidade. Refiro-me
-                                        aqui aos
-                                        relacionamentos afetivos pessoais, bem como àqueles que desenvolvemos no nosso
-                                        ambiente de
-                                        trabalho, onde passamos praticamente um terço de nossa vida mais ativa.
-                                    </p>
-                                </blockquote>
-                            </figure>
-                        </div>
-                        <!-- Citação com borda verde (esquerda) -->
-
-                        <p class="wow fadeIn" data-wow-delay="0.3s">
-                            Nesta primeira parte, falarei dos aspectos mais gerais da Inteligência Emocional.
-                            Apresentarei sua conceituação e abordarei os diversos tipos de inteligência e como a
-                            Inteligência Emocional se destaca como habilidade essencial para todos os indivíduos. Também
-                            lhe mostrarei de que modo você pode utilizar a Inteligência Emocional em benefício próprio,
-                            tornando sua própria vida mais feliz e positiva.
-                        </p>
-
-                        <p class="fs-6 mt-5 wow fadeIn" data-wow-delay="0.3s">
-                            <i class="fa-solid fa-arrow-right" style="color: #33833d;"></i>
-                            <strong>Kamila Nascimento</strong> é professora universitária, atuando em diversas
-                            disciplinas de Sociologia e Gestão de Pessoas. Formada em Ciência Sociais, Mestre e Doutora
-                            em Ciência Política e instrutora conteudista deste curso.
-                        </p>
-
 
                     </div>
 
                 </div>
-
-            </div>
 
         </section>
 

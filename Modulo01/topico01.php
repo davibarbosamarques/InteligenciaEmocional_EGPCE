@@ -81,6 +81,8 @@ include('layout/head.php');
                             tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios
                             humanos (HOWARD, 1999). São elas:</p>
 
+                            <!-- STORYTELLING -->
+
                         <div class="text-center wow fadeIn" data-wow-delay="0.3s">
                             <h4><span class="badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb"
                                         style="color:white"></i> Clique para entender sobre as nove

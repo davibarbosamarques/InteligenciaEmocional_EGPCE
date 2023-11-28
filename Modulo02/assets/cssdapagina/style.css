@@ -199,6 +199,11 @@ article h3 {
   color: white;
 }
 
+[data-theme="dark"] #instrucoes li{
+  color: #000;
+  font-weight: bold
+}
+
 /* acoordeon */
 .accordion-button {
   background-image: linear-gradient(to right, #2db39e, #26a737);
