@@ -325,6 +325,112 @@
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
+                    <!-- COMEÇO DO GAME -->
+                        <div class="tudo">
+                            <div class="row d-flex align-items-center justify-content-between">
+                                <div class="col-sm-12 col-md-5 img-index">
+                                    <img src="imgs/img-game.png" alt="Imagem que remete a organização" id="img-1" class="w-75 wow animate__zoomIn img-apresentacao">
+                                </div>
+
+                                <div class="col-sm-12 col-md-7 mt-5">
+                                    <div class="row container mt-6 wow animate__zoomIn">
+                                        <div class="mensagem-game md-5">
+                                        <p class=" text-left paragrafo mb-4">
+                                       Olá [Nome_Completo],
+                                       Parabéns por chegar até aqui! Sabemos que essa página foi longa e cansativa, mas o conhecimento que você adquiriu é valioso. Que tal um desafio diferente agora? Explore o conteúdo de forma interativa e divertida através do jogo abaixo. Aproveite e mergulhe nessa experiência!
+                                        </p>
+                                        </div> 
+                                               <!-- MODAL 1 - INSTRÇÕES DO JOGO -->
+                                               <div class="modal fade" id="exampleModalToggle" aria-hidden="true"
+                            aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-3" id="exampleModalToggleLabel"><i
+                                                class="fa-solid fa-pen-clip"></i>
+                                            Instruções do Teste</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                            aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body fw-bold">
+                                        <ol id="instrucoes">
+                                            <li>Esse será um jogo para completar a frase</li>
+                                            <li>Para computador arraste a palavra até o espaço vazio<br>
+                                                Para celular toque na palavra depois no espaço vazio
+                                            </li>
+                                            <li>Se for colocado duas palavras no mesmo espaço será considerada a última
+                                                palavra colocada</li>
+                                            <li>Se a resposta estiver correta ficara verde</li>
+                                            <li>Este teste não influenciará na avaliação final.</li>
+                                        </ol>
+                                    </div>
+                                    <div class="modal-footer d-flex justify-content-center">
+                                        <button class="btn" id="btn-continuar" data-bs-target="#exampleModalToggle2"
+                                            data-bs-toggle="modal">Continuar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- MODAL 2 - INÍCIO DO JOGO -->
+                        <div class="modal fade" id="exampleModalToggle2" aria-hidden="true"
+                            aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-3" id="exampleModalToggleLabel2"><i
+                                                class="fa-solid fa-gamepad"></i>
+                                            Complete o Texto</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                            aria-label="Close"></button>
+                                    </div>
+
+                                    <div class="Jogo">
+                                        <ul class="column-A row">
+                                            <div class="col">
+                                            <div id="item-A">
+                                                <li draggable="true">comunicação assertiva</li>
+                                            </div>
+                                            <div id="item-A">
+                                                <li draggable="true">lidar bem</li>
+                                            </div>
+                                            </div>
+                                            <div class="col">
+                                            <div id="item-A">
+                                                <li draggable="true">líderes</li>
+                                            </div>
+                                            <div id="item-A">
+                                                <li draggable="true">adaptar</li>
+                                            </div>
+                                             </div>
+                                        </ul>
+
+                                        <ul class="column-B">
+                                            <p>
+                                            <div class="item-B">
+
+
+                                            A Inteligência Interpessoal é caracterizada como a capacidade de <li class="dropzone" data-resposta="lidar bem"></li> com as outras pessoas. Envolve aspectos como empatia, escuta ativa e <li class="dropzone" data-resposta="comunicação assertiva"></li>. Podemos facilmente reconhecer um indivíduo que possui uma inteligência interpessoal bem desenvolvida por sua facilidade em se <li class="dropzone" data-resposta="adaptar"></li> muito bem aos mais diversos ambientes e de se relacionar bem com os demais, sendo essa capacidade também bastante relacionada aos <li class="dropzone" data-resposta="líderes"></li>.
+                                            </div>
+                                            </p>
+
+
+                                    </div>
+                                    <div class="modal-footer d-flex justify-content-center">
+                                        <button class="btn" id="btn-voltar" data-bs-target="#exampleModalToggle"
+                                            data-bs-toggle="modal">Voltar</button>
+                                        <button class="btn" id="btn-voltar" data-bs-dismiss="modal"
+                                            aria-label="Close">Concluído</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <button class="btn d-flex align-items-center"
+                                data-bs-target="#exampleModalToggle" id="btn-game" data-bs-toggle="modal"><i
+                                    class="fa-solid fa-puzzle-piece" id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>
+                        </div>
+                                <!-- FIM DO GAME -->
                         </div>
 
                 </div>
@@ -334,11 +440,12 @@
         </section>
 
         <!-- Botões de navegação -->
-        <div class="text-center">
-            <a href="topico01.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
-                    class="fa-solid fa-chevron-right"></i></a>
+        <div class="text-center wow fadeIn" data-wow-delay="0.3s">
+            <a href="topico02.php" class="btn btn-outline-success" role="button" aria-pressed="true"> <i
+                class="fa-solid fa-chevron-left"></i> Voltar </a>
+            <a href="referencias.php" class="btn btn-outline-success" role="button" aria-pressed="true">Próximo <i
+                class="fa-solid fa-chevron-right"></i></a>
         </div>
-
         <!-- barra de progresso embaixo -->
         <div id="progress-bar"></div>
     </div>

@@ -29,8 +29,10 @@
     <!-- nosso css -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/cssdapagina/style.css">
+    <link rel="stylesheet" href="assets/cssdogame/style.css">
     <!-- link do script -->
     <script src="assets/js/script.js" defer></script>
+    <script src="assets/jsdogame/script.js" defer></script>
     <!-- link do wow.js -->
     <link rel="stylesheet" href="assets/animate.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
