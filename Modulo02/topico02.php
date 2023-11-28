@@ -275,7 +275,7 @@
                             como um caminho fundamental para o encontro com o eu.
                         </p>
 
-                        <div class="container mt-4 wow animate__zoomIn">
+                        <div class="container mt-4 wow animate__zoomIN">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
