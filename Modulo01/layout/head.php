@@ -46,5 +46,5 @@
         new WOW().init();
     </script>
 
-    <title>EGPCE | Inteligência Emocional</title>
+    <title>EGPCE | Inteligência Emocional e Trabalho em Equipe</title>
 </head>

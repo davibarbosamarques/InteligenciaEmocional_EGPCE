@@ -279,9 +279,10 @@ include('layout/head.php');
                                        Olá [Nome_Completo],
                                        antes de avançar para o próximo tópico clique abaixo e participe de um jogo sobre o conteúdo apresentado para solidificar o seu aprendizado.
                                         </p>
-                                        </div> 
-                                        <!-- MODAL 1 - INSTRÇÕES DO JOGO -->
-                                    <div class="botao">
+                                    </div>
+
+                                    <!-- MODAL 1 - INSTRÇÕES DO JOGO -->
+                                    <div>
                                         <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel"
                                         tabindex="-1">
                                         <div class="modal-dialog modal-dialog-centered">
@@ -374,6 +375,7 @@ include('layout/head.php');
                                             </div>
                                         </div>
                                         </div>
+                                        
                                     </div>
                                     </div>
                                     <div class="d-flex justify-content-center">
@@ -382,6 +384,7 @@ include('layout/head.php');
                                     </div>
                                     </div>
                                     </div>
+
                                 </div>
                         </div>
                         </div>

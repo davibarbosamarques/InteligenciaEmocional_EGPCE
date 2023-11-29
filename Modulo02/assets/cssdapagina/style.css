@@ -118,7 +118,6 @@ article .front {
   background-color: #26a737;
   border-bottom-right-radius: 2em;
   border-top-left-radius: 2em;
-  border-top-right-radius: 2em;
 }
 
 [data-theme="dark"] article .front {
@@ -319,7 +318,6 @@ article .back {
   bottom: 0;
   text-align: center;
   backface-visibility: hidden;
-  background-image: linear-gradient(to bottom, #2db39e, #26a737);
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
     rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px;

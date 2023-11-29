@@ -32,10 +32,7 @@
     <link rel="stylesheet" href="assets/cssdogame/style.css">
     <!-- link do script -->
     <script src="assets/js/script.js" defer></script>
-<<<<<<< HEAD
-=======
     <script src="assets/jsdogame/script.js" defer></script>
->>>>>>> DB
     <!-- link do wow.js -->
     <link rel="stylesheet" href="assets/animate.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
@@ -45,5 +42,5 @@
     </script>
 
 
-    <title>EGPCE | Gestão do Tempo</title>
+    <title>EGPCE | Inteligência Emocional e Trabalho em Equipe</title>
 </head>
