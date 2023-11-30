@@ -129,7 +129,6 @@ article .back {
   /* background-image: linear-gradient(to right, #26a737, #2db39e); */
   background-color: #2db39e;
   border-top-right-radius: 2em;
-  border-top-left-radius: 2em;
   border-bottom-left-radius: 2em;
 }
 
@@ -318,7 +317,7 @@ article .back {
   bottom: 0;
   text-align: center;
   backface-visibility: hidden;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
     rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px;
   padding: 24px;
@@ -420,7 +419,6 @@ article h3 {
 /* citação */
 #citacao-amarela {
   border-left: 4px solid #f0ad4e;
-  color: #3b82f6;
 }
 
 #overdue :is(var, h3) {

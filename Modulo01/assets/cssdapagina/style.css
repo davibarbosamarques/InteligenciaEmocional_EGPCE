@@ -5,7 +5,7 @@ h4 {
   font-weight: 500;
 }
 
-.link-tooltip{
+.link-tooltip {
   color: black;
   border-bottom: 2px solid #10ac44;
 }
@@ -73,6 +73,8 @@ article header {
 article header h2 {
   color: #fff;
   font-size: 20px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #fff;
 }
 
 article .front,
@@ -659,9 +661,10 @@ h1 {
   border-bottom-right-radius: 2em;
   border-top-left-radius: 2em;
   border-top-right-radius: 2em;
-  border-bottom-left-radius:0 ;
+  border-bottom-left-radius: 0;
   color: white;
 }
+
 /* Estilo para linhas extras */
 .itemlistacaderno::after {
   content: "";
@@ -673,6 +676,7 @@ h1 {
 }
 
 /* FLIP */
-.flip-up  {
+.flip-up {
   transition: 1s;
 }
+
