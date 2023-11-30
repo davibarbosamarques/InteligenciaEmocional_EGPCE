@@ -26,3 +26,8 @@ $(".st8").click(function(){
 $(".st9").click(function(){
     $(".nono").prop("checked", true);
 });
+
+// TOOLTIP 
+
+const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))

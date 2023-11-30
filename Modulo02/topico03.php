@@ -51,7 +51,7 @@
                                 <div
                                     class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                     <div class="modal-content w-50">
-                                        <img class="img-fluid" src="imgs/topico03/Figura04.jpg"
+                                        <img class="img-fluid" src="imgs/topico03/Figura04.png"
                                             alt="Alt da imagem fica aqui">
                                     </div>
                                     <div class="modal-footer w-50 bg-light justify-content-center">

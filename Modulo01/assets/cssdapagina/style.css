@@ -682,3 +682,25 @@ h1 {
 .flip-up  {
   transition: 1s;
 }
+
+/* TOOLTIP  */
+
+a.link_tooltip {
+  text-decoration: underline 3px #008442;
+  color: #008442;
+  font-weight: 300;
+}
+
+a.link_tooltip_white {
+  text-decoration: underline 3px #ffff;
+  color: #ffff;
+  font-weight: 300;
+}
+
+.custom-tooltip {
+  --bs-tooltip-bg: #008442;
+  --bs-tooltip-color: white;
+  font-weight: 200;
+  padding: 10px;
+  font-size: 1em;
+}

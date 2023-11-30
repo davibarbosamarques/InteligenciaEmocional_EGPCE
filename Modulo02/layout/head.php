@@ -33,6 +33,7 @@
     <!-- link do script -->
     <script src="assets/js/script.js" defer></script>
     <script src="assets/jsdogame/script.js" defer></script>
+    <script src="assets/jsdapagina/script.js" defer></script>
     <!-- link do wow.js -->
     <link rel="stylesheet" href="assets/animate.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
