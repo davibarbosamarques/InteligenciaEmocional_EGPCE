@@ -277,7 +277,7 @@ ul li.menu a:hover {
 }
 
 /* ESTILO BOTÃO FECHAR */
-.offcanvas-header>.btn-close {
+.offcanvas-header>#close {
     position: relative;
     bottom: 30%;
     color: #198754 !important;
@@ -1037,7 +1037,7 @@ form {
 }
 
 /* BOTÃO CLOSE MENU RESPONSIVO (Audi)*/
-[data-theme="dark"] .btn-close {
+[data-theme="dark"] #close {
     filter: invert(1) grayscale(100%) brightness(200%);
 
 }

@@ -5,10 +5,6 @@
     justify-content: space-around;
     padding: 1rem;
   }
-  .modal-header{
-    background-color: rgb(17 134 219) !important;
-    color: white;
-  }
   [data-theme="dark"] #instrucoes li{
     color: #000;
     font-weight: bold
@@ -121,7 +117,7 @@
     margin-left: 8px;
   }
   
-  #close {
+  /* #close {
     width: 25px;
     cursor: pointer;
     display: flex;
@@ -133,7 +129,7 @@
   
   #close:hover {
     color: #636060;
-  }
+  } */
   
   /* INSTRUÇÕES */
   .start_btn,

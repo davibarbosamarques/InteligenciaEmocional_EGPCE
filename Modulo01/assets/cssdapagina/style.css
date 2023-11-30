@@ -504,13 +504,11 @@ h3 {
   }
   .conteudo h3{
     font-size: 20px;
-    border: 2px solid black;
   }
 }
 @media (max-width: 650px) {
   .conteudo h3{
     font-size: 15px;
-    border: 2px solid blue;
   }
 }
 @media (max-width: 900px) {
