@@ -194,13 +194,11 @@
                         </section>
                         <!-- FIM DA CAIXA FIQUE ATENTO -->
 
-                        <h5 class="text-center mb-2 wow fadeIn" data-wow-delay="0.3s"><span class="badge bg-warning p-2"><i
-                                    class="bi bi-lightbulb-fill"></i> Assista ao vídeo de Teste de QI de 5 Perguntas
-                                que
-                                Vai Detectar o Seu
-                                Intelecto, do canal INCRÍVEL.</span></h5>
+                        <div class="container">
+                        <h5 class="text-center wow fadeIn" data-wow-delay="0.3s"><span class="badge bg-warning p-2"><i
+                                    class="bi bi-lightbulb-fill"></i> Assista ao vídeo de Teste de QI</span></h5></div>
 
-                        <div class="row d-flex align-items-center mt-4 justify-content-between">
+                        <div class="row d-flex align-items-center justify-content-between">
                             <div class="col-sm-12 col-md-6">
                                 <!-- Iframe - video -->
                                 <div class="container iframe-container wow animate__zoomIn" data-wow-delay="0.3s">
