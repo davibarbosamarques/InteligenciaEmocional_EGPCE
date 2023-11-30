@@ -27,6 +27,8 @@ h4 {
 .cards {
   display: flex;
   gap: 10px;
+
+width: auto !important;
 }
 
 article {
@@ -35,11 +37,12 @@ article {
   /* width: 100vh;
     height: auto;
     min-height: 100px; */
+
 }
 
 @media screen and (max-width: 430px) {
   .article-index {
-    height: auto;
+    height: auto !important;
     min-height: 530px;
     width: auto;
     min-width: 45vh;
@@ -64,8 +67,8 @@ article {
 @media screen and (min-width: 430px) {
   article {
     height: auto;
-    min-height: 550px;
-    width: auto;
+    min-height: 700px;
+    width: auto !important;
     min-width: 45vh;
   }
 }
@@ -73,7 +76,7 @@ article {
 @media screen and (min-width: 900px) {
   article {
     height: auto;
-    min-height: 300px;
+    min-height: 400px;
     width: auto;
     min-width: 100vh;
   }
@@ -196,11 +199,6 @@ article h3 {
   border-top-right-radius: 2em;
   border-bottom-left-radius: 0;
   color: white;
-}
-
-[data-theme="dark"] #instrucoes li{
-  color: #000;
-  font-weight: bold
 }
 
 /* acoordeon */

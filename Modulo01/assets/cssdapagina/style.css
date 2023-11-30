@@ -490,7 +490,7 @@ h3 {
 
 @media (max-width: 768px) {
   .timeline {
-    margin-bottom: 40em;
+    margin-bottom: 40em !important;
   }
 
   .conteudo {
@@ -502,9 +502,17 @@ h3 {
     width: 100%;
     /* Ocupa 100% da largura em telas menores */
   }
-
+  .conteudo h3{
+    font-size: 20px;
+    border: 2px solid black;
+  }
 }
-
+@media (max-width: 650px) {
+  .conteudo h3{
+    font-size: 15px;
+    border: 2px solid blue;
+  }
+}
 @media (max-width: 900px) {
 
   .timeline {

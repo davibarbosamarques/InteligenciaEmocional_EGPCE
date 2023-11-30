@@ -15,7 +15,14 @@
     padding-top: 5px;
     padding-bottom: 5px;
   }
-  
+  [data-theme="dark"] #instrucoes li{
+    color: #000;
+    font-weight: bold
+  }
+  .modal-header{
+    background-color: rgb(17 134 219) !important;
+    color: white;
+  }
   .column-A li {
     margin-left: 0.4rem;
     margin-right: 0.4rem;

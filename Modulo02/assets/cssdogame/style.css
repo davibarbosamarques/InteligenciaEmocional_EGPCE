@@ -5,7 +5,17 @@
     justify-content: space-around;
     padding: 1rem;
   }
-  
+  .modal-header{
+    background-color: rgb(17 134 219) !important;
+    color: white;
+  }
+  [data-theme="dark"] #instrucoes li{
+    color: #000;
+    font-weight: bold
+  }
+  .btn-close{
+    color: white !important;
+  }
   #item-B {
     align-items: start;
     padding-top: 5px;

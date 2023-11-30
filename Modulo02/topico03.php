@@ -598,7 +598,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-center">
-                                            <button class="btn d-flex align-items-center"
+                                            <button class="btn d-flex align-items-center  wow animate__bounceInRight" data-wow-delay="0.4s"
                                                 data-bs-target="#exampleModalToggle" id="btn-game"
                                                 data-bs-toggle="modal"><i class="fa-solid fa-puzzle-piece"
                                                     id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>
