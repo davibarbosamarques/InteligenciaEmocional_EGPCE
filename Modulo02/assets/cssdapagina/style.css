@@ -28,7 +28,7 @@ h4 {
   display: flex;
   gap: 10px;
 
-width: auto !important;
+  width: auto !important;
 }
 
 article {
