@@ -83,7 +83,9 @@
                             preparados para este mundo de competição e aspereza -, o ensinamento foi o de sufocar as
                             emoções, pois “homens não choram”. Mais tarde, a entrada das mulheres no mundo do trabalho
                             tendeu também a um maior endurecimento do ser frente às adversidades e ao sufocamento das
-                            emoções (OSHO, 2016).
+                            emoções <a class="link_tooltip" 
+                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                            data-bs-title="Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.">(OSHO, 2016)</a>.
                         </p>
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
@@ -349,7 +351,9 @@
                             compreender de forma diferente o que seria uma ofensa. Em algumas famílias, é ensinado às
                             crianças que elas jamais podem questionar a figura de autoridade do pai, por exemplo. Em
                             outros lares, outras pessoas são estimuladas a questionarem de forma respeitosa e a chegarem
-                            por elas mesmas suas próprias conclusões em relação ao mundo (OSHO, 2016).
+                            por elas mesmas suas próprias conclusões em relação ao mundo <a class="link_tooltip" 
+                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                            data-bs-title="Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.">(OSHO, 2016)</a>.
                         </p>
 
                         <p class="wow fadeIn" data-wow-daley="0.3s">
