@@ -79,7 +79,9 @@ include('layout/head.php');
                         <p class="wow fadeIn" data-wow-delay="0.3s">De acordo com a Teoria das Inteligências Múltiplas,
                             desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove
                             tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios
-                            humanos (HOWARD, 1999). São elas:</p>
+                            humanos <a class="link_tooltip" 
+                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                            data-bs-title="Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.">(HOWARD, 1999)</a>. São elas:</p>
 
                             <!-- STORYTELLING -->
 
@@ -219,10 +221,11 @@ include('layout/head.php');
                             tenhamos nos identificado mais com uma delas, todos os seres humanos, a princípio, possuem
                             estas nove inteligências ou a capacidade de desenvolvê-las. Obviamente, nem todos os
                             indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante
-                            singular em cada pessoa (HOWARD, 1999).</p>
+                            singular em cada pessoa <a class="link_tooltip" 
+                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                            data-bs-title="Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.">(HOWARD, 1999)</a>.</p>
 
-                        <div class="row">
-                            <div class="col-md-6">
+                            <div class="">
                                 <!-- Titulo Figura -->
                                 <div class="text-center img-01 wow animate__zoomIn">
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura de Howard
@@ -256,15 +259,6 @@ include('layout/head.php');
                                 </div>
                             </div>
                             <!-- Imagem 01 - End  (Audi)-->
-                            <div class="col-md-6 wow animate__zoomIn">
-                                <p> Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador
-                                    norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na
-                                    Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a
-                                    uma única capacidade, mas se manifesta de várias formas, como linguística,
-                                    lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e
-                                    intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de
-                                    habilidades cognitivas.</p>
-                            </div>
 
                         <div class="tudo">
                             <div class="row d-flex align-items-center justify-content-between">

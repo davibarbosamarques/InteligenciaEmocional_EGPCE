@@ -279,7 +279,7 @@ ul li.menu .txt3:hover {
 }
 
 /* ESTILO BOTÃO FECHAR */
-.offcanvas-header>.btn-close {
+.offcanvas-header>#close {
     position: relative;
     bottom: 30%;
     color: #198754 !important;
@@ -1003,10 +1003,7 @@ form {
     margin-left: 5px;
     padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
-<<<<<<< HEAD
-=======
     color: #44833D;
->>>>>>> DB
     font-weight: bold;
 }
 
@@ -1046,7 +1043,7 @@ form {
 }
 
 /* BOTÃO CLOSE MENU RESPONSIVO (Audi)*/
-[data-theme="dark"] .btn-close {
+[data-theme="dark"] #close {
     filter: invert(1) grayscale(100%) brightness(200%);
 
 }
