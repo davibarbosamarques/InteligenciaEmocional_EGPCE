@@ -34,9 +34,9 @@ h4 {
 article {
   position: relative;
   perspective: 1000px;
-  /* width: 100vh;
+  width: 100vh;
     height: auto;
-    min-height: 100px; */
+    min-height: 10px !important;
 
 }
 
@@ -81,10 +81,10 @@ article {
     min-width: 100vh;
   }
 
-  #front,
+  /* #front,
   #back {
     height: 200px;
-  }
+  } */
 }
 
 article header {
