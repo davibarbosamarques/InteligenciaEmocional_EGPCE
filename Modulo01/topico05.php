@@ -222,7 +222,9 @@
                             destrutivas, mas apenas sinais do nosso cérebro que respondem aos ambientes. Ao invés de
                             combatê-las, podemos deixar que elas simplesmente passem por nós por alguns instantes e,
                             dessa forma, conscientemente ativamos pensamentos que podem ser positivos ou simplesmente de
-                            aceitação (CURY, 2007).
+                            aceitação <a class="link_tooltip" 
+                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                            data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
                         </p>
 
                         <p class="wow fadeIn mt-4" data-wow-delay="0.3s">
@@ -247,7 +249,9 @@
                                             imediatamente em nossa mente. A Inteligência <br>
                                             Emocional significa o discernimento das nossas <br>
                                             emoções e a decisão consciente de como <br>
-                                            responder a elas (CURY, 2007).
+                                            responder a elas <a class="link_tooltip" 
+                                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                                            data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
                                         </p>
 
                                         <p>

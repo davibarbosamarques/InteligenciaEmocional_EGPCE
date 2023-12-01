@@ -492,7 +492,7 @@ h3 {
 
 @media (max-width: 768px) {
   .timeline {
-    margin-bottom: 40em;
+    margin-bottom: 40em !important;
   }
 
   .conteudo {
@@ -504,9 +504,15 @@ h3 {
     width: 100%;
     /* Ocupa 100% da largura em telas menores */
   }
-
+  .conteudo h3{
+    font-size: 20px;
+  }
 }
-
+@media (max-width: 650px) {
+  .conteudo h3{
+    font-size: 15px;
+  }
+}
 @media (max-width: 900px) {
 
   .timeline {
@@ -678,5 +684,27 @@ h1 {
 /* FLIP */
 .flip-up {
   transition: 1s;
+}
+
+/* TOOLTIP  */
+
+a.link_tooltip {
+  text-decoration: underline 3px #008442;
+  color: #008442;
+  font-weight: 300;
+}
+
+a.link_tooltip_white {
+  text-decoration: underline 3px #ffff;
+  color: #ffff;
+  font-weight: 300;
+}
+
+.custom-tooltip {
+  --bs-tooltip-bg: #008442;
+  --bs-tooltip-color: white;
+  font-weight: 200;
+  padding: 10px;
+  font-size: 1em;
 }
 

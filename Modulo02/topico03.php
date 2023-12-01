@@ -51,7 +51,7 @@
                                 <div
                                     class="modal-dialog modal-dialog-centered modal-lg d-flex justify-content-center flex-column">
                                     <div class="modal-content w-50">
-                                        <img class="img-fluid" src="imgs/topico03/Figura04.jpg"
+                                        <img class="img-fluid" src="imgs/topico03/Figura04.png"
                                             alt="Alt da imagem fica aqui">
                                     </div>
                                     <div class="modal-footer w-50 bg-light justify-content-center">
@@ -598,7 +598,7 @@
                                             </div>
                                         </div>
                                         <div class="d-flex justify-content-center">
-                                            <button class="btn d-flex align-items-center"
+                                            <button class="btn d-flex align-items-center  wow animate__bounceInRight" data-wow-delay="0.4s"
                                                 data-bs-target="#exampleModalToggle" id="btn-game"
                                                 data-bs-toggle="modal"><i class="fa-solid fa-puzzle-piece"
                                                     id="puzzle"></i>CLIQUE E TESTE SEUS CONHECIMENTOS</i></button>

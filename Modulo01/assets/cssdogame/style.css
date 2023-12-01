@@ -15,7 +15,10 @@
     padding-top: 5px;
     padding-bottom: 5px;
   }
-  
+  [data-theme="dark"] #instrucoes li{
+    color: #000;
+    font-weight: bold
+  }
   .column-A li {
     margin-left: 0.4rem;
     margin-right: 0.4rem;
@@ -113,7 +116,7 @@
     margin-left: 8px;
   }
   
-  #close{
+  /* #close{
     width: 25px;
     cursor: pointer;
     display: flex;
@@ -125,7 +128,7 @@
   
   #close:hover{
     color: #636060;
-  }
+  } */
   
   /* INSTRUÇÕES */
   .start_btn,

@@ -173,7 +173,9 @@
                                     diante de
                                     emoções aparentemente negativas, reagir de forma positiva, evitando desencadear
                                     pensamentos
-                                    obsessivos e nocivos ao indivíduo (CURY, 2007).
+                                    obsessivos e nocivos ao indivíduo <a class="link_tooltip" 
+                                    data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
+                                    data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
                                 </p>
                             </div>
 
@@ -894,7 +896,6 @@
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
                         <div class="row d-flex align-items-center">
-                            <div class="col-sm-12 col-md-6">
                                 <!-- IMAGEM NO SITE  -->
 
                                 <div class="text-center img-01">
@@ -925,15 +926,7 @@
                                 <!-- Imagem - End-->
 
                                 <!-- FIM DA IMAGEM NO SITE  -->
-                            </div>
-                            <div class="col-sm-12 col-md-6">
-                                <p>
-                                    Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a
-                                    mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor,
-                                    suas palestras são aclamadas por proporcionarem uma visão única e profunda do
-                                    funcionamento da mente e da inteligência emocional.
-                                </p>
-                            </div>
+                        
                         </div>
 
                     </div>
