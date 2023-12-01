@@ -117,7 +117,7 @@ include('layout/head.php');
                         <!-- FIM DA CAIXA DE TEXTO CURIOSIDADE -->
 
 
-                        <div class="container">
+                        <div class="container wow animate__zoomIn">
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
