@@ -145,19 +145,41 @@
                             </div>
                             <!-- Citação com borda verde (esquerda) -->
 
-                            <p class="wow fadeIn" data-wow-delay="0.3s text-center">Entre os sinais muito comuns de pessoas que não são emocionalmente inteligentes podemos destacar:</p>
+                    <!-- Parágrafo com a biblioteca de animação  -->
+                    <p class="wow fadeIn d-flex justify-content-center" data-wow-delay="0.3s"> <strong>
+                    Entre os sinais muito comuns de pessoas que não são emocionalmente inteligentes podemos destacar:
+                        </strong>
+                    </p>
+                    <!--  Fim do Parágrafo com a biblioteca de animação -->
 
-                            <div class="processo">
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.5s">Egocentrismo;</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.3s">Estresse</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="1.1s">Depressão</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.9s">Ansiedade</div>
-                            </div>
-                            <div class="processo">
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.7s">Irritabilidade sem motivo relevante;</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.5s">Dificuldades em controlar seus impulsos</div>
-                                <div class="ex mb-5 wow animate__backInDown" data-wow-delay="0.3s">Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.</div>
-                            </div>
+
+                    <div class="apresentacao">
+                        <div class="img_apresentacao wow animate__zoomIn">
+                            <img src="imgs-pessoas/pessoa.png" class="w-100" alt="">
+                        </div>
+                        <div>
+                            <!-- lista ordenada  -->
+                            <ul class="wow fadeIn" data-wow-delay="0.3s" id="txt_final">
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-1-circle"></i> Egocentrismo;
+                                </li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-2-circle"></i> Irritabilidade sem motivo relevante;
+                                </li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-3-circle"></i> Dificuldades em controlar seus impulsos;
+                                </li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-4-circle"></i> 
+                                Estresse;
+                                </li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-5-circle"></i> 
+                                Depressão;
+                                </li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-6-circle"></i> 
+                                Ansiedade;
+                                </li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.5s"><i class="bi bi-7-circle"></i> Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.</li>
+                            </ul>
+                            <!-- fim da lista ordenada  -->
+                        </div>
+                    </div>
 
                             <p class="wow fadeIn" data-wow-delay="0.3s">Se você reconheceu um ou vários desses sinais em si mesmo, não se preocupe. A boa notícia é que tudo aquilo que envolve a nossa própria mente e as nossas próprias emoções podem ser modificado por nós mesmos. Isso significa que mesmo que você tenha se identificado com várias dessas características, não deve se sentir mal, mas deve mudar a situação atual em direção a comportamentos que sejam mais positivos. Aliás, uma das características das pessoas que são emocionalmente inteligentes é sua disposição para mudança.</p>
                             </div>
