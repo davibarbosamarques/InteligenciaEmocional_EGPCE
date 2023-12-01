@@ -87,8 +87,7 @@ include('layout/head.php');
 
                         <div class="text-center wow fadeIn" data-wow-delay="0.3s">
                             <h4><span class="badge bg-warning text-dark-ênfase"><i class="fa fa-lightbulb"
-                                        style="color:white"></i> Clique para entender sobre as nove
-                                    Inteligências.</span></h4>
+                                        style="color:white"></i> Clique para ver os tipos de Inteligências.</span></h4>
                         </div>
                         <div class="storytelling wow fadeIn" data-wow-delay="0.3s">
                             <div class="timeline">
@@ -289,8 +288,8 @@ include('layout/head.php');
                                             <div class="modal-body fw-medium">
                                                 <ol id="instrucoes">
                                                 <li>Esse será um jogo para relacionar duas colunas</li>
-                                                <li>Para computador arraste SOMENTE a letra do item até o espaço vazio<br>
-                                                    Para celular toque SOMENTE na letra do item e depois no espaço vazio
+                                                <li>Para computador arraste a letra do item até o espaço vazio<br>
+                                                    Para celular toque na letra do item e depois no espaço vazio
                                                 </li>
                                                 <li>Se for colocado duas letras no mesmo espaço será considerada a última letra colocada</li>
                                                 <li>Se a resposta estiver correta ficara verde</li>
