@@ -175,7 +175,7 @@
                                 <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.3s"><i class="bi bi-6-circle"></i> 
                                 Ansiedade;
                                 </li>
-                                <li class="wow animate__zoomIn texto_apresentacao_lista" data-wow-delay="0.5s"><i class="bi bi-7-circle"></i> Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.</li>
+                                <li class="wow animate__zoomIn texto_apresentacao_lista mb-10" data-wow-delay="0.5s"><i class="bi bi-7-circle"></i> Dificuldade de manter relacionamentos ou conhecer pessoas novas e indiferença com relação aos demais.</li>
                             </ul>
                             <!-- fim da lista ordenada  -->
                         </div>
