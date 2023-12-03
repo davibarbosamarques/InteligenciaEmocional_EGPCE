@@ -375,7 +375,7 @@
                             <div class="cards">
                                 <label id="summary">
                                     <input type="checkbox" />
-                                    <article class="article2" id="article03-topico03">
+                                    <article class="article2"  id="article01-topico03">
                                         <div class="front">
                                             <header>
                                                 <h2>Clique para saber mais</h2>
@@ -384,7 +384,7 @@
                                                         style="color:white"></i> </span>
                                             </header>
 
-                                            <p class="text-left text-light mt-5" style="opacity:1">Um líder que possui
+                                            <p class="text-left text-light" style="opacity:1">Um líder que possui
                                                 uma boa inteligência intrapessoal e interpessoal será capaz de
                                                 reconhecer a singularidade de todos os seres humanos sem se colocar em
                                                 qualquer posição de superioridade. Embora ele esteja ocupando uma função
@@ -398,7 +398,7 @@
                                                 <h2>Clique para voltar</h2>
                                                 <span class="material-symbols-outlined"></span>
                                             </header>
-                                            <p class="mt-2 text-left">Por outro lado, aquele que não consegue reconhecer
+                                            <p class="text-left fs-6">Por outro lado, aquele que não consegue reconhecer
                                                 a si mesmo e apenas valoriza as conquistas exteriores, provavelmente não
                                                 valorizará seus subordinados pelo que são, mas apenas pelos bons
                                                 resultados que podem alcançar. Obviamente, os resultados são essenciais

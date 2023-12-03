@@ -35,11 +35,14 @@ article {
   position: relative;
   perspective: 1000px;
   width: 100vh;
-    height: auto;
-    min-height: 10px !important;
+  /* height: auto; */
+  min-height: 300px !important;
 
 }
-
+/* #cards-maior{
+  min-height: 350px !important;
+  border: 3px solid black;
+} */
 @media screen and (max-width: 430px) {
   .article-index {
     height: auto !important;
@@ -63,7 +66,20 @@ article {
   }
 
 }
-
+@media screen and (max-width: 900px){
+  .cards{
+    height: auto;
+    min-height: 400px;
+    width: 100%;
+    min-width: 50vh;
+  }
+  .front, .back{
+    height: auto;
+    min-height: 400px;
+    width: 100%;
+    min-width: 50vh;
+  }
+}
 @media screen and (min-width: 430px) {
   article {
     height: auto;
