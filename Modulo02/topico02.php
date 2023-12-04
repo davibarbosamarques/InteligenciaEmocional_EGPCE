@@ -173,9 +173,7 @@
                                     diante de
                                     emoções aparentemente negativas, reagir de forma positiva, evitando desencadear
                                     pensamentos
-                                    obsessivos e nocivos ao indivíduo <a class="link_tooltip" 
-                                    data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                                    data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
+                                    obsessivos e nocivos ao indivíduo (CURY, 2007).
                                 </p>
                             </div>
 
@@ -895,10 +893,10 @@
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
-                        <div class="row d-flex align-items-center">
+                        <div class="row">
                                 <!-- IMAGEM NO SITE  -->
 
-                                <div class="text-center img-01">
+                                <div class="text-center col-md-6 img-01">
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 03:</strong>
                                         Foto de Augusto Cury.</p>
                                     <div class="zoom">
@@ -927,6 +925,11 @@
 
                                 <!-- FIM DA IMAGEM NO SITE  -->
                         
+                                <div class="col-md-6 d-flex align-items-center">
+                                <div class="destaque wow fadeInRight">
+                                    <p class="" data-wow-delay="0.5s">Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.</p>
+                                </div>
+                            </div>
                         </div>
 
                     </div>

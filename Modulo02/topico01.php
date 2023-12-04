@@ -128,9 +128,7 @@
                                 </section>
                             <!-- FIM DA CAIXA IMPORTANTE -->
 
-                            <p class="wow fadeIn" data-wow-delay="0.3s">Quando nos reconhecemos, nós aceitamos e mudamos o nosso padrão mental em direção a atitudes mais positivas, e o equilíbrio torna-se parte natural no nosso ser. Não precisamos nos esforçar permanentemente, pois a transmutação da realidade significa o encontro com o seu ser verdadeiro, aquele que não exige de nós qualquer esforço <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.">(OSHO, 2016)</a>.</p>
+                            <p class="wow fadeIn" data-wow-delay="0.3s">Quando nos reconhecemos, nós aceitamos e mudamos o nosso padrão mental em direção a atitudes mais positivas, e o equilíbrio torna-se parte natural no nosso ser. Não precisamos nos esforçar permanentemente, pois a transmutação da realidade significa o encontro com o seu ser verdadeiro, aquele que não exige de nós qualquer esforço (OSHO, 2016).</p>
 
                             <p class="wow fadeIn" data-wow-delay="0.3s">Mesmo diante de adversidades e mudanças, tenderemos sempre a despertar em nós padrões emocionais que não nos limitam, mas nos empoderam. Conforme mencionei no módulo I, o mundo muda constantemente e independentemente da nossa vontade. Pessoas entram e saem de nossas vidas. Empregos e trabalhos nos desafiam de forma constante. Sendo assim, não existe qualquer razão para assumirmos uma atitude de resistência, pelo contrário, podemos ver todos os eventos diários simplesmente como oportunidades.</p>
                             <!-- Citação com borda verde (esquerda) -->
@@ -153,7 +151,7 @@
                     <!--  Fim do Parágrafo com a biblioteca de animação -->
 
 
-                    <div class="apresentacao">
+                    <div class="apresentacao mb-5">
                         <div class="img_apresentacao wow animate__zoomIn">
                             <img src="imgs-pessoas/pessoa.png" class="w-100" alt="">
                         </div>

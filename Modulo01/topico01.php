@@ -79,9 +79,7 @@ include('layout/head.php');
                         <p class="wow fadeIn" data-wow-delay="0.3s">De acordo com a Teoria das Inteligências Múltiplas,
                             desenvolvida pelo psicólogo Howard Gardner, na década de 80, os seres humanos possuem nove
                             tipos de inteligência, as quais podem ser utilizadas em diferentes situações e desafios
-                            humanos <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.">(HOWARD, 1999)</a>. São elas:</p>
+                            humanos (HOWARD, 1999). São elas:</p>
 
                             <!-- STORYTELLING -->
 
@@ -220,13 +218,11 @@ include('layout/head.php');
                             tenhamos nos identificado mais com uma delas, todos os seres humanos, a princípio, possuem
                             estas nove inteligências ou a capacidade de desenvolvê-las. Obviamente, nem todos os
                             indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante
-                            singular em cada pessoa <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.">(HOWARD, 1999)</a>.</p>
+                            singular em cada pessoa (HOWARD, 1999).</p>
 
-                            <div class="">
+                            <div class="row">
                                 <!-- Titulo Figura -->
-                                <div class="text-center img-01 wow animate__zoomIn">
+                                <div class="text-center col-md-6 img-01 wow animate__zoomIn mb-5">
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura de Howard
                                             Gardner</strong></p>
                                     <div class="zoom">
@@ -239,6 +235,11 @@ include('layout/head.php');
                                             target="blank"
                                             href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/">Site
                                             Inteligencia de Vida</a></p>
+                                </div>
+
+                                <div class="col-md-6 d-flex align-items-center mb-5">
+                                <div class="destaque wow fadeInRight">
+                                    <p class="" data-wow-delay="0.5s">Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.</p>
                                 </div>
                             </div>
 

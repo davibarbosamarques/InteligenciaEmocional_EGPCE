@@ -198,7 +198,7 @@
                         <div class="container ">
                             <div class="row d-flex justify-content-between align-items-center">
                                 <!-- IMAGEM NO SITE  -->
-                                    <div class="text-center img-01 wow animate__zoomIn">
+                                    <div class="text-center img-01 wow animate__zoomIn col-md-6">
                                         <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
                                             Foto do livro do guru Osho</p>
                                         <div class="zoom">
@@ -229,6 +229,12 @@
                                         </div>
                                     </div>
                                     <!-- Imagem - End-->
+
+                                    <div class="col-md-6 d-flex align-items-center mb-5">
+                                <div class="destaque wow fadeInRight">
+                                    <p class="" data-wow-delay="0.5s">Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.</p>
+                                </div>
+                            </div>
                             </div>
                         </div>
 

@@ -162,9 +162,7 @@
                             especialmente as inteligências ligadas à lógica matemática e
                             linguística, as quais costumam
                             ser muito importantes para as habilidades profissionais e técnicas
-                            <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.">(OSHO, 2016)</a>.
+                            (OSHO, 2016).
                         </p>
 
                         <!-- CAIXA DE TEXTO FIQUE-ATENTO -->
@@ -462,9 +460,7 @@
                             negativo a fim de viver apenas as emoções positivas. Essa atitude nos levaria a
                             ignorar
                             parte da nossa existência e, na verdade, logo em seguida ela voltaria a se
-                            apresentar <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
+                            apresentar (CURY, 2007).
                         </p>
 
                         <!-- CAIXA DE TEXTO FIQUE-ATENTO -->

@@ -83,9 +83,7 @@
                             preparados para este mundo de competição e aspereza -, o ensinamento foi o de sufocar as
                             emoções, pois “homens não choram”. Mais tarde, a entrada das mulheres no mundo do trabalho
                             tendeu também a um maior endurecimento do ser frente às adversidades e ao sufocamento das
-                            emoções <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.">(OSHO, 2016)</a>.
+                            emoções (OSHO, 2016).
                         </p>
 
                         <!-- CAIXA DE TEXTO IMPORTANTE -->
@@ -224,9 +222,7 @@
                             destrutivas, mas apenas sinais do nosso cérebro que respondem aos ambientes. Ao invés de
                             combatê-las, podemos deixar que elas simplesmente passem por nós por alguns instantes e,
                             dessa forma, conscientemente ativamos pensamentos que podem ser positivos ou simplesmente de
-                            aceitação <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
+                            aceitação (CURY, 2007).
                         </p>
 
                         <p class="wow fadeIn mt-4" data-wow-delay="0.3s">
@@ -251,9 +247,7 @@
                                             imediatamente em nossa mente. A Inteligência <br>
                                             Emocional significa o discernimento das nossas <br>
                                             emoções e a decisão consciente de como <br>
-                                            responder a elas <a class="link_tooltip" 
-                                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                                            data-bs-title="Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.">(CURY, 2007)</a>.
+                                            responder a elas (CURY, 2007).
                                         </p>
 
                                         <p>
@@ -351,9 +345,7 @@
                             compreender de forma diferente o que seria uma ofensa. Em algumas famílias, é ensinado às
                             crianças que elas jamais podem questionar a figura de autoridade do pai, por exemplo. Em
                             outros lares, outras pessoas são estimuladas a questionarem de forma respeitosa e a chegarem
-                            por elas mesmas suas próprias conclusões em relação ao mundo <a class="link_tooltip" 
-                            data-bs-custom-class="custom-tooltip" data-bs-placement="right" data-bs-toggle="tooltip"
-                            data-bs-title="Osho, também conhecido como Bhagwan Shree Rajneesh, foi um líder espiritual indiano (1931–1990). Ele enfatizava a meditação, a consciência e a liberdade pessoal. Fundou a comunidade Rajneeshpuram nos EUA na década de 1980, mas enfrentou controvérsias e problemas legais. Sua abordagem única para espiritualidade atraiu seguidores, e seus discursos foram compilados em numerosos livros. Osho faleceu em 1990, mas suas ideias continuam a influenciar a espiritualidade contemporânea.">(OSHO, 2016)</a>.
+                            por elas mesmas suas próprias conclusões em relação ao mundo (OSHO, 2016).
                         </p>
 
                         <p class="wow fadeIn" data-wow-daley="0.3s">
