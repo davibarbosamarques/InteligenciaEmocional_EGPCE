@@ -199,7 +199,7 @@
                             <div class="row d-flex justify-content-between align-items-center destaque">
                                 <!-- IMAGEM NO SITE  -->
                                     <div class="text-center img-01 wow animate__zoomIn col-md-6">
-                                        <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 1:</strong>
+                                        <p class="TituloFigura FonteMenor text-secondary p-2 text-white"><strong></strong>
                                             Foto do livro do guru Osho</p>
                                         <div class="zoom">
                                             <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem5">
@@ -207,7 +207,7 @@
                                                     id="img-1" class="w-50">
                                             </a>
                                         </div>
-                                        <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a
+                                        <p class="FonteFigura FonteMenor text-secondary text-white"><strong>Fonte:</strong> <a
                                                 href="https://www.amazon.com.br/Autobiografia-Um-M%C3%ADstico-Espiritualmente-Incorreto/dp/8542208269"
                                                 class="aref" target="_blank">Amazon</a></p>
                                     </div>

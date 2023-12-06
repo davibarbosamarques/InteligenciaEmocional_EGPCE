@@ -907,14 +907,14 @@
                                 <!-- IMAGEM NO SITE  -->
 
                                 <div class="text-center col-md-6 img-01">
-                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 03:</strong>
+                                    <p class="TituloFigura FonteMenor text-secondary p-2 text-white"><strong>Figura 03:</strong>
                                         Foto de Augusto Cury.</p>
                                     <div class="zoom">
                                         <a href="..." data-bs-toggle="modal" data-bs-target="#Imagem3">
                                             <img src="imgs/topico02/curry.png" alt="Imagem que remete a organização" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Wikimedia Commons.
+                                    <p class="FonteFigura FonteMenor text-secondary text-white"><strong>Fonte:</strong> Wikimedia Commons.
                                     </p>
                                 </div>
 
@@ -927,7 +927,8 @@
                                             <img class="img-fluid" src="imgs/topico02/curry.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer w-75 bg-light justify-content-center">
-                                            <p class="text-secondary"><strong>Fonte:</strong> Wikimedia Commons.</p>
+                                        <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura 03:</strong>
+                                        Foto de Augusto Cury.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -938,7 +939,7 @@
                                 <div class="col-md-6 d-flex align-items-center">
                                 <div class="wow fadeInRight">
                                 <h4 class="mb-3 mt-3 text-center">Explorando Grandes Mentes</h4>
-                                    <p class="" data-wow-delay="0.5s">Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.</p>
+                                    <p class="" data-wow-delay="0.3s">Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.</p>
                                 </div>
                             </div>
                         </div>

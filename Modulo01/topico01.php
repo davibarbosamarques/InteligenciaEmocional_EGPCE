@@ -223,7 +223,7 @@ include('layout/head.php');
                             <div class="row destaque mb-4">
                                 <!-- Titulo Figura -->
                                 <div class="text-center col-md-6 img-01 wow animate__zoomIn mb-5">
-                                    <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura de Howard
+                                    <p class="TituloFigura FonteMenor text-secondary p-2 text-white"><strong>Figura de Howard
                                             Gardner</strong></p>
                                     <div class="zoom">
                                         <a href="gardner" data-bs-toggle="modal" data-bs-target="#gardner">
@@ -231,7 +231,7 @@ include('layout/head.php');
                                                 alt="Imagem que remete a organização" id="img-1">
                                         </a>
                                     </div>
-                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a
+                                    <p class="FonteFigura FonteMenor text-secondary text-white"><strong>Fonte:</strong> <a
                                             target="blank"
                                             href="https://www.inteligenciadevida.com.br/pt/conteudo/quem-e-howard-gardner-especialistas-em-educacao/">Site
                                             Inteligencia de Vida</a></p>
