@@ -154,6 +154,11 @@
                     <div class="apresentacao mb-5">
                         <div class="img_apresentacao wow animate__zoomIn">
                             <img src="imgs-pessoas/pessoa.png" class="w-100" alt="">
+                            <div class="text-center">
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a
+                                            target="blank"
+                                            href="https://br.freepik.com/vetores-premium/conceito-de-atividade-de-negocios_35481750.htm"> Imagem retirada do Freepik</a></p>
+                            </div>
                         </div>
                         <div>
                             <!-- lista ordenada  -->

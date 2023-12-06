@@ -266,6 +266,11 @@ include('layout/head.php');
                             <div class="row d-flex align-items-center justify-content-between">
                                 <div class="col-sm-12 col-md-5 img-index">
                                     <img src="imgs/img-game.png" alt="Imagem que remete a organização" id="img-1" class="w-75 wow animate__zoomIn img-apresentacao">
+                                    <div class="text-center">
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> <a
+                                            target="blank"
+                                            href="https://br.freepik.com/vetores-premium/conceito-de-atividade-de-negocios_35481750.htm"> Imagem retirada do Freepik</a></p>
+                                    </div>
                                 </div>
 
                                 <div class="col-sm-12 col-md-7 mt-5">

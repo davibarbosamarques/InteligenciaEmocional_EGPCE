@@ -179,6 +179,9 @@
 
                             <div class="col-sm-12 col-md-6 img wow fadeInRight" data-wow-delay="0.3s">
                                 <img src="imgs-pessoas/Group 2.png" alt="" class="w-100">
+                                <div class="text-center">
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Imagem retirada do Freepik</p>
+                                </div>
                             </div>
                         </div>
 
@@ -483,6 +486,9 @@
                         <div class="row d-flex align-items-center">
                             <div class="col-sm-12 col-md-6 img wow fadeInLeft" data-wow-delay="0.3s">
                                 <img src="imgs-pessoas/Group 6.png" class="w-75" alt="">
+                                <div class="text-center">
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Imagem retirada do Freepik</p>
+                                </div>
                             </div>
 
                             <div class="col-sm-12 col-md-6 wow fadeInRight" data-wow-delay="0.3s">
@@ -738,6 +744,9 @@
 
                             <div class="col-sm-12 col-md-6 wow fadeInRight" data-wow-daley="0.3s">
                                 <img src="imgs-pessoas/Group 4.png" alt="" class="w-100">
+                                                                <div class="text-center">
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Imagem retirada do Freepik</p>
+                                </div>
                             </div>
                         </div>
 
@@ -763,6 +772,7 @@
                         <div class="row d-flex align-items-center justify-content-between">
                             <div class="col-sm-12 col-md-6 wow fadeInLeft" data-wow-daley="0.3s">
                                 <img src="imgs-pessoas/Group 11.png" alt="" class="w-100">
+                                    <p class="FonteFigura FonteMenor text-secondary"><strong>Fonte:</strong> Imagem retirada do Freepik</p>
                             </div>
 
                             <div class="col-sm-12 col-md-6 wow fadeInRight" data-wow-daley="0.3s">
