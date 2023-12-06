@@ -893,7 +893,7 @@
                         </section>
                         <!-- FIM DA CAIXA IMPORTANTE -->
 
-                        <div class="row">
+                        <div class="row destaque">
                                 <!-- IMAGEM NO SITE  -->
 
                                 <div class="text-center col-md-6 img-01">
@@ -926,7 +926,8 @@
                                 <!-- FIM DA IMAGEM NO SITE  -->
                         
                                 <div class="col-md-6 d-flex align-items-center">
-                                <div class="destaque wow fadeInRight">
+                                <div class="wow fadeInRight">
+                                <h4 class="mb-3 mt-3 text-center">Explorando Grandes Mentes</h4>
                                     <p class="" data-wow-delay="0.5s">Augusto Cury é uma verdadeira referência quando se trata de conhecimento sobre a mente humana e emoções. Como renomado médico psiquiatra, psiciterapeuta e escritor, suas palestras são aclamadas por proporcionarem uma visão única e profunda do funcionamento da mente e da inteligência emocional.</p>
                                 </div>
                             </div>

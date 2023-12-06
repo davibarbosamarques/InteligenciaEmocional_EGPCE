@@ -220,14 +220,14 @@ include('layout/head.php');
                             indivíduos possuem todas na mesma proporção, afinal, elas se apresentam de forma bastante
                             singular em cada pessoa (HOWARD, 1999).</p>
 
-                            <div class="row">
+                            <div class="row destaque mb-4">
                                 <!-- Titulo Figura -->
                                 <div class="text-center col-md-6 img-01 wow animate__zoomIn mb-5">
                                     <p class="TituloFigura FonteMenor text-secondary p-2"><strong>Figura de Howard
                                             Gardner</strong></p>
                                     <div class="zoom">
                                         <a href="gardner" data-bs-toggle="modal" data-bs-target="#gardner">
-                                            <img class="w-75" src="imgs/topico01/gardner.webp"
+                                            <img class="w-100" src="imgs/topico01/gardner.webp"
                                                 alt="Imagem que remete a organização" id="img-1">
                                         </a>
                                     </div>
@@ -238,7 +238,8 @@ include('layout/head.php');
                                 </div>
 
                                 <div class="col-md-6 d-flex align-items-center mb-5">
-                                <div class="destaque wow fadeInRight">
+                                <div class="wow fadeInRight">
+                                <h4 class="mb-3 mt-3 text-center">Explorando Grandes Mentes</h4>
                                     <p class="" data-wow-delay="0.5s">Howard Gardner, nascido em 11 de julho de 1943, é um psicólogo e educador norte-americano reconhecido por sua teoria das inteligências múltiplas. Professor na Universidade de Harvard, Gardner propôs que a inteligência não pode ser reduzida a uma única capacidade, mas se manifesta de várias formas, como linguística, lógico-matemática, musical, espacial, corporal-cinestésica, interpessoal e intrapessoal. Sua obra tem influenciado a educação e a compreensão da diversidade de habilidades cognitivas.</p>
                                 </div>
                             </div>
@@ -258,6 +259,7 @@ include('layout/head.php');
                                     </div>
                                 </div>
                             </div>
+                        </div>
                             <!-- Imagem 01 - End  (Audi)-->
 
                         <div class="tudo">

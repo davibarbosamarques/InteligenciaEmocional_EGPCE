@@ -35,8 +35,8 @@ article {
   position: relative;
   perspective: 1000px;
   width: 100vh;
-  /* height: auto; */
-  min-height: 300px !important;
+  height: auto;
+  min-height: 300px;
 
 }
 /* #cards-maior{
@@ -83,7 +83,7 @@ article {
 @media screen and (min-width: 430px) {
   article {
     height: auto;
-    min-height: 700px;
+    min-height: 550px;
     width: auto !important;
     min-width: 45vh;
   }
@@ -92,7 +92,7 @@ article {
 @media screen and (min-width: 900px) {
   article {
     height: auto;
-    min-height: 400px;
+    min-height: 300px;
     width: auto;
     min-width: 100vh;
   }
